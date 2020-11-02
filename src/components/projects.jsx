@@ -9,7 +9,7 @@ export default class Projects extends Component {
 						<div className="row">
 							<div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
 								<span className="heading-meta">My Work</span>
-								<h2 className="colorlib-heading animate-box">Recent Projects</h2>
+								<h2 className="colorlib-heading animate-box">Next Workshops</h2>
 							</div>
 						</div>
 						<div className="row">
@@ -17,12 +17,12 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-1.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 01</a></h3>
-											<span>Website</span>
+											<h3><a href="work.html">Become a Test Analyst in 1 month.</a></h3>
+											<span>Webinar</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+												<span><a href="#"><i className="fa icon-time" /> 8hs </a></span>
+												<span><a href="#"><i className="fa fa-calendar" /> 01/02/2021</a></span>
+												<span><a href="#"><i className="fa fa-dollar" /> 600</a></span>
 											</p>
 										</div>
 									</div>
@@ -32,12 +32,12 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-2.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 02</a></h3>
-											<span>Animation</span>
+											<h3><a href="work.html">Introduction to Test Engineering.</a></h3>
+											<span>Webinar</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+												<span><a href="#"><i className="fa icon-time" /> 8hs </a></span>
+												<span><a href="#"><i className="fa fa-calendar" /> 01/02/2021</a></span>
+												<span><a href="#"><i className="fa fa-dollar" /> 649</a></span>
 											</p>
 										</div>
 									</div>
@@ -47,12 +47,12 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-3.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 03</a></h3>
-											<span>Illustration</span>
+											<h3><a href="work.html">Advanced Test Engineering.</a></h3>
+											<span>Webinar</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+												<span><a href="#"><i className="fa icon-time" /> 8hs </a></span>
+												<span><a href="#"><i className="fa fa-calendar" /> 01/02/2021</a></span>
+												<span><a href="#"><i className="fa fa-dollar" /> 649</a></span>
 											</p>
 										</div>
 									</div>
@@ -62,12 +62,12 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-4.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 04</a></h3>
-											<span>Application</span>
+											<h3><a href="work.html">QA job hunting essentials.</a></h3>
+											<span>Webinar</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+												<span><a href="#"><i className="fa icon-time" /> 8hs </a></span>
+												<span><a href="#"><i className="fa fa-calendar" /> 01/02/2021</a></span>
+												<span><a href="#"><i className="fa fa-dollar" /> 649</a></span>
 											</p>
 										</div>
 									</div>
@@ -77,12 +77,12 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-5.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 05</a></h3>
-											<span>Graphic, Logo</span>
+											<h3><a href="work.html">Placeholder1</a></h3>
+											<span>Webinar</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+												<span><a href="#"><i className="fa icon-time" /> 8hs </a></span>
+												<span><a href="#"><i className="fa fa-calendar" /> 01/02/2021</a></span>
+												<span><a href="#"><i className="fa fa-dollar" /> 649</a></span>
 											</p>
 										</div>
 									</div>
@@ -92,12 +92,12 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-6.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 06</a></h3>
-											<span>Web Design</span>
+											<h3><a href="work.html">Placeholder2</a></h3>
+											<span>Webinar</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+												<span><a href="#"><i className="fa icon-time" /> 8hs </a></span>
+												<span><a href="#"><i className="fa fa-calendar" /> 23/11/2020</a></span>
+												<span><a href="#"><i className="fa fa-dollar" /> 630</a></span>
 											</p>
 										</div>
 									</div>
@@ -106,7 +106,7 @@ export default class Projects extends Component {
 						</div>
 						<div className="row">
 							<div className="col-md-12 animate-box">
-								<p><a href="#" className="btn btn-primary btn-lg btn-load-more">Load more <i className="icon-reload" /></a></p>
+								<p><a href="#" className="btn btn-primary btn-lg btn-load-more">See all <i className="icon-world" /></a></p> //Agregar link al main de mis eventos
 							</div>
 						</div>
 					</div>
