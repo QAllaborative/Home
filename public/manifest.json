@@ -1,6 +1,28 @@
 {
-  "short_name": "Portfolio app",
-  "name": "Portfolio app made with react as part of 'weekend projects' initiative",
+  "short_name": "QAllaborative web",
+  "homepage": "https://thefreerangetester.github.io/webPage",
+  "name": "Web for QAllaborative, a platform to teach Automation and Test Engineering",
+  "dependencies": {
+		"gh-pages": "^2.0.1",
+		"react": "^16.8.3",
+		"react-dom": "^16.8.3",
+		"react-scripts": "2.1.5",
+		"yarn": "^1.13.0"},
+	"scripts": {
+		"start": "react-scripts start",
+		"build": "react-scripts build",
+		"predeploy": "yarn run build",
+		"deploy": "gh-pages -d build",
+		"test": "react-scripts test",
+		"eject": "react-scripts eject"},
+	"eslintConfig": {
+		"extends": "react-app"},
+	"browserslist": [
+		">0.2%",
+		"not dead",
+		"not ie <= 11",
+		"not op_mini all"
+	],
   "icons": [
     {
       "src": "favicon.ico",

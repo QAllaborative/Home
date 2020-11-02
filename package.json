@@ -1,8 +1,8 @@
 {
-  "name": "portfolio-app",
+  "name": "qallaborative",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dbarochiya.github.io/me",
+  "homepage": "https://QAllaborative.github.io/webPage",
   "dependencies": {
     "@fortawesome/free-regular-svg-icons": "^5.15.1",
     "gh-pages": "^2.0.1",
