@@ -12,7 +12,7 @@ export default class About extends Component {
                 <div className="col-md-12">
                     <div className="about-desc">
                     <span className="heading-meta">About Us</span>
-                    <h2 className="colorlib-heading">Who Am I?</h2>
+                    <h2 className="colorlib-heading">Creating the pool of professionals New Zealand needs!</h2>
                     <p>I'm a Senior SDET from Argentina living in New Zealand and loving every aspect of it! After 3 years of working in the local scene, I've decided to put my expertise and knowledge as a service to deliver the best testing solutions and enable a fast paced workflow!</p>
                     <p>I'm a professional coach and consultant based in the beautiful city of Wellington, where I teach the ways of Automation and Test Engineering, as well as audit and enhance the Automation mahi for my clients! </p>
                     <p>Monthly, I'm hosting Automation Bootcamps and Workshops both through online webinas and physically across New Zealand. Check below for more details about dates, prices and what you will be learning! </p>

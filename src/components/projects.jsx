@@ -106,7 +106,7 @@ export default class Projects extends Component {
 						</div>
 						<div className="row">
 							<div className="col-md-12 animate-box">
-								<p><a href="#" className="btn btn-primary btn-lg btn-load-more">See all <i className="icon-world" /></a></p> //Agregar link al main de mis eventos
+								<p><a href="#" className="btn btn-primary btn-lg btn-load-more">See all <i className="icon-world" /></a></p>
 							</div>
 						</div>
 					</div>
