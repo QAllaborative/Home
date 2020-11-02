@@ -2,7 +2,7 @@
   "name": "qallaborative",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://qallaborative.github.io/qallaborative",
+  "homepage": "https://QAllaborative.github.io/qallaborative",
   "dependencies": {
     "@fortawesome/free-regular-svg-icons": "^5.15.1",
     "gh-pages": "^2.0.1",
