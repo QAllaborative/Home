@@ -92,7 +92,7 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-6.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Placeholder2</a></h3>
+											<h3><a href="https://www.eventbrite.com/e/coding-with-minecraft-tickets-126636618535?aff=ebdssbonlinesearch&keep_tld=1" target="_blank" rel="noopener noreferrer">Placeholder2</a></h3>
 											<span>Webinar</span>
 											<p className="icon">
 												<span><a href="#"><i className="fa icon-time" /> 8hs </a></span>
