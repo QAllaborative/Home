@@ -10,7 +10,7 @@ export default class Sidebar extends Component {
             <div className="text-center">
               <div className="author-img" style={{backgroundImage: 'url(images/io_suit.jpg)'}} />
               <h1 id="colorlib-logo"><a href="index.html">QAllaborative</a></h1>
-              <span className="email"><i className="icon-mail"></i> thefreerangetester@gmail.com </span>
+              <span className="email"><i className="icon-mail"><a href="mailto:info@qallaborative.com">info@qallaborative.com</a></i></span><br></br>
             </div>
             <nav id="colorlib-main-menu" role="navigation" className="navbar">
               <div id="navbar" className="collapse">

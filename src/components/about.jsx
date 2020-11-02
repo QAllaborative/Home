@@ -36,7 +36,7 @@ export default class About extends Component {
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-1">
                 <span className="icon">
-                    <i className="icon-chart-bar" />
+                    <i className="fa fa-bug" />
                 </span>
                 <div className="desc">
                     <h3>E2E Automation </h3>
@@ -47,7 +47,7 @@ export default class About extends Component {
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-3">
                 <span className="icon">
-                    <i className="icon-code" />
+                    <i className="fa fa-cogs" />
                 </span>
                 <div className="desc">
                     <h3>Test Engineering</h3>
@@ -58,7 +58,7 @@ export default class About extends Component {
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-5">
                 <span className="icon">
-                    <i className="icon-eye" />
+                    <i className="icon-code" />
                 </span>
                 <div className="desc">
                     <h3>Dev Ops</h3>
@@ -91,7 +91,7 @@ export default class About extends Component {
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-6">
                 <span className="icon">
-                    <i className="icon-data" />
+                    <i className="fa fa-cubes" />
                 </span>
                 <div className="desc">
                     <h3>Automation API</h3>
