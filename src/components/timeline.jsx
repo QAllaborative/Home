@@ -22,7 +22,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Automation Test Lead at BNZ <span>2020-present</span></h2>
-                        <p>I recently have joined the Juniper Networs as a Software Developer-Intern in the DevOps team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at Juniper to do rapid development. I am also exploring the role of container technology like Docker and container-orchrastation technologies like K8s, Swarm to create industry standard production environments.</p>
+                        <p>Leading the Automation team and implementing new ways of working to achieve the goal of faster, more reliable test cycles.</p>
                       </div>
                     </div>
                   </article>
@@ -33,7 +33,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Senior Test Engineer at Assurity <span>2017-2020</span></h2>
-                        <p>I recently have joined the Juniper Networs as a Software Developer-Intern in the DevOps team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at Juniper to do rapid development. I am also exploring the role of container technology like Docker and container-orchrastation technologies like K8s, Swarm to create industry standard production environments.</p>
+                        <p>Brought to New Zealand as a Test Engineering specialist, I started leading the central team at a big client through their digital transformation. To accomplish this, I made big changes to the workflow, the CI processes with Jenkins, implementation of best practices at coding and testing level and coaching/teaching fresh starters as well as Test Analysts on site with great engagement and success.</p>
                       </div>
                     </div>
                   </article>
@@ -44,7 +44,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Automation Tester at Accenture <span>2010-2017</span></h2>
-                        <p>I am pursuing my under-graduation studies with major in I.C.T.(Information & Communication Technology). I have taken courses like DSA, OOPs, Computer Networks, IOT, Web-Data Management over the years and have better understanding of these subjects.I have also been part of S.B.G.(Student Body Govenance) scince my first year of college.</p>
+                        <p>My first Automation work ever. I had to learn Coded UI on my free time to create a Proof of Concept that resulted in the biggest Automation team in Argentina for the company. Later, I would be involved in different internal projects creating frameworks and coaching about the best practices and ways of Automation.</p>
                       </div>
                     </div>
                   </article>
@@ -55,7 +55,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Game Tester at Electronic Arts <span>2008-2010</span></h2>
-                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 91 merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
+                        <p>Testing of several AAA titles from Pandemic, EA Sports, Bioware on platforms like PC, Nintendo Wii, Playstation 3, Xbox 360 and PSP. Compliance testing and ad-hoc were the two main techniques.</p> 
                       </div>
                     </div>
                   </article>
