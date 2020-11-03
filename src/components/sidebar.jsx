@@ -37,9 +37,7 @@ export default class Sidebar extends Component {
               <p><small>
                   Made with <i className="icon-heart" aria-hidden="true" /> and <i className="icon-coffee" aria-hidden="true"></i><br></br>
               </small></p>
-              <p><small>
-                Something coming soon !!
-              </small></p>
+              <div style={{width: '295px', textAlign: 'center'}}><iframe src="https://www.eventbrite.co.nz/calendar-widget?eid=127808698257&showPrivate=1&sig=AGbIMNx16l77sf2ezOCT6nxSX7356MeF9g" frameBorder={0} height={534} width={195} marginHeight={0} marginWidth={0} scrolling="no" allowTransparency="true" /><div style={{fontFamily: 'Helvetica, Arial', fontSize: '12px', padding: '10px 0 5px', margin: '2px', width: '195px', textAlign: 'center'}}><a className="powered-by-eb" style={{color: '#ADB0B6', textDecoration: 'none'}} target="_blank" href="http://www.eventbrite.co.nz/">Powered by Eventbrite</a></div></div>
             </div>
           </aside>
         </div>
