@@ -11,11 +11,11 @@ export default class About extends Component {
                 <div className="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
                 <div className="col-md-12">
                     <div className="about-desc">
-                    <span className="heading-meta">About Us</span>
+                    <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Creating the pool of professionals New Zealand needs!</h2>
                     <p>I'm a Senior SDET from Argentina living in New Zealand and loving every aspect of it! After 3 years of working in the local scene, I've decided to put my expertise and knowledge as a service to deliver the best testing solutions and enable a fast paced workflow!</p>
                     <p>I'm a professional coach and consultant based in the beautiful city of Wellington, where I teach the ways of Automation and Test Engineering, as well as audit and enhance the Automation mahi for my clients! </p>
-                    <p>Find which branch of Testing you want to follow and grow your skills and expertise with real world applications with my help. Test Analyst? Test Engineer? Performance Tester? All of them are excellent options to get in the market!</p>
+                    <p>Find which path of Testing you want to follow and grow your skills and expertise with real world applications with my help. Test Analyst? Test Engineer? Performance Tester? All of them are excellent options to get in the market!</p>
                     <p>Be ready to apply to highly demanded job positions with top notch benefits and salaries in New Zealand and the world! Want to know more about why working as a Tester is perfect for you? Check this <a href="https://www.careers.govt.nz/jobs-database/it-and-telecommunications/information-technology/test-analyst/about-the-job" target="_blank" rel="noopener noreferrer">link!</a></p>
                     </div>
                 </div>
@@ -28,8 +28,8 @@ export default class About extends Component {
         <div className="colorlib-narrow-content">
             <div className="row">
             <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-                <span className="heading-meta">What we offer?</span>
-                <h2 className="colorlib-heading">Here are some of our services</h2>
+                <span className="heading-meta">What I offer</span>
+                <h2 className="colorlib-heading">Here are some of my services</h2>
             </div>
             </div>
             <div className="row row-pt-md">
@@ -40,7 +40,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>E2E Automation </h3>
-                    <p>More than 10 years developing Test solutions and Automating test cases using JavaScript, C#, Java/Groovy and Python with tools like Selenium and Cucumber, PyTest, Katalon Studio, TestProject, Cypress and TestCafe.</p>
+                    <p>No matter what are your requirements, I can do it. More than 10 years developing Test solutions using JavaScript, C#, Java/Groovy and Python with tools like Selenium and Cucumber, PyTest, RestAssured, Katalon Studio, TestProject, Cypress and TestCafe gave me a holistic view of what works for each case in particular. No silver bullets, customised solutions.</p>
                 </div>
                 </div>
             </div>
@@ -51,7 +51,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Test Engineering</h3>
-                    <p>I can build the whole Automation workflow from scratch and with different tools depending your needs. From frameworks for API Testing, to UI Automation, to the endgame of CI with Jenkins, Docker and dashboard tools for reporting.</p>
+                    <p>From the analysis of what automation can do for you, to setting up the SCM and CI workflow on tools such as Github, Bitbucket, Jenkins and GitHub Actions, I deliver Test Engineering as a whole while following the best practices and enabling DevOps in your pipelines.</p>
                 </div>
                 </div>
             </div>
@@ -61,8 +61,8 @@ export default class About extends Component {
                     <i className="icon-code" />
                 </span>
                 <div className="desc">
-                    <h3>Dev Ops</h3>
-                    <p>Shifting the test approach left and right to have the right checks at the right time. From monitoring the use of Jenkins with Kibana, to display the user experience in Production with dashboards in Grafana, I can build the right tool for your DevOps testing needs.</p>
+                    <h3>Test audit and plan of action.</h3>
+                    <p>An initial assessment will provide you with the information needed and the next steps to take your test team in the right direction. From the planning to the execution, I deliver.</p>
                 </div>
                 </div>
             </div>
