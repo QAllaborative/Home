@@ -14,8 +14,8 @@ export default class About extends Component {
                     <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Creating the pool of professionals New Zealand needs!</h2>
                     <p>I'm a Senior SDET from Argentina living in New Zealand and loving every aspect of it! After 3 years of working in the local scene, I've decided to put my expertise and knowledge as a service to deliver the best testing solutions and enable a fast paced workflow!</p>
-                    <p>I'm a professional coach and consultant based in the beautiful city of Wellington, where I teach the ways of Automation and Test Engineering, as well as audit and enhance the Automation mahi for my clients! </p>
-                    <p>Find which path of Testing you want to follow and grow your skills and expertise with real world applications with my help. Test Analyst? Test Engineer? Performance Tester? All of them are excellent options to get in the market!</p>
+                    <p>As a professional coach and consultant based in the beautiful city of Wellington, I teach the ways of Automation and Test Engineering, as well as perform audits and enhance the Automation mahi for my clients, leading by example! </p>
+                    <p>Find which path of Software Testing you want to follow and grow your skills and experience with real world applications with my help. Test Analyst? Test Engineer? Performance Tester? All of them are excellent options to get into the market for job hunting!</p>
                     <p>Be ready to apply to highly demanded job positions with top notch benefits and salaries in New Zealand and the world! Want to know more about why working as a Tester is perfect for you? Check this <a href="https://www.careers.govt.nz/jobs-database/it-and-telecommunications/information-technology/test-analyst/about-the-job" target="_blank" rel="noopener noreferrer">link!</a></p>
                     </div>
                 </div>
@@ -72,30 +72,30 @@ export default class About extends Component {
                     <i className="icon-bulb" />
                 </span>
                 <div className="desc">
-                    <h3>Teaching and career counsealing</h3>
-                    <p>Helping New Zealand create the pool of engineers to cover the high demand. If you are looking for a new job to be passionate about, there is no better place to look at! </p>
+                    <h3>Test Engineering workshops</h3>
+                    <p>With the right guidance you can be doing real world test automation following the best practices, here, in New Zealand and with someone assisting you! Check the calendar or contact me for more information about upcoming workshops and other options to get you or your team aboard! </p>
                 </div>
                 </div>
             </div>
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-4">
                 <span className="icon">
-                    <i className="icon-check" />
+                    <i className="fa fa-suitcase" />
                 </span>
                 <div className="desc">
-                    <h3>Automation UI</h3>
-                    <p>From PyTest for Python, to Selenium with Cucumber for Java, passing to Cypress, TestCafe, Katalon and TestProject, I'm constantly creating frameworks on different techstacks.</p>
+                    <h3>Career counseling</h3>
+                    <p>If you are looking for a new job and you are currently a Tester (or even if you are not!), I can provide assistance with your CV, next steps and learnings and how to look for the perfect new gig. 3 years of experience doing technical interviews in the country gave me the knowledge to help you find your passion!</p>
                 </div>
                 </div>
             </div>
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-6">
                 <span className="icon">
-                    <i className="fa fa-cubes" />
+                    <i className="fa icon-group" />
                 </span>
                 <div className="desc">
-                    <h3>Automation API</h3>
-                    <p>Following the best practices, I create solid frameworks for API Automation with Java and RestAssured, as well as Katalon, Postman, Karate and Request for Python.</p>
+                    <h3>On site training for teams.</h3>
+                    <p>Avoid the common mistakes and pitfalls that lurk around every automation project. Get up and working with the best practices, solid frameworks and robust workflows to start delivering automation greatness today! Contact me to know about the options to get your team to the next automation level!</p>
                 </div>
                 </div>
             </div>
