@@ -40,7 +40,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>E2E Automation </h3>
-                    <p>No matter what are your requirements, I can do it. More than 10 years developing Test solutions using JavaScript, C#, Java/Groovy and Python with tools like Selenium and Cucumber, PyTest, RestAssured, Katalon Studio, TestProject, Cypress and TestCafe gave me a holistic view of what works for each case in particular. No silver bullets, customised solutions.</p>
+                    <p>No matter what your requirements are, I can do it. More than 10 years developing Test solutions using JavaScript, C#, Java/Groovy and Python with the main tools in the market, such as Selenium and Cucumber, PyTest, RestAssured, Cypress and more gives me a holistic view of what works.</p>
                 </div>
                 </div>
             </div>
@@ -51,7 +51,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Test Engineering</h3>
-                    <p>From the analysis of what automation can do for you, to setting up the SCM and CI workflow on tools such as Github, Bitbucket, Jenkins and GitHub Actions, I deliver Test Engineering as a whole while following the best practices and enabling DevOps in your pipelines.</p>
+                    <p>From the analysis of what automation can do for you, to setting up the SCM and CI workflows on tools such as Github, Bitbucket, Jenkins and GitHub Actions, I deliver Test Engineering as a whole while following the best practices and enabling DevOps in your pipelines.</p>
                 </div>
                 </div>
             </div>
@@ -61,8 +61,8 @@ export default class About extends Component {
                     <i className="icon-code" />
                 </span>
                 <div className="desc">
-                    <h3>Test audit and plan of action.</h3>
-                    <p>An initial assessment will provide you with the information needed and the next steps to take your test team in the right direction. From the planning to the execution, I deliver.</p>
+                    <h3>Test Automation audits.</h3>
+                    <p>An initial assessment will provide you with the information needed and the next steps to take your test team in the right direction. From the planning to the execution, I deliver all your team need to start adding value and not just maintaining scripts. Avoid the pitfalls!</p>
                 </div>
                 </div>
             </div>
