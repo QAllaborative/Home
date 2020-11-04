@@ -15,7 +15,7 @@ export default class About extends Component {
                     <h2 className="colorlib-heading">Creating the pool of professionals New Zealand needs!</h2>
                     <p>I'm a Senior SDET from Argentina living in New Zealand and loving every aspect of it! After 3 years of working in the local scene, I've decided to put my expertise and knowledge as a service to deliver the best testing solutions and enable a fast paced workflow!</p>
                     <p>I'm a professional coach and consultant based in the beautiful city of Wellington, where I teach the ways of Automation and Test Engineering, as well as audit and enhance the Automation mahi for my clients! </p>
-                    <p>Find which branch of Testing you want to follow and grow your skills and expertice with real world applications with my help. Test Analyst? Test Engineer? Performance Tester? All of them are excellent options to get in the market!</p>
+                    <p>Find which branch of Testing you want to follow and grow your skills and expertise with real world applications with my help. Test Analyst? Test Engineer? Performance Tester? All of them are excellent options to get in the market!</p>
                     <p>Be ready to apply to highly demanded job positions with top notch benefits and salaries in New Zealand and the world! Want to know more about why working as a Tester is perfect for you? Check this <a href="https://www.careers.govt.nz/jobs-database/it-and-telecommunications/information-technology/test-analyst/about-the-job" target="_blank" rel="noopener noreferrer">link!</a></p>
                     </div>
                 </div>

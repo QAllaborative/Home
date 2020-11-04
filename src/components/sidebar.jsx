@@ -23,7 +23,9 @@ export default class Sidebar extends Component {
                 </ul>
               </div>
             </nav>
+            <div style={{width: '295px', textAlign: 'center'}}><iframe src="https://www.eventbrite.co.nz/calendar-widget?eid=127808698257&showPrivate=1&sig=AGbIMNx16l77sf2ezOCT6nxSX7356MeF9g" frameBorder={0} height={534} width={195} marginHeight={0} marginWidth={0} scrolling="no" allowTransparency="true" /></div>
             <nav id="colorlib-main-menu">
+            <h1 style={{width: '295px', textAlign: 'center'}}id="colorlib-logo">Social me</h1>
               <ul>
                 <li><a href="https://www.facebook.com/pateeto.miner" target="_blank" rel="noopener noreferrer"><i className="icon-facebook2" /></a></li>
                 <li><a href="https://twitter.com/RangeTester" target="_blank" rel="noopener noreferrer"><i className="icon-twitter2" /></a></li>
@@ -37,7 +39,6 @@ export default class Sidebar extends Component {
               <p><small>
                   Made with <i className="icon-heart" aria-hidden="true" /> and <i className="icon-coffee" aria-hidden="true"></i><br></br>
               </small></p>
-              <div style={{width: '295px', textAlign: 'center'}}><iframe src="https://www.eventbrite.co.nz/calendar-widget?eid=127808698257&showPrivate=1&sig=AGbIMNx16l77sf2ezOCT6nxSX7356MeF9g" frameBorder={0} height={534} width={195} marginHeight={0} marginWidth={0} scrolling="no" allowTransparency="true" /><div style={{fontFamily: 'Helvetica, Arial', fontSize: '12px', padding: '10px 0 5px', margin: '2px', width: '195px', textAlign: 'center'}}><a className="powered-by-eb" style={{color: '#ADB0B6', textDecoration: 'none'}} target="_blank" href="http://www.eventbrite.co.nz/">Powered by Eventbrite</a></div></div>
             </div>
           </aside>
         </div>
