@@ -8,8 +8,8 @@ export default class Projects extends Component {
 					<div className="colorlib-narrow-content">
 						<div className="row">
 							<div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-								<span className="heading-meta">My Work</span>
-								<h2 className="colorlib-heading animate-box">Next Workshops</h2>
+								<span className="heading-meta">Learn today</span>
+								<h2 className="colorlib-heading animate-box">Bootcamps</h2>
 							</div>
 						</div>
 						<div className="row">
@@ -77,7 +77,7 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-5.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Placeholder1</a></h3>
+											<h3><a href="work.html">Automation with Cypress</a></h3>
 											<span>Webinar</span>
 											<p className="icon">
 												<span><a href="#"><i className="fa icon-time" /> 8hs </a></span>
