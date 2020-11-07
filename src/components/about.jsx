@@ -39,8 +39,8 @@ export default class About extends Component {
                     <i className="fa fa-bug" />
                 </span>
                 <div className="desc">
-                    <h3>E2E Automation </h3>
-                    <p>No matter what your requirements are, I can do it. More than 10 years developing Test solutions using JavaScript, C#, Java/Groovy and Python with the main tools in the market, such as Selenium and Cucumber, PyTest, RestAssured, Cypress and more gives me a holistic view of what works.</p>
+                    <h3>E2E Automation</h3>
+                    <p>No matter what your requirements are, I can do it. More than 10 years developing Test solutions using JavaScript, C#, Java/Groovy and Python with the main tools in the market, such as Selenium, PyTest, RestAssured, Cypress and more gives me a clear view of what works.</p>
                 </div>
                 </div>
             </div>
@@ -61,7 +61,7 @@ export default class About extends Component {
                     <i className="icon-code" />
                 </span>
                 <div className="desc">
-                    <h3>Test Automation audits.</h3>
+                    <h3>Test Automation audits</h3>
                     <p>An initial assessment will provide you with the information needed and the next steps to take your test team in the right direction. From the planning to the execution, I deliver all your team need to start adding value and not just maintaining scripts. Avoid the pitfalls!</p>
                 </div>
                 </div>
@@ -94,7 +94,7 @@ export default class About extends Component {
                     <i className="fa icon-group" />
                 </span>
                 <div className="desc">
-                    <h3>On site training for teams.</h3>
+                    <h3>On site training for teams</h3>
                     <p>Avoid the common mistakes and pitfalls that lurk around every automation project. Get up and working with the best practices, solid frameworks and robust workflows to start delivering automation greatness today! Contact me to know about the options to get your team to the next automation level!</p>
                 </div>
                 </div>
