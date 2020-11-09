@@ -17,6 +17,11 @@ export default class About extends Component {
                     <p>As a professional coach and consultant based in the beautiful city of Wellington, I teach the ways of Automation and Test Engineering, as well as perform audits and enhance the Automation mahi for my clients, leading by example! </p>
                     <p>Find which path of Software Testing you want to follow and grow your skills and experience with real world applications with my help. Test Analyst? Test Engineer? Performance Tester? All of them are excellent options to get into the market for job hunting!</p>
                     <p>Be ready to apply to highly demanded job positions with top notch benefits and salaries in New Zealand and the world! Want to know more about why working as a Tester is perfect for you? Check this <a href="https://www.careers.govt.nz/jobs-database/it-and-telecommunications/information-technology/test-analyst/about-the-job" target="_blank" rel="noopener noreferrer">link!</a></p>
+                    <h2 className="colorlib-heading">Providing the best services in Automation Testing in New Zealand.</h2>
+                    <p>I'm a Senior SDET from Argentina living in New Zealand and loving every aspect of it! After 3 years of working in the local scene, I've decided to put my expertise and knowledge as a service to deliver the best testing solutions and enable a fast paced workflow!</p>
+                    <p>As a professional coach and consultant based in the beautiful city of Wellington, I teach the ways of Automation and Test Engineering, as well as perform audits and enhance the Automation mahi for my clients, leading by example! </p>
+                    <p>Find which path of Software Testing you want to follow and grow your skills and experience with real world applications with my help. Test Analyst? Test Engineer? Performance Tester? All of them are excellent options to get into the market for job hunting!</p>
+                    <p>Be ready to apply to highly demanded job positions with top notch benefits and salaries in New Zealand and the world! Want to know more about why working as a Tester is perfect for you? Check this</p>
                     </div>
                 </div>
                 </div>
