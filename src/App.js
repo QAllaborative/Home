@@ -4,8 +4,6 @@ import Sidebar from './components/sidebar'
 import Introduction from './components/introduction'
 import About from './components/about'
 import Timeline from './components/timeline'
-import Projects from './components/projects'
-import Tarjeta from './components/tarjetaLoca'
 import Cards from './components/Cards'
 
 class App extends Component {
