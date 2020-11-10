@@ -6,6 +6,7 @@ import About from './components/about'
 import Timeline from './components/timeline'
 import Projects from './components/projects'
 import Tarjeta from './components/tarjetaLoca'
+import Cards from './components/Cards'
 
 class App extends Component {
   render() {
@@ -17,7 +18,7 @@ class App extends Component {
 					<Introduction></Introduction>
 					<About></About>
 					<Timeline></Timeline>
-          <Tarjeta></Tarjeta>
+          <Cards></Cards>
           	</div>
       	</div>
       </div>
