@@ -58,23 +58,21 @@ const useStyles = makeStyles(theme => ({
     return (
         <Card className={classes.card}>
         <CardHeader
-                              title="Advanced Test Engineering."
-                              subheader="January 25, 2021"
+                              title="Software Development for Testers"
+                              subheader="Check the calendar or contact me for more info!"
                             />
                             <CardMedia
                               className={classes.media}
                               image="images/img-6.jpg"
-                              title="Paella dish"
+                              title="Start your journey in Automation Testing here!"
                             />
                             <CardContent>
                               <Typography variant="body1" color="textSecondary" component="p">
-                                This impressive paella is a perfect party dish and a fun meal to cook
-                                together with your guests. Add 1 cup of frozen peas along with the
-                                mussels, if you like.
+                                The very first step in order to start your journey in Automation with the right foot. Perfect for those with no background in coding or wanting to
+                                understand deeply the programming concepts used on Test Engineering.
                               </Typography>
                                 <span><i className="fa icon-time" /> 8hs </span>
-                                <span><i className="fa fa-calendar" /> 01/02/2021 </span>
-                                <span><i className="fa fa-dollar" /> 600 </span>
+                                <span><i className="fa fa-calendar" /> TBD </span>
                             </CardContent>
                               <CardActions disableSpacing>
                                 <IconButton
@@ -90,32 +88,45 @@ const useStyles = makeStyles(theme => ({
                               </CardActions>
                                 <Collapse in={expanded} timeout="auto" unmountOnExit>
                                   <CardContent>
-                                    <Typography paragraph>Method:</Typography>
+                                    <Typography paragraph>Object Oriented Programming</Typography>
                                     <Typography paragraph>
-                                      Heat 1/2 cup of the broth in a pot until simmering, add saffron and
-                                      set aside for 10 minutes.
+                                      * What is a programming language?<br></br>
+                                      * Which are the most wanted languages in the market, both New Zealand and internationally?<br></br>
+                                      * Object Oriented Programming and Automation Testing.<br></br>
+                                      * Object Oriented Programming - Encapsulation: How is it used in Automation?<br></br>
+                                      * Object Oriented Programming - Inheritance: How is it used in Automation?<br></br>
+                                      * Object Oriented Programming - Abstraction: How is it used in Automation?<br></br>
+                                      * Object Oriented Programming - Polymorphism: How is it used in Automation?<br></br>
+                                      * Practical examples of these concepts applied to Automation Testing.<br></br>
                                     </Typography>
+                                    <Typography paragraph>Anatomy of the code</Typography>
                                     <Typography paragraph>
-                                      Heat oil in a (14- to 16-inch) paella pan or a large, deep skillet
-                                      over medium-high heat. Add chicken, shrimp and chorizo, and cook,
-                                      stirring occasionally until lightly browned, 6 to 8 minutes.
-                                      Transfer shrimp to a large plate and set aside, leaving chicken and
-                                      chorizo in the pan. Add pimentón, bay leaves, garlic, tomatoes,
-                                      onion, salt and pepper, and cook, stirring often until thickened and
-                                      fragrant, about 10 minutes. Add saffron broth and remaining 4 1/2
-                                      cups chicken broth; bring to a boil.
+                                      * Installing the tools.<br></br>
+                                      * What is an IDE?<br></br>
+                                      * The class: What is it? How does it work?<br></br>
+                                      * The method and function: What are they? How do they work?<br></br>
+                                      * Variables: Types, use and how they are used.<br></br>
+                                      * Conditionals: What are they? How do they work?<br></br>
+                                      * Loops: The different types explained.<br></br>
+                                      * Try/Catch: What are they? How are they used?<br></br>
+                                      * Practical examples of these concepts applied to Automation Testing.<br></br>
                                     </Typography>
+                                    <Typography paragraph>Working with Source Control Management</Typography>
                                     <Typography paragraph>
-                                      Add rice and stir very gently to distribute. Top with artichokes and
-                                      peppers, and cook without stirring, until most of the liquid is
-                                      absorbed, 15 to 18 minutes. Reduce heat to medium-low, add reserved
-                                      shrimp and mussels, tucking them down into the rice, and cook again
-                                      without stirring, until mussels have opened and rice is just tender,
-                                      5 to 7 minutes more. (Discard any mussels that don’t open.)
+                                      * What is Source Control Management? <br></br>
+                                      * Why is SCM so important in Automation Testing?<br></br>
+                                      * Parts of an Automation repository.<br></br>
+                                      * Branches and Master: What are they and why we need to use them?<br></br>
+                                      * Commands to work as part of a team with SCM.<br></br>
+                                      * Fetching and Pulling code from the origin.<br></br>
+                                      * Commiting the code: What you need to know.<br></br>
+                                      * Pushing the code: What you nede to know.<br></br>
+                                      * Creating a Pull Request: What are they and why are they so important?<br></br>
                                     </Typography>
                                     <Typography>
-                                      Set aside off of the heat to let rest for 10 minutes, and then
-                                      serve.
+                                      After this training, you will have the coding skills needed to tackle the more advanced workshops in which
+                                      we start automating tests, using all the concepts from this module. If you are already familiar with them, you
+                                      can skip this workshop and start right from a more advanced one!
                                     </Typography>
                                   </CardContent>
                                   </Collapse>

@@ -59,23 +59,21 @@ const useStyles = makeStyles(theme => ({
               
         <Card className={classes.card}>
           <CardHeader
-                                title="Advanced Test Engineering."
-                                subheader="January 25, 2021"
+                                title="The definitive Selenium Webdriver workshop!"
+                                subheader="The first and last Selenium workshop you will need!"
                               />
                               <CardMedia
                                 className={classes.media}
                                 image="images/img-6.jpg"
-                                title="Paella dish"
+                                title="The first and last Selenium workshop you will need!"
                               />
                               <CardContent>
                                 <Typography variant="body1" color="textSecondary" component="p">
-                                  This impressive paella is a perfect party dish and a fun meal to cook
-                                  together with your guests. Add 1 cup of frozen peas along with the
-                                  mussels, if you like.
+                                  Unlike most workshops, here you will get the knowledge to tackle Selenium Webdriver with a wide arrange of techniques, tools and languages
+                                  to be ready for the market. From starting, to mastering it, be a Selenium ready tester in no time!
                                 </Typography>
                                   <span><i className="fa icon-time" /> 8hs </span>
-                                  <span><i className="fa fa-calendar" /> 01/02/2021 </span>
-                                  <span><i className="fa fa-dollar" /> 600 </span>
+                                  <span><i className="fa fa-calendar" /> TBD </span>
                               </CardContent>
                                 <CardActions disableSpacing>
                                   <IconButton
@@ -91,20 +89,48 @@ const useStyles = makeStyles(theme => ({
                                 </CardActions>
                                   <Collapse in={expanded} timeout="auto" unmountOnExit>
                                     <CardContent>
-                                      <Typography paragraph>Method:</Typography>
+                                      <Typography paragraph>Selenium with Java and Cucumber</Typography>
                                       <Typography paragraph>
-                                        Heat 1/2 cup of the broth in a pot until simmering, add saffron and
-                                        set aside for 10 minutes.
+                                      * Setting up the workspace: VSCode, JDK, Plugins and more!<br></br>
+                                      * Creating our first project with Gradle/Maven and Java.<br></br>
+                                      * Creating our Base Page class. Introduction to Selenium.<br></br>
+                                      * Modifiers in Java: The Static modifier.<br></br>
+                                      * Exploring the HTML of a website. DevTools, plugins recommended and how to use them.<br></br>
+                                      * Locators in Selenium: What are they? How do we create them?<br></br>
+                                      * Page Object Model: What is it and why is so important?<br></br>
+                                      * Introduction to Cucumber: When to use it and when not to use it.<br></br>
+                                      * How to manage Test Data in our Automation Framework.<br></br>
+                                      * Cucumber: Introduction to Step definitions. <br></br>
+                                      * Taking our Cucumber workflow to the next level!<br></br>
+                                      * Waits in Selenium: Explicit and Implicit. When to use them? When not to use them?<br></br>
+                                      * Generating reports with Cucumber. Plugins and libraries recommended and how to configure them.<br></br>
+                                      * Adding parameters to our Cucumber scenarios.<br></br>
+                                      * Validating our tests with Assertions. What are they and how to implement them.<br></br>
+                                      * Working with dropdowns and select web elements in Selenium.<br></br>
+                                      * Closing the browser when our tests are completed. Setting blocks of code to run before and after executions.<br></br>
+                                      * Error handling: What is it and how to implement it in our Automation Framework?<br></br>
+                                      * Regular Expressions in Cucumber: What are they and how to use them.<br></br>
+                                      * Handling static grids in Selenium.<br></br>
+                                      * Handling dynamic grids in Selenium.<br></br>
+                                      * iFrames in Selenium: How to handle and work with them?<br></br>
+                                      * Uploading files with Selenium: Is it possible? How?<br></br>
+                                      * Soft Assertions: What are they? How and when to use them?<br></br>
+                                      * Pending Exceptions with Cucumber: What are they and when to use them?<br></br>
+                                      * Executing scenarios grouped by tag from the command line!<br></br>
+                                      * PageFactory: What is it and how to use it?<br></br>
+                                      * Tip to improve execution times with Page Factory.<br></br>
+                                      * TestNG instead of Cucumber: What is it, how to use it and when is the best idea to do so.<br></br>
+                                      * Creating Tests with TestNG.<br></br>
+                                      * Grouping Tests with TestNG suites.<br></br>
                                       </Typography>
+                                      <Typography paragraph>Advanced Selenium WebDriver.</Typography>
                                       <Typography paragraph>
-                                        Heat oil in a (14- to 16-inch) paella pan or a large, deep skillet
-                                        over medium-high heat. Add chicken, shrimp and chorizo, and cook,
-                                        stirring occasionally until lightly browned, 6 to 8 minutes.
-                                        Transfer shrimp to a large plate and set aside, leaving chicken and
-                                        chorizo in the pan. Add pimentón, bay leaves, garlic, tomatoes,
-                                        onion, salt and pepper, and cook, stirring often until thickened and
-                                        fragrant, about 10 minutes. Add saffron broth and remaining 4 1/2
-                                        cups chicken broth; bring to a boil.
+                                      * Dependency injection: What is it and when to use it?<br></br>
+                                      * Creating the World object, keys to this concept.<br></br>
+                                      * Connecting the WebDriver with the World class.<br></br>
+                                      * Using this framework, hands on!<br></br>
+                                      * Adding crossbrowser capabilities to our framework.<br></br>
+                                      * Creating our real world Automation project putting the gained knowledge into practice!<br></br>
                                       </Typography>
                                       <Typography paragraph>
                                         Add rice and stir very gently to distribute. Top with artichokes and

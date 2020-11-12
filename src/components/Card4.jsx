@@ -58,7 +58,7 @@ const useStyles = makeStyles(theme => ({
     return (
         <Card className={classes.card}>
         <CardHeader
-                              title="Advanced Test Engineering."
+                              title="Katalon Studio"
                               subheader="January 25, 2021"
                             />
                             <CardMedia

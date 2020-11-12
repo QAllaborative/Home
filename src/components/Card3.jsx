@@ -58,23 +58,21 @@ const useStyles = makeStyles(theme => ({
     return (
         <Card className={classes.card}>
         <CardHeader
-            title="Introduction to Test Engineering."
-            subheader="January 25, 2021"
+            title="The Ultimate API Automation workshop."
+            subheader="Integration testing done perfectly!"
         />
     <CardMedia
         className={classes.media}
         image="images/img-6.jpg"
-        title="Paella dish"
+        title="Implement the best practices in your automation work with this API Automation Workshop!"
     />
     <CardContent>
         <Typography variant="body1" color="textSecondary" component="p">
-            This impressive paella is a perfect party dish and a fun meal to cook
-            together with your guests. Add 1 cup of frozen peas along with the
-            mussels, if you like.
+            Get into the world of API Automation with this extensive workshop covering the creation, from scratch, of a framework to automate HTTP Requests
+            with Java, Rest Assured, Cucumber and Allure. Ideal for anyone who wants to add APIs to their toolbelt!
         </Typography>
             <span><i className="fa icon-time" /> 8hs </span>
-            <span><i className="fa fa-calendar" /> 01/02/2021 </span>
-            <span><i className="fa fa-dollar" /> 600 </span>
+            <span><i className="fa fa-calendar" /> TBD </span>
     </CardContent>
         <CardActions disableSpacing>
             <IconButton
@@ -90,32 +88,42 @@ const useStyles = makeStyles(theme => ({
         </CardActions>
         <Collapse in={expanded} timeout="auto" unmountOnExit>
             <CardContent>
-        <Typography paragraph>Method:</Typography>
+        <Typography paragraph>Setting up our workspace.</Typography>
         <Typography paragraph>
-Heat 1/2 cup of the broth in a pot until simmering, add saffron and
-set aside for 10 minutes.
+        * Installation of VSCode<br></br>
+        * Using Gradle and getting the dependencies for our framework.<br></br>
+        * Installation of Allure<br></br>
+        * Installation of Cucumber<br></br>
+        * Introduction to the concept of API: What are they? How can we test them?<br></br>
+
 </Typography>
+<Typography paragraph>Creating our API Automation Framework.</Typography>
 <Typography paragraph>
-Heat oil in a (14- to 16-inch) paella pan or a large, deep skillet
-over medium-high heat. Add chicken, shrimp and chorizo, and cook,
-stirring occasionally until lightly browned, 6 to 8 minutes.
-Transfer shrimp to a large plate and set aside, leaving chicken and
-chorizo in the pan. Add pimentón, bay leaves, garlic, tomatoes,
-onion, salt and pepper, and cook, stirring often until thickened and
-fragrant, about 10 minutes. Add saffron broth and remaining 4 1/2
-cups chicken broth; bring to a boil.
+        * Introduction to Rest Assured: What is it? How do we use it to test HTTP Requests?<br></br>
+        * Using Cucumber to create our Scenarios for API Testing.<br></br>
+        * Creation of Step Definitions for API Testing.<br></br>
+        * JSON: What is it and how do we use it?<br></br>
+        * Validating the HTTP Responses.<br></br>
+        * HTTP Status Code and debugging.<br></br>
+        * Handling TLS and security when doing HTTP Requests under secured connections.<br></br>
+        * Iteration of nested values in the responses.<br></br>
+        * Setting headers on our HTTP Requests.<br></br>
+        * Making a GET Request.<br></br>
+        * Making a POST Request: Use of body and parameters to be sent with our request.<br></br>
+        * Making a PUT Request.<br></br>
+        * Making a DELETE Request.<br></br>
+        * Using cURL for API Test prototyping.<br></br>
 </Typography>
+<Typography paragraph>Creating our reports with Allure.</Typography>
 <Typography paragraph>
-Add rice and stir very gently to distribute. Top with artichokes and
-peppers, and cook without stirring, until most of the liquid is
-absorbed, 15 to 18 minutes. Reduce heat to medium-low, add reserved
-shrimp and mussels, tucking them down into the rice, and cook again
-without stirring, until mussels have opened and rice is just tender,
-5 to 7 minutes more. (Discard any mussels that don’t open.)
+        * Setting up the Allure: Plugins needed and code.<br></br>
+        * Custom reports with Allure.<br></br>
+
 </Typography>
-<Typography>
-Set aside off of the heat to let rest for 10 minutes, and then
-serve.
+<Typography paragraph>What you will get from this workshop.</Typography>
+<Typography paragraph>
+After this workshop you will be able to create frameworks from scratch, following the best practices, to test with API Automation. The knowledge you will get there is all based in my personal experience internationally as well as in New Zealand,
+thinking in what the market demands the most for this type of work.
 </Typography>
 </CardContent>
 </Collapse>
