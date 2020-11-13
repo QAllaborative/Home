@@ -59,12 +59,12 @@ const useStyles = makeStyles(theme => ({
         <Card className={classes.card}>
         <CardHeader
                               title="Software Development for Testers"
-                              subheader="Check the calendar or contact me for more info!"
+                              subheader="Start your journey in Automation Testing here!!"
                             />
                             <CardMedia
                               className={classes.media}
-                              image="images/img-6.jpg"
-                              title="Start your journey in Automation Testing here!"
+                              image="images/robo6.jpg"
+                              title="All you need to know to take the first step towards automation!"
                             />
                             <CardContent>
                               <Typography variant="body1" color="textSecondary" component="p">
@@ -123,6 +123,13 @@ const useStyles = makeStyles(theme => ({
                                       * Pushing the code: What you nede to know.<br></br>
                                       * Creating a Pull Request: What are they and why are they so important?<br></br>
                                     </Typography>
+                                    <Typography paragraph>Hands on practice.</Typography>
+                                    <Typography paragraph>
+                                    * Real world workshop setting up a framework to test API and UI.<br></br>
+                                    * Brainstorming of the students and teacher.<br></br>
+                                    * Implementation of the framework, test case creation and creation of repository.<br></br>
+                                    </Typography>
+                                    <Typography paragraph>What you will get from this workshop.</Typography>
                                     <Typography>
                                       After this training, you will have the coding skills needed to tackle the more advanced workshops in which
                                       we start automating tests, using all the concepts from this module. If you are already familiar with them, you

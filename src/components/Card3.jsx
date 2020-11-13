@@ -63,7 +63,7 @@ const useStyles = makeStyles(theme => ({
         />
     <CardMedia
         className={classes.media}
-        image="images/img-6.jpg"
+        image="images/robo5.jpg"
         title="Implement the best practices in your automation work with this API Automation Workshop!"
     />
     <CardContent>
@@ -120,6 +120,12 @@ const useStyles = makeStyles(theme => ({
         * Custom reports with Allure.<br></br>
 
 </Typography>
+<Typography paragraph>Hands on practice.</Typography>
+                                    <Typography paragraph>
+                                    * Real world workshop setting up a framework to test API and UI.<br></br>
+                                    * Brainstorming of the students and teacher.<br></br>
+                                    * Implementation of the framework, test case creation and creation of repository.<br></br>
+                                    </Typography>
 <Typography paragraph>What you will get from this workshop.</Typography>
 <Typography paragraph>
 After this workshop you will be able to create frameworks from scratch, following the best practices, to test with API Automation. The knowledge you will get there is all based in my personal experience internationally as well as in New Zealand,

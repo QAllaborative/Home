@@ -63,7 +63,7 @@ const useStyles = makeStyles(theme => ({
                             />
                             <CardMedia
                               className={classes.media}
-                              image="images/img-6.jpg"
+                              image="images/robo2.jpg"
                               title="Paella dish"
                             />
                             <CardContent>

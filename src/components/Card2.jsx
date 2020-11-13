@@ -64,7 +64,7 @@ const useStyles = makeStyles(theme => ({
                               />
                               <CardMedia
                                 className={classes.media}
-                                image="images/img-6.jpg"
+                                image="images/robo1.jpg"
                                 title="The first and last Selenium workshop you will need!"
                               />
                               <CardContent>

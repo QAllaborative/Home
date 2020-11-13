@@ -59,22 +59,21 @@ const useStyles = makeStyles(theme => ({
         <Card className={classes.card}>
         <CardHeader
                               title="Katalon Studio"
-                              subheader="January 25, 2021"
+                              subheader="A free, standalone framework with codeless capabilities!"
                             />
                             <CardMedia
                               className={classes.media}
-                              image="images/img-6.jpg"
-                              title="Paella dish"
+                              image="images/robo3.jpg"
+                              title="The ideal framework for teams with no coding background!"
                             />
                             <CardContent>
                               <Typography variant="body1" color="textSecondary" component="p">
-                                This impressive paella is a perfect party dish and a fun meal to cook
-                                together with your guests. Add 1 cup of frozen peas along with the
-                                mussels, if you like.
+                                One of the top tools in the Automation scene. From codeless capabilities to 
+                                fully customizable scripts, built in reporting and recorder... this is a perfect fit for a team
+                                with no coding background wanting to get into Automation quick!
                               </Typography>
                                 <span><i className="fa icon-time" /> 8hs </span>
-                                <span><i className="fa fa-calendar" /> 01/02/2021 </span>
-                                <span><i className="fa fa-dollar" /> 600 </span>
+                                <span><i className="fa fa-calendar" /> TBD </span>
                             </CardContent>
                               <CardActions disableSpacing>
                                 <IconButton
@@ -90,32 +89,57 @@ const useStyles = makeStyles(theme => ({
                               </CardActions>
                                 <Collapse in={expanded} timeout="auto" unmountOnExit>
                                   <CardContent>
-                                    <Typography paragraph>Method:</Typography>
+                                    <Typography paragraph>UI Automation with Katalon Studio.</Typography>
                                     <Typography paragraph>
-                                      Heat 1/2 cup of the broth in a pot until simmering, add saffron and
-                                      set aside for 10 minutes.
+                                    * What is Katalon Studio? <br></br>
+                                    * Advantages and limitations of Katalon Studio. <br></br>
+                                    * Setting up the tool: JDK and Katalon installation. <br></br>
+                                    * Running Katalon and getting to know the workspace. <br></br>
+                                    * Katalon Spy Web: How to capture webelements easily. <br></br>
+                                    * Katalon Object Repository: What is it and how to use it? <br></br>
+                                    * What is a WebElement? <br></br>
+                                    * Different types of Locators and how to use them. <br></br>
+                                    * Tool to create Relative XPath easily. <br></br>
+                                    * Groovy: What is this language and how to use it in Katalon. <br></br>
+                                    * Creating a Test Case using Katalon Studio with Record Playback. <br></br>
+                                    * Creating a Test Case using Katalon Studio with code. <br></br>
+                                    * Error handling with Katalon. <br></br>
+                                    * Advanced interactions on Web Applications with Katalon Studio. <br></br>
+                                    * Condition handling and looping. <br></br>
+                                    * Handling Test Data in Data Files. <br></br>
+                                    * What is Katalon Studio? <br></br>
+                                    * Taking screenshots with Katalon Studio. <br></br>
+                                    * Creating Test Suites: Collections and report generation.<br></br>
+                                    * Test Execution: Running our tests and execute blocks before and after.<br></br>
                                     </Typography>
+                                    <Typography paragraph>API Testing with Katalon.</Typography>
                                     <Typography paragraph>
-                                      Heat oil in a (14- to 16-inch) paella pan or a large, deep skillet
-                                      over medium-high heat. Add chicken, shrimp and chorizo, and cook,
-                                      stirring occasionally until lightly browned, 6 to 8 minutes.
-                                      Transfer shrimp to a large plate and set aside, leaving chicken and
-                                      chorizo in the pan. Add pimentón, bay leaves, garlic, tomatoes,
-                                      onion, salt and pepper, and cook, stirring often until thickened and
-                                      fragrant, about 10 minutes. Add saffron broth and remaining 4 1/2
-                                      cups chicken broth; bring to a boil.
+                                    * Introduction to WebServices and API: Concepts and terms. <br></br>
+                                    * Advantages of API Automation against UI Automation: When to use each. <br></br>
+                                    * Rest and SOAP WebServices. How to handle each one.<br></br>
+                                    * JSON: Understanding it's structure. <br></br>
+                                    * JSON: Manipulating and reading JSON files.<br></br>
+                                    * Types of HTTP Request: GET, POST, PUT, UPDATE, DELETE. When and how to use each one. <br></br>
+                                    * Setting up headers.<br></br>
+                                    * Setting up proxies for HTTP Requests.<br></br>
                                     </Typography>
+                                    <Typography paragraph>Advanced Katalon.</Typography>
                                     <Typography paragraph>
-                                      Add rice and stir very gently to distribute. Top with artichokes and
-                                      peppers, and cook without stirring, until most of the liquid is
-                                      absorbed, 15 to 18 minutes. Reduce heat to medium-low, add reserved
-                                      shrimp and mussels, tucking them down into the rice, and cook again
-                                      without stirring, until mussels have opened and rice is just tender,
-                                      5 to 7 minutes more. (Discard any mussels that don’t open.)
+                                    * BDD structure with Katalon Studio.<br></br>
+                                    * Gherkin language: What is it and how to use it?<br></br>
+                                    * Advanced Groovy scripting for custom keywords and listeners.<br></br>
                                     </Typography>
+                                    <Typography paragraph>Hands on practice.</Typography>
+                                    <Typography paragraph>
+                                    * Real world workshop setting up a framework to test API and UI.<br></br>
+                                    * Brainstorming of the students and teacher.<br></br>
+                                    * Implementation of the framework, test case creation and creation of repository.<br></br>
+                                    </Typography>
+                                    <Typography paragraph>What you will get from this workshop.</Typography>
                                     <Typography>
-                                      Set aside off of the heat to let rest for 10 minutes, and then
-                                      serve.
+                                      After this workshop you will have a deep understanding of Katalon Studio and how to implement a framework
+                                      around this tool for both UI and API Automation. You will be able to analyse the application under test, implement
+                                      best practices and create robust test cases.
                                     </Typography>
                                   </CardContent>
                                   </Collapse>

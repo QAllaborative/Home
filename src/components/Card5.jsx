@@ -58,23 +58,22 @@ const useStyles = makeStyles(theme => ({
     return (
         <Card className={classes.card}>
         <CardHeader
-                              title="Cypress"
-                              subheader="January 25, 2021"
+                              title="Cypress E2E Automation."
+                              subheader="Learn one of the latest and most popular frameworks in the market!"
                             />
                             <CardMedia
                               className={classes.media}
-                              image="images/img-6.jpg"
-                              title="Paella dish"
+                              image="images/robo4.jpg"
+                              title="Cypress, the new kid no the automation block!"
                             />
                             <CardContent>
                               <Typography variant="body1" color="textSecondary" component="p">
-                                This impressive paella is a perfect party dish and a fun meal to cook
-                                together with your guests. Add 1 cup of frozen peas along with the
-                                mussels, if you like.
+                                A revolutionary framework for E2E Testing with minimal setup needed and robust functionalities! Ideal for Front End
+                                Developers or testers who want to code close to the devs under a NodeJS environment.
                               </Typography>
                                 <span><i className="fa icon-time" /> 8hs </span>
-                                <span><i className="fa fa-calendar" /> 01/02/2021 </span>
-                                <span><i className="fa fa-dollar" /> 600 </span>
+                                <span><i className="fa fa-calendar" /> TBD </span>
+                                
                             </CardContent>
                               <CardActions disableSpacing>
                                 <IconButton
@@ -90,32 +89,54 @@ const useStyles = makeStyles(theme => ({
                               </CardActions>
                                 <Collapse in={expanded} timeout="auto" unmountOnExit>
                                   <CardContent>
-                                    <Typography paragraph>Method:</Typography>
+                                    <Typography paragraph>Setting up the workspace.</Typography>
                                     <Typography paragraph>
-                                      Heat 1/2 cup of the broth in a pot until simmering, add saffron and
-                                      set aside for 10 minutes.
+                                    * Installing NodeJS.<br></br>
+                                    * Installing VSCode.<br></br>
+                                    * Installing Plugins to work with Javascript.<br></br>
+                                    * Introduction to NPM.<br></br>
+                                    * Installing Cypress using NPM.<br></br>
+                                    * Installing Mochawesome package for reporting.<br></br>
                                     </Typography>
+                                    <Typography paragraph>Creating the Framework.</Typography>
                                     <Typography paragraph>
-                                      Heat oil in a (14- to 16-inch) paella pan or a large, deep skillet
-                                      over medium-high heat. Add chicken, shrimp and chorizo, and cook,
-                                      stirring occasionally until lightly browned, 6 to 8 minutes.
-                                      Transfer shrimp to a large plate and set aside, leaving chicken and
-                                      chorizo in the pan. Add pimentón, bay leaves, garlic, tomatoes,
-                                      onion, salt and pepper, and cook, stirring often until thickened and
-                                      fragrant, about 10 minutes. Add saffron broth and remaining 4 1/2
-                                      cups chicken broth; bring to a boil.
+                                    * Introduction to Cypress.<br></br>
+                                    * Getting to know the Cypress tool.<br></br>
+                                    * Creating a Test with Cypress.<br></br>
+                                    * Live mode and executing tests locally.<br></br>
+                                    * How to locate webelements with Cypress.<br></br>
+                                    * Advanced Commands in Cypress.<br></br>
+                                    * Page Object Model with Cypress: Is it possible? How?<br></br>
+                                    * Handling Test Data with Fixtures.<br></br>
+                                    * Iterating Test Data.<br></br>
+                                    * HTTP Requests with Cypress.<br></br>
+                                    * Assertions with Mocha on Cypress.<br></br>
+                                    * The Cypress.json file: What is it for and how to take advantage from it?<br></br>
+                                    * Storing Screenshots and videos of our executions.<br></br>
+                                    * The dashboard: how and when to use it.<br></br>
+                                    * Creating beautiful reports with Mochawesome.<br></br>
                                     </Typography>
+                                    <Typography paragraph>Cypress advanced.</Typography>
                                     <Typography paragraph>
-                                      Add rice and stir very gently to distribute. Top with artichokes and
-                                      peppers, and cook without stirring, until most of the liquid is
-                                      absorbed, 15 to 18 minutes. Reduce heat to medium-low, add reserved
-                                      shrimp and mussels, tucking them down into the rice, and cook again
-                                      without stirring, until mussels have opened and rice is just tender,
-                                      5 to 7 minutes more. (Discard any mussels that don’t open.)
+                                    * The Package.json file: How to use it.<br></br>  
+                                    * Creating custom commands on Cypress.<br></br>
+                                    * The Cypress.json file: What is it for and how to take advantage from it?<br></br>
+                                    * Storing Screenshots and videos of our executions.<br></br>
+                                    * The dashboard: how and when to use it.<br></br>
+                                    * Creating beautiful reports with Mochawesome.<br></br>
+                                    * Patterns in Cypress: Limitations and workarounds.<br></br>
+                                    * When and why should a team use Cypress?<br></br>
                                     </Typography>
+                                    <Typography paragraph>Hands on practice.</Typography>
+                                    <Typography paragraph>
+                                    * Real world workshop setting up a framework to test API and UI.<br></br>
+                                    * Brainstorming of the students and teacher.<br></br>
+                                    * Implementation of the framework, test case creation and creation of repository.<br></br>
+                                    </Typography>
+                                    <Typography paragraph>What you will get from this workshop.</Typography>
                                     <Typography>
-                                      Set aside off of the heat to let rest for 10 minutes, and then
-                                      serve.
+                                      After this training you will be able to recommend Cypress giving solid fundaments and implement a quick and robust
+                                      E2E Automation Framework following the best practices.
                                     </Typography>
                                   </CardContent>
                                   </Collapse>
