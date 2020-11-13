@@ -59,22 +59,21 @@ const useStyles = makeStyles(theme => ({
         <Card className={classes.card}>
         <CardHeader
                               title="Continuous Integration and DevOps on Testing."
-                              subheader="January 25, 2021"
+                              subheader="The endgame of automation to fit into the DevOps world!"
                             />
                             <CardMedia
                               className={classes.media}
                               image="images/robo2.jpg"
-                              title="Paella dish"
+                              title="Did Somebody say 'Jenkins'?"
                             />
                             <CardContent>
                               <Typography variant="body1" color="textSecondary" component="p">
-                                This impressive paella is a perfect party dish and a fun meal to cook
-                                together with your guests. Add 1 cup of frozen peas along with the
-                                mussels, if you like.
+                                You already have your framework running perfectly with your E2E Automated tests. Now it is time 
+                                for the final step: Integrating the Testing work with the Development and Operations work! How?
+                                In this workshop you will learn all what you need to start working with Jenkins, Github Actions and pipelines!
                               </Typography>
                                 <span><i className="fa icon-time" /> 8hs </span>
-                                <span><i className="fa fa-calendar" /> 01/02/2021 </span>
-                                <span><i className="fa fa-dollar" /> 600 </span>
+                                <span><i className="fa fa-calendar" /> TBD </span>
                             </CardContent>
                               <CardActions disableSpacing>
                                 <IconButton
@@ -90,32 +89,40 @@ const useStyles = makeStyles(theme => ({
                               </CardActions>
                                 <Collapse in={expanded} timeout="auto" unmountOnExit>
                                   <CardContent>
-                                    <Typography paragraph>Method:</Typography>
+                                    <Typography paragraph>Continuous Integration.</Typography>
                                     <Typography paragraph>
-                                      Heat 1/2 cup of the broth in a pot until simmering, add saffron and
-                                      set aside for 10 minutes.
+                                    * What is Continuous Integration?<br></br>
+                                    * What is DevOps? <br></br>
+                                    * Why do I need to integrate my work into the SDLC pipelines?<br></br>
+                                    * What are the most used tools in the market and in New Zealand?<br></br>
                                     </Typography>
+                                    <Typography paragraph>Jenkins.</Typography>
                                     <Typography paragraph>
-                                      Heat oil in a (14- to 16-inch) paella pan or a large, deep skillet
-                                      over medium-high heat. Add chicken, shrimp and chorizo, and cook,
-                                      stirring occasionally until lightly browned, 6 to 8 minutes.
-                                      Transfer shrimp to a large plate and set aside, leaving chicken and
-                                      chorizo in the pan. Add pimentón, bay leaves, garlic, tomatoes,
-                                      onion, salt and pepper, and cook, stirring often until thickened and
-                                      fragrant, about 10 minutes. Add saffron broth and remaining 4 1/2
-                                      cups chicken broth; bring to a boil.
+                                    * What is Continuous Integration?<br></br>
+                                    * What is DevOps? <br></br>
+                                    * Why do I need to integrate my work into the SDLC pipelines?<br></br>
+                                    * What are the most used tools in the market and in New Zealand?<br></br>
                                     </Typography>
+                                    <Typography paragraph>Github Actions.</Typography>
                                     <Typography paragraph>
-                                      Add rice and stir very gently to distribute. Top with artichokes and
-                                      peppers, and cook without stirring, until most of the liquid is
-                                      absorbed, 15 to 18 minutes. Reduce heat to medium-low, add reserved
-                                      shrimp and mussels, tucking them down into the rice, and cook again
-                                      without stirring, until mussels have opened and rice is just tender,
-                                      5 to 7 minutes more. (Discard any mussels that don’t open.)
+                                    * What is Continuous Integration?<br></br>
+                                    * What is DevOps? <br></br>
+                                    * Why do I need to integrate my work into the SDLC pipelines?<br></br>
+                                    * What are the most used tools in the market and in New Zealand?<br></br>
                                     </Typography>
+                                    <Typography paragraph>Hands on practice!</Typography>
                                     <Typography>
-                                      Set aside off of the heat to let rest for 10 minutes, and then
-                                      serve.
+                                    * What is Continuous Integration?<br></br>
+                                    * What is DevOps? <br></br>
+                                    * Why do I need to integrate my work into the SDLC pipelines?<br></br>
+                                    * What are the most used tools in the market and in New Zealand?<br></br>
+                                    </Typography>
+                                    <Typography paragraph>What you will get from this workshop.</Typography>
+                                    <Typography>
+                                    * What is Continuous Integration?<br></br>
+                                    * What is DevOps? <br></br>
+                                    * Why do I need to integrate my work into the SDLC pipelines?<br></br>
+                                    * What are the most used tools in the market and in New Zealand?<br></br>
                                     </Typography>
                                   </CardContent>
                                   </Collapse>
