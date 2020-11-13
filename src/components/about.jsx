@@ -33,8 +33,8 @@ export default class About extends Component {
         <div className="colorlib-narrow-content">
             <div className="row">
             <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-                <span className="heading-meta">What I offer</span>
-                <h2 className="colorlib-heading">Here are some of my services</h2>
+                <span className="heading-meta">Want to know more?</span>
+                <h2 className="colorlib-heading">Here are some reasons to learn with me!</h2>
             </div>
             </div>
             <div className="row row-pt-md">
