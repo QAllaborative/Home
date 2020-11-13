@@ -1,6 +1,9 @@
 import React, { Component } from 'react'
 
+
+
 export default class Projects extends Component {
+
   render() {
     return (
       <div>
@@ -17,7 +20,9 @@ export default class Projects extends Component {
 								<div className="project" style={{backgroundImage: 'url(images/img-1.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Become a Test Analyst in 1 month.</a></h3>
+											<main>
+											<h3>Become a Test Analyst in 1 month.</h3>
+											</main>
 											<span>Webinar</span>
 											<p className="icon">
 												<span><a href="#"><i className="fa icon-time" /> 8hs </a></span>
@@ -98,11 +103,12 @@ export default class Projects extends Component {
 												<span><a href="#"><i className="fa icon-time" /> 8hs </a></span>
 												<span><a href="#"><i className="fa fa-calendar" /> 23/11/2020</a></span>
 												<span><a href="#"><i className="fa fa-dollar" /> 630</a></span>
+												
 											</p>
 										</div>
 									</div>
 								</div>
-							</div>
+							</div>	
 						</div>
 						<div className="row">
 							<div className="col-md-12 animate-box">
