@@ -58,7 +58,7 @@ const useStyles = makeStyles(theme => ({
     return (
         <Card className={classes.card}>
         <CardHeader
-                              title="Continuous Integration and DevOps on Testing."
+                              title="Continuous Integration for Testing."
                               subheader="The endgame of automation to fit into the DevOps world!"
                             />
                             <CardMedia
@@ -67,10 +67,9 @@ const useStyles = makeStyles(theme => ({
                               title="Did Somebody say 'Jenkins'?"
                             />
                             <CardContent>
-                              <Typography variant="body1" color="textSecondary" component="p">
+                              <Typography variant="h6" color="textSecondary" component="p">
                                 You already have your framework running perfectly with your E2E Automated tests. Now it is time 
-                                for the final step: Integrating the Testing work with the Development and Operations work! How?
-                                In this workshop you will learn all what you need to start working with Jenkins, Github Actions and pipelines!
+                                for the final step: Integrating the Testing work with the Development and Operations work!
                               </Typography>
                                 <span><i className="fa icon-time" /> 8hs </span>
                                 <span><i className="fa fa-calendar" /> TBD </span>
@@ -89,36 +88,36 @@ const useStyles = makeStyles(theme => ({
                               </CardActions>
                                 <Collapse in={expanded} timeout="auto" unmountOnExit>
                                   <CardContent>
-                                    <Typography paragraph>Continuous Integration.</Typography>
-                                    <Typography paragraph>
+                                    <Typography paragraph variant="h5">Continuous Integration.</Typography>
+                                    <Typography paragraph variant="h6">
                                     * What is Continuous Integration?<br></br>
                                     * What is DevOps? <br></br>
                                     * Why do I need to integrate my work into the SDLC pipelines?<br></br>
                                     * What are the most used tools in the market and in New Zealand?<br></br>
                                     </Typography>
-                                    <Typography paragraph>Jenkins.</Typography>
-                                    <Typography paragraph>
+                                    <Typography paragraph variant="h5">Jenkins.</Typography>
+                                    <Typography paragraph variant="h6">
                                     * What is Continuous Integration?<br></br>
                                     * What is DevOps? <br></br>
                                     * Why do I need to integrate my work into the SDLC pipelines?<br></br>
                                     * What are the most used tools in the market and in New Zealand?<br></br>
                                     </Typography>
-                                    <Typography paragraph>Github Actions.</Typography>
-                                    <Typography paragraph>
+                                    <Typography paragraph variant="h5">Github Actions.</Typography>
+                                    <Typography paragraph variant="h6">
                                     * What is Continuous Integration?<br></br>
                                     * What is DevOps? <br></br>
                                     * Why do I need to integrate my work into the SDLC pipelines?<br></br>
                                     * What are the most used tools in the market and in New Zealand?<br></br>
                                     </Typography>
-                                    <Typography paragraph>Hands on practice!</Typography>
-                                    <Typography>
+                                    <Typography paragraph variant="h5">Hands on practice!</Typography>
+                                    <Typography paragraph variant="h6"> 
                                     * What is Continuous Integration?<br></br>
                                     * What is DevOps? <br></br>
                                     * Why do I need to integrate my work into the SDLC pipelines?<br></br>
                                     * What are the most used tools in the market and in New Zealand?<br></br>
                                     </Typography>
-                                    <Typography paragraph>What you will get from this workshop.</Typography>
-                                    <Typography>
+                                    <Typography paragraph variant="h5">What you will get from this workshop.</Typography>
+                                    <Typography paragraph variant="h6">
                                     * What is Continuous Integration?<br></br>
                                     * What is DevOps? <br></br>
                                     * Why do I need to integrate my work into the SDLC pipelines?<br></br>

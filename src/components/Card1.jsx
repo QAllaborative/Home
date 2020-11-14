@@ -67,7 +67,7 @@ const useStyles = makeStyles(theme => ({
                               title="All you need to know to take the first step towards automation!"
                             />
                             <CardContent>
-                              <Typography variant="body1" color="textSecondary" component="p">
+                              <Typography variant="h6" color="textSecondary" component="p">
                                 The very first step in order to start your journey in Automation with the right foot. Perfect for those with no background in coding or wanting to
                                 understand deeply the programming concepts used on Test Engineering.
                               </Typography>
@@ -88,8 +88,8 @@ const useStyles = makeStyles(theme => ({
                               </CardActions>
                                 <Collapse in={expanded} timeout="auto" unmountOnExit>
                                   <CardContent>
-                                    <Typography paragraph>Object Oriented Programming</Typography>
-                                    <Typography paragraph>
+                                    <Typography paragraph variant="h5">Object Oriented Programming</Typography>
+                                    <Typography paragraph variant="h6">
                                       * What is a programming language?<br></br>
                                       * Which are the most wanted languages in the market, both New Zealand and internationally?<br></br>
                                       * Object Oriented Programming and Automation Testing.<br></br>
@@ -99,8 +99,8 @@ const useStyles = makeStyles(theme => ({
                                       * Object Oriented Programming - Polymorphism: How is it used in Automation?<br></br>
                                       * Practical examples of these concepts applied to Automation Testing.<br></br>
                                     </Typography>
-                                    <Typography paragraph>Anatomy of the code</Typography>
-                                    <Typography paragraph>
+                                    <Typography paragraph variant="h5">Anatomy of the code</Typography>
+                                    <Typography paragraph variant="h6">
                                       * Installing the tools.<br></br>
                                       * What is an IDE?<br></br>
                                       * The class: What is it? How does it work?<br></br>
@@ -111,8 +111,8 @@ const useStyles = makeStyles(theme => ({
                                       * Try/Catch: What are they? How are they used?<br></br>
                                       * Practical examples of these concepts applied to Automation Testing.<br></br>
                                     </Typography>
-                                    <Typography paragraph>Working with Source Control Management</Typography>
-                                    <Typography paragraph>
+                                    <Typography paragraph variant="h5">Working with Source Control Management</Typography>
+                                    <Typography paragraph variant="h6">
                                       * What is Source Control Management? <br></br>
                                       * Why is SCM so important in Automation Testing?<br></br>
                                       * Parts of an Automation repository.<br></br>
@@ -123,14 +123,14 @@ const useStyles = makeStyles(theme => ({
                                       * Pushing the code: What you nede to know.<br></br>
                                       * Creating a Pull Request: What are they and why are they so important?<br></br>
                                     </Typography>
-                                    <Typography paragraph>Hands on practice.</Typography>
-                                    <Typography paragraph>
+                                    <Typography paragraph variant="h5">Hands on practice.</Typography>
+                                    <Typography paragraph variant="h6">
                                     * Real world workshop setting up a framework to test API and UI.<br></br>
                                     * Brainstorming of the students and teacher.<br></br>
                                     * Implementation of the framework, test case creation and creation of repository.<br></br>
                                     </Typography>
-                                    <Typography paragraph>What you will get from this workshop.</Typography>
-                                    <Typography>
+                                    <Typography paragraph variant="h5">What you will get from this workshop.</Typography>
+                                    <Typography paragraph variant="h6">
                                       After this training, you will have the coding skills needed to tackle the more advanced workshops in which
                                       we start automating tests, using all the concepts from this module. If you are already familiar with them, you
                                       can skip this workshop and start right from a more advanced one!

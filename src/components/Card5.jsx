@@ -67,7 +67,7 @@ const useStyles = makeStyles(theme => ({
                               title="Cypress, the new kid no the automation block!"
                             />
                             <CardContent>
-                              <Typography variant="body1" color="textSecondary" component="p">
+                              <Typography variant="h6" color="textSecondary" component="p">
                                 A revolutionary framework for E2E Testing with minimal setup needed and robust functionalities! Ideal for Front End
                                 Developers or testers who want to code close to the devs under a NodeJS environment.
                               </Typography>
@@ -89,8 +89,8 @@ const useStyles = makeStyles(theme => ({
                               </CardActions>
                                 <Collapse in={expanded} timeout="auto" unmountOnExit>
                                   <CardContent>
-                                    <Typography paragraph>Setting up the workspace.</Typography>
-                                    <Typography paragraph>
+                                    <Typography paragraph variant="h5">Setting up the workspace.</Typography>
+                                    <Typography paragraph variant="h6">
                                     * Installing NodeJS.<br></br>
                                     * Installing VSCode.<br></br>
                                     * Installing Plugins to work with Javascript.<br></br>
@@ -98,8 +98,8 @@ const useStyles = makeStyles(theme => ({
                                     * Installing Cypress using NPM.<br></br>
                                     * Installing Mochawesome package for reporting.<br></br>
                                     </Typography>
-                                    <Typography paragraph>Creating the Framework.</Typography>
-                                    <Typography paragraph>
+                                    <Typography paragraph variant="h5">Creating the Framework.</Typography>
+                                    <Typography paragraph variant="h6">
                                     * Introduction to Cypress.<br></br>
                                     * Getting to know the Cypress tool.<br></br>
                                     * Creating a Test with Cypress.<br></br>
@@ -116,8 +116,8 @@ const useStyles = makeStyles(theme => ({
                                     * The dashboard: how and when to use it.<br></br>
                                     * Creating beautiful reports with Mochawesome.<br></br>
                                     </Typography>
-                                    <Typography paragraph>Cypress advanced.</Typography>
-                                    <Typography paragraph>
+                                    <Typography paragraph variant="h5">Cypress advanced.</Typography>
+                                    <Typography paragraph variant="h6">
                                     * The Package.json file: How to use it.<br></br>  
                                     * Creating custom commands on Cypress.<br></br>
                                     * The Cypress.json file: What is it for and how to take advantage from it?<br></br>
@@ -127,14 +127,14 @@ const useStyles = makeStyles(theme => ({
                                     * Patterns in Cypress: Limitations and workarounds.<br></br>
                                     * When and why should a team use Cypress?<br></br>
                                     </Typography>
-                                    <Typography paragraph>Hands on practice.</Typography>
-                                    <Typography paragraph>
+                                    <Typography paragraph variant="h5">Hands on practice.</Typography>
+                                    <Typography paragraph variant="h6">
                                     * Real world workshop setting up a framework to test API and UI.<br></br>
                                     * Brainstorming of the students and teacher.<br></br>
                                     * Implementation of the framework, test case creation and creation of repository.<br></br>
                                     </Typography>
-                                    <Typography paragraph>What you will get from this workshop.</Typography>
-                                    <Typography>
+                                    <Typography paragraph variant="h5">What you will get from this workshop.</Typography>
+                                    <Typography paragraph variant="h6">
                                       After this training you will be able to recommend Cypress giving solid fundaments and implement a quick and robust
                                       E2E Automation Framework following the best practices.
                                     </Typography>

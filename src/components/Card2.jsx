@@ -68,7 +68,7 @@ const useStyles = makeStyles(theme => ({
                                 title="The first and last Selenium workshop you will need!"
                               />
                               <CardContent>
-                                <Typography variant="body1" color="textSecondary" component="p">
+                                <Typography variant="h6" color="textSecondary" component="p">
                                   Unlike most workshops, here you will get the knowledge to tackle Selenium Webdriver with a wide arrange of techniques, tools and languages
                                   to be ready for the market. From starting, to mastering it, be a Selenium ready tester in no time!
                                 </Typography>
@@ -89,8 +89,8 @@ const useStyles = makeStyles(theme => ({
                                 </CardActions>
                                   <Collapse in={expanded} timeout="auto" unmountOnExit>
                                     <CardContent>
-                                      <Typography paragraph>Selenium with Java and Cucumber</Typography>
-                                      <Typography paragraph>
+                                      <Typography paragraph variant="h5">Selenium with Java and Cucumber</Typography>
+                                      <Typography paragraph variant="h6">
                                       * Setting up the workspace: VSCode, JDK, Plugins and more!<br></br>
                                       * Creating our first project with Gradle/Maven and Java.<br></br>
                                       * Creating our Base Page class. Introduction to Selenium.<br></br>
@@ -123,8 +123,8 @@ const useStyles = makeStyles(theme => ({
                                       * Creating Tests with TestNG.<br></br>
                                       * Grouping Tests with TestNG suites.<br></br>
                                       </Typography>
-                                      <Typography paragraph>Advanced Selenium WebDriver.</Typography>
-                                      <Typography paragraph>
+                                      <Typography paragraph variant="h5">Advanced Selenium WebDriver.</Typography>
+                                      <Typography paragraph variant="h6">
                                       * Dependency injection: What is it and when to use it?<br></br>
                                       * Creating the World object, keys to this concept.<br></br>
                                       * Connecting the WebDriver with the World class.<br></br>
@@ -132,17 +132,18 @@ const useStyles = makeStyles(theme => ({
                                       * Adding crossbrowser capabilities to our framework.<br></br>
                                       * Creating our real world Automation project putting the gained knowledge into practice!<br></br>
                                       </Typography>
-                                      <Typography paragraph>
-                                        Add rice and stir very gently to distribute. Top with artichokes and
-                                        peppers, and cook without stirring, until most of the liquid is
-                                        absorbed, 15 to 18 minutes. Reduce heat to medium-low, add reserved
-                                        shrimp and mussels, tucking them down into the rice, and cook again
-                                        without stirring, until mussels have opened and rice is just tender,
-                                        5 to 7 minutes more. (Discard any mussels that don’t open.)
+                                      <Typography paragraph variant="h5">Final practice.</Typography>
+                                      <Typography paragraph variant="h6">
+                                      * Automation feasibility of a Web Site<br></br>
+                                      * Creating the framework in groups.<br></br>
+                                      * Brainstorming the approach.<br></br>
+                                      * Implementation of the framework.<br></br>
+                                      * Automating test cases while working with SCM in groups.<br></br>
                                       </Typography>
-                                      <Typography>
-                                        Set aside off of the heat to let rest for 10 minutes, and then
-                                        serve.
+                                      <Typography paragraph variant="h5">After this workshop you will be able to...</Typography>
+                                      <Typography variant="h6">
+                                      Work with the best practices in mind in Automation for UI Testing. Join a team already working with SCM, suggest
+                                      to use it if not, and be able to create the workflow to achieve the highest efficiency. 
                                       </Typography>
                                     </CardContent>
                                     </Collapse>

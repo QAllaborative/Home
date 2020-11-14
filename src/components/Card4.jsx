@@ -67,7 +67,7 @@ const useStyles = makeStyles(theme => ({
                               title="The ideal framework for teams with no coding background!"
                             />
                             <CardContent>
-                              <Typography variant="body1" color="textSecondary" component="p">
+                              <Typography variant="h6" color="textSecondary" component="p">
                                 One of the top tools in the Automation scene. From codeless capabilities to 
                                 fully customizable scripts, built in reporting and recorder... this is a perfect fit for a team
                                 with no coding background wanting to get into Automation quick!
@@ -89,8 +89,8 @@ const useStyles = makeStyles(theme => ({
                               </CardActions>
                                 <Collapse in={expanded} timeout="auto" unmountOnExit>
                                   <CardContent>
-                                    <Typography paragraph>UI Automation with Katalon Studio.</Typography>
-                                    <Typography paragraph>
+                                    <Typography paragraph variant="h5">UI Automation with Katalon Studio.</Typography>
+                                    <Typography paragraph variant="h6">
                                     * What is Katalon Studio? <br></br>
                                     * Advantages and limitations of Katalon Studio. <br></br>
                                     * Setting up the tool: JDK and Katalon installation. <br></br>
@@ -112,8 +112,8 @@ const useStyles = makeStyles(theme => ({
                                     * Creating Test Suites: Collections and report generation.<br></br>
                                     * Test Execution: Running our tests and execute blocks before and after.<br></br>
                                     </Typography>
-                                    <Typography paragraph>API Testing with Katalon.</Typography>
-                                    <Typography paragraph>
+                                    <Typography paragraph variant="h5">API Testing with Katalon.</Typography>
+                                    <Typography paragraph variant="h6">
                                     * Introduction to WebServices and API: Concepts and terms. <br></br>
                                     * Advantages of API Automation against UI Automation: When to use each. <br></br>
                                     * Rest and SOAP WebServices. How to handle each one.<br></br>
@@ -123,20 +123,20 @@ const useStyles = makeStyles(theme => ({
                                     * Setting up headers.<br></br>
                                     * Setting up proxies for HTTP Requests.<br></br>
                                     </Typography>
-                                    <Typography paragraph>Advanced Katalon.</Typography>
-                                    <Typography paragraph>
+                                    <Typography paragraph variant="h5">Advanced Katalon.</Typography>
+                                    <Typography paragraph variant="h6">
                                     * BDD structure with Katalon Studio.<br></br>
                                     * Gherkin language: What is it and how to use it?<br></br>
                                     * Advanced Groovy scripting for custom keywords and listeners.<br></br>
                                     </Typography>
-                                    <Typography paragraph>Hands on practice.</Typography>
-                                    <Typography paragraph>
+                                    <Typography paragraph variant="h5">Hands on practice.</Typography>
+                                    <Typography paragraph variant="h6">
                                     * Real world workshop setting up a framework to test API and UI.<br></br>
                                     * Brainstorming of the students and teacher.<br></br>
                                     * Implementation of the framework, test case creation and creation of repository.<br></br>
                                     </Typography>
-                                    <Typography paragraph>What you will get from this workshop.</Typography>
-                                    <Typography>
+                                    <Typography paragraph variant="h5">What you will get from this workshop.</Typography>
+                                    <Typography paragraph variant="h6">
                                       After this workshop you will have a deep understanding of Katalon Studio and how to implement a framework
                                       around this tool for both UI and API Automation. You will be able to analyse the application under test, implement
                                       best practices and create robust test cases.

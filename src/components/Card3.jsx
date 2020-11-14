@@ -67,7 +67,7 @@ const useStyles = makeStyles(theme => ({
         title="Implement the best practices in your automation work with this API Automation Workshop!"
     />
     <CardContent>
-        <Typography variant="body1" color="textSecondary" component="p">
+        <Typography variant="h6" color="textSecondary" component="p">
             Get into the world of API Automation with this extensive workshop covering the creation, from scratch, of a framework to automate HTTP Requests
             with Java, Rest Assured, Cucumber and Allure. Ideal for anyone who wants to add APIs to their toolbelt!
         </Typography>
@@ -88,8 +88,8 @@ const useStyles = makeStyles(theme => ({
         </CardActions>
         <Collapse in={expanded} timeout="auto" unmountOnExit>
             <CardContent>
-        <Typography paragraph>Setting up our workspace.</Typography>
-        <Typography paragraph>
+        <Typography paragraph variant="h5">Setting up our workspace.</Typography>
+        <Typography paragraph variant="h6">
         * Installation of VSCode<br></br>
         * Using Gradle and getting the dependencies for our framework.<br></br>
         * Installation of Allure<br></br>
@@ -97,8 +97,8 @@ const useStyles = makeStyles(theme => ({
         * Introduction to the concept of API: What are they? How can we test them?<br></br>
 
 </Typography>
-<Typography paragraph>Creating our API Automation Framework.</Typography>
-<Typography paragraph>
+<Typography paragraph variant="h5">Creating our API Automation Framework.</Typography>
+<Typography paragraph variant="h6">
         * Introduction to Rest Assured: What is it? How do we use it to test HTTP Requests?<br></br>
         * Using Cucumber to create our Scenarios for API Testing.<br></br>
         * Creation of Step Definitions for API Testing.<br></br>
@@ -114,20 +114,20 @@ const useStyles = makeStyles(theme => ({
         * Making a DELETE Request.<br></br>
         * Using cURL for API Test prototyping.<br></br>
 </Typography>
-<Typography paragraph>Creating our reports with Allure.</Typography>
-<Typography paragraph>
+<Typography paragraph variant="h5">Creating our reports with Allure.</Typography>
+<Typography paragraph variant="h6">
         * Setting up the Allure: Plugins needed and code.<br></br>
         * Custom reports with Allure.<br></br>
 
 </Typography>
-<Typography paragraph>Hands on practice.</Typography>
-                                    <Typography paragraph>
+<Typography paragraph variant="h5">Hands on practice.</Typography>
+                                    <Typography paragraph variant="h6">
                                     * Real world workshop setting up a framework to test API and UI.<br></br>
                                     * Brainstorming of the students and teacher.<br></br>
                                     * Implementation of the framework, test case creation and creation of repository.<br></br>
                                     </Typography>
-<Typography paragraph>What you will get from this workshop.</Typography>
-<Typography paragraph>
+<Typography paragraph variant="h5">What you will get from this workshop.</Typography>
+<Typography paragraph variant="h6">
 After this workshop you will be able to create frameworks from scratch, following the best practices, to test with API Automation. The knowledge you will get there is all based in my personal experience internationally as well as in New Zealand,
 thinking in what the market demands the most for this type of work.
 </Typography>

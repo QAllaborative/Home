@@ -13,7 +13,7 @@ import Tarjeta6 from './Card6'
         				<section className="colorlib-work" data-section="projects">
         					<div className="colorlib-narrow-content">
         						<div className="row">
-        							<div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
+        							<div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInBottom">
         								<span className="heading-meta">Learn today</span>
         								<h2 className="colorlib-heading animate-box">Bootcamps</h2>
         							</div>
@@ -26,14 +26,14 @@ import Tarjeta6 from './Card6'
         										</div>
         									</div>
         							        </div>
-                                        <div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+                                        <div className="col-md-4 animate-box" data-animate-effect="fadeInTop">
         									<div className="desc">
         										<div className="con">
                                                 <Tarjeta2></Tarjeta2>
         										</div>
         									</div>
         							</div>
-                                        <div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+                                        <div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
         									<div className="desc">
         										<div className="con">
                                                 <Tarjeta3></Tarjeta3>
@@ -49,14 +49,14 @@ import Tarjeta6 from './Card6'
         										</div>
         									</div>
         							        </div>
-                                        <div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+                                        <div className="col-md-4 animate-box" data-animate-effect="fadeInTop">
         									<div className="desc">
         										<div className="con">
                                                 <Tarjeta5></Tarjeta5>
         										</div>
         									</div>
         							</div>
-                                        <div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+                                        <div className="col-md-4 animate-box" data-animate-effect="fadeInRight">
         									<div className="desc">
         										<div className="con">
                                                 <Tarjeta6></Tarjeta6>
