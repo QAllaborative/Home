@@ -13,15 +13,15 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Creating the pool of professionals New Zealand needs!</h2>
-                    <p>I'm a Senior SDET from Argentina living in New Zealand and loving every aspect of it! After 3 years of working in the local scene, I've decided to put my expertise and knowledge as a service to deliver the best testing solutions and enable a fast paced workflow!</p>
-                    <p>As a professional coach and consultant based in the beautiful city of Wellington, I teach the ways of Automation and Test Engineering, as well as perform audits and enhance the Automation mahi for my clients, leading by example! </p>
+                    <p>I'm a <strong>Senior SDET</strong> from Argentina living in New Zealand and loving every aspect of it! After 3 years of working in the local scene, I've decided to put my expertise and knowledge as a service to deliver the best testing solutions and enable a fast paced workflow!</p>
+                    <p>As a professional coach and consultant <strong>based in the beautiful city of Wellington</strong>, I teach the ways of Automation and Test Engineering, as well as perform audits and enhance the Automation mahi for my clients, leading by example! </p>
                     <p>Find which path of Software Testing you want to follow and grow your skills and experience with real world applications with my help. Test Analyst? Test Engineer? Performance Tester? All of them are excellent options to get into the market for job hunting!</p>
-                    <p>Be ready to apply to highly demanded job positions with top notch benefits and salaries in New Zealand and the world! Want to know more about why working as a Tester is perfect for you? Check this <a href="https://www.careers.govt.nz/jobs-database/it-and-telecommunications/information-technology/test-analyst/about-the-job" target="_blank" rel="noopener noreferrer">link!</a></p>
-                    <h2 className="colorlib-heading">Providing the best services in Automation Testing in New Zealand.</h2>
-                    <p>I'm a Senior SDET from Argentina living in New Zealand and loving every aspect of it! After 3 years of working in the local scene, I've decided to put my expertise and knowledge as a service to deliver the best testing solutions and enable a fast paced workflow!</p>
-                    <p>As a professional coach and consultant based in the beautiful city of Wellington, I teach the ways of Automation and Test Engineering, as well as perform audits and enhance the Automation mahi for my clients, leading by example! </p>
-                    <p>Find which path of Software Testing you want to follow and grow your skills and experience with real world applications with my help. Test Analyst? Test Engineer? Performance Tester? All of them are excellent options to get into the market for job hunting!</p>
-                    <p>Be ready to apply to highly demanded job positions with top notch benefits and salaries in New Zealand and the world! Want to know more about why working as a Tester is perfect for you? Check this</p>
+                    <p>Be ready to apply to highly demanded job positions with top notch benefits and salaries in New Zealand and the world! Want to know more about why working as a Tester is perfect for you? <strong>Check this</strong> <a href="https://www.careers.govt.nz/jobs-database/it-and-telecommunications/information-technology/test-analyst/about-the-job" target="_blank" rel="noopener noreferrer">link!</a></p>
+                    <h2 className="colorlib-heading">Why learning Automation with me?</h2>
+                    <p>I understand the testing market in New Zealand and have vast experience teaching previous moving from overseas. This means that, <strong>if you are looking to get the skills to get into the market</strong>, there is no better place than here to start!</p>
+                    <p>My goal is to make learning Automation a <strong>fun, interactive experience</strong> for everyone and help every single student to achieve a robust, solid experience to start looking for jobs in this discipline.</p>
+                    <p><strong>Our country, our timezone</strong>. From support to live workshops across New Zealand, you'll be supporting a kiwi based initiative to help other kiwis kickoff or take their Testing career to the next level! </p>
+                    <p>Plenty of options to start learning: From webinars, to live workshops on the city, to on-site intensive trainings for Teams. <strong>There is an option for every need</strong>.</p>
                     </div>
                 </div>
                 </div>
@@ -43,7 +43,7 @@ export default class About extends Component {
                 <span className="icon">
                     <i className="fa fa-bug" />
                 </span>
-                <div className="desc">
+                <div className="desc" data-animate-effect="fadeInLeft">
                     <h3>E2E Automation</h3>
                     <p>No matter what your requirements are, I can do it. More than 10 years developing Test solutions using JavaScript, C#, Java/Groovy and Python with the main tools in the market, such as Selenium, PyTest, RestAssured, Cypress and more gives me a clear view of what works.</p>
                 </div>
@@ -54,7 +54,7 @@ export default class About extends Component {
                 <span className="icon">
                     <i className="fa fa-cogs" />
                 </span>
-                <div className="desc">
+                <div className="desc" data-animate-effect="fadeInTop">
                     <h3>Test Engineering</h3>
                     <p>From the analysis of what automation can do for you, to setting up the SCM and CI workflows on tools such as Github, Bitbucket, Jenkins and GitHub Actions, I deliver Test Engineering as a whole while following the best practices and enabling DevOps in your pipelines.</p>
                 </div>
@@ -65,7 +65,7 @@ export default class About extends Component {
                 <span className="icon">
                     <i className="icon-code" />
                 </span>
-                <div className="desc">
+                <div className="desc" data-animate-effect="fadeInBottom">
                     <h3>Test Automation audits</h3>
                     <p>An initial assessment will provide you with the information needed and the next steps to take your test team in the right direction. From the planning to the execution, I deliver all your team need to start adding value and not just maintaining scripts. Avoid the pitfalls!</p>
                 </div>
@@ -76,7 +76,7 @@ export default class About extends Component {
                 <span className="icon">
                     <i className="icon-bulb" />
                 </span>
-                <div className="desc">
+                <div className="desc" data-animate-effect="fadeInRight">
                     <h3>Test Engineering workshops</h3>
                     <p>With the right guidance you can be doing real world test automation following the best practices, here, in New Zealand and with someone assisting you! Check the calendar or contact me for more information about upcoming workshops and other options to get you or your team aboard! </p>
                 </div>
