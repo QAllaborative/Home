@@ -129,7 +129,7 @@ const useStyles = makeStyles(theme => ({
                                     </Typography>
                                     <Typography paragraph variant="h5">Hands on practice.</Typography>
                                     <Typography paragraph variant="h6">
-                                    * Real world workshop setting up a framework to test API and UI.<br></br>
+                                    * Real world workshop setting up a Cypress framework to test API and UI.<br></br>
                                     * Brainstorming of the students and teacher.<br></br>
                                     * Implementation of the framework, test case creation and creation of repository.<br></br>
                                     </Typography>

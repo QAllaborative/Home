@@ -125,9 +125,9 @@ const useStyles = makeStyles(theme => ({
                                     </Typography>
                                     <Typography paragraph variant="h5">Hands on practice.</Typography>
                                     <Typography paragraph variant="h6">
-                                    * Real world workshop setting up a framework to test API and UI.<br></br>
-                                    * Brainstorming of the students and teacher.<br></br>
-                                    * Implementation of the framework, test case creation and creation of repository.<br></br>
+                                    * Real world workshop setting up a repository and solving coding challenges.<br></br>
+                                    * Brainstorming of the students and teacher to share different solutions.<br></br>
+                                    * Explaining the techniques used and why they were picked as the go to approach.<br></br>
                                     </Typography>
                                     <Typography paragraph variant="h5">What you will get from this workshop.</Typography>
                                     <Typography paragraph variant="h6">
