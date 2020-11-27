@@ -140,7 +140,7 @@ const useStyles = makeStyles(theme => ({
                                       * Implementation of the framework.<br></br>
                                       * Automating test cases while working with SCM in groups.<br></br>
                                       </Typography>
-                                      <Typography paragraph variant="h5">After this workshop you will be able to...</Typography>
+                                      <Typography paragraph variant="h5">Take aways.</Typography>
                                       <Typography variant="h6">
                                       Work with the best practices in mind in Automation for UI Testing. Join a team already working with SCM, suggest
                                       to use it if not, and be able to create the workflow to achieve the highest efficiency. 

@@ -126,7 +126,7 @@ const useStyles = makeStyles(theme => ({
                                     * Brainstorming of the students and teacher.<br></br>
                                     * Implementation of the framework, test case creation and creation of repository.<br></br>
                                     </Typography>
-<Typography paragraph variant="h5">What you will get from this workshop.</Typography>
+<Typography paragraph variant="h5">Take aways.</Typography>
 <Typography paragraph variant="h6">
 After this workshop you will be able to create frameworks from scratch, following the best practices, to test with API Automation. The knowledge you will get there is all based in my personal experience internationally as well as in New Zealand,
 thinking in what the market demands the most for this type of work.

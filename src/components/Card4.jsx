@@ -135,7 +135,7 @@ const useStyles = makeStyles(theme => ({
                                     * Brainstorming of the students and teacher.<br></br>
                                     * Implementation of the framework, test case creation and creation of repository.<br></br>
                                     </Typography>
-                                    <Typography paragraph variant="h5">What you will get from this workshop.</Typography>
+                                    <Typography paragraph variant="h5">Take aways.</Typography>
                                     <Typography paragraph variant="h6">
                                       After this workshop you will have a deep understanding of Katalon Studio and how to implement a framework
                                       around this tool for both UI and API Automation. You will be able to analyse the application under test, implement

@@ -116,7 +116,7 @@ const useStyles = makeStyles(theme => ({
                                     * Why do I need to integrate my work into the SDLC pipelines?<br></br>
                                     * What are the most used tools in the market and in New Zealand?<br></br>
                                     </Typography>
-                                    <Typography paragraph variant="h5">What you will get from this workshop.</Typography>
+                                    <Typography paragraph variant="h5">Take aways.</Typography>
                                     <Typography paragraph variant="h6">
                                     * What is Continuous Integration?<br></br>
                                     * What is DevOps? <br></br>

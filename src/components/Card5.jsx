@@ -133,7 +133,7 @@ const useStyles = makeStyles(theme => ({
                                     * Brainstorming of the students and teacher.<br></br>
                                     * Implementation of the framework, test case creation and creation of repository.<br></br>
                                     </Typography>
-                                    <Typography paragraph variant="h5">What you will get from this workshop.</Typography>
+                                    <Typography paragraph variant="h5">Take aways.</Typography>
                                     <Typography paragraph variant="h6">
                                       After this training you will be able to recommend Cypress giving solid fundaments and implement a quick and robust
                                       E2E Automation Framework following the best practices.

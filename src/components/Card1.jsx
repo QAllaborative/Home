@@ -129,7 +129,7 @@ const useStyles = makeStyles(theme => ({
                                     * Brainstorming of the students and teacher to share different solutions.<br></br>
                                     * Explaining the techniques used and why they were picked as the go to approach.<br></br>
                                     </Typography>
-                                    <Typography paragraph variant="h5">What you will get from this workshop.</Typography>
+                                    <Typography paragraph variant="h5">Take aways.</Typography>
                                     <Typography paragraph variant="h6">
                                       After this training, you will have the coding skills needed to tackle the more advanced workshops in which
                                       we start automating tests, using all the concepts from this module. If you are already familiar with them, you
