@@ -5,6 +5,7 @@ import Introduction from './components/introduction'
 import About from './components/about'
 import Timeline from './components/timeline'
 import Cards from './components/Cards'
+import Cookies from './components/Cookies'
 
 class App extends Component {
   render() {
@@ -17,6 +18,7 @@ class App extends Component {
 					<About></About>
 					<Timeline></Timeline>
           <Cards></Cards>
+          <Cookies></Cookies>
           	</div>
       	</div>
       </div>
