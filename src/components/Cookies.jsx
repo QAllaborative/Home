@@ -11,7 +11,7 @@ export default class CookiesConsent extends Component {
                 style={{ 
                     background: "#97FF64",
                     position: "fixed",
-                    width: "100%",
+                    width: "50%",
                     zIndex: "999"
                 
                 }}
