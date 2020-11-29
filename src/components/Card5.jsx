@@ -59,7 +59,7 @@ const useStyles = makeStyles(theme => ({
         <Card className={classes.card}>
         <CardHeader
                               title="Cypress E2E Automation."
-                              subheader="Learn one of the latest and most popular frameworks in the market!"
+                              subheader="Learn one of the latest and most popular frameworks!"
                             />
                             <CardMedia
                               className={classes.media}

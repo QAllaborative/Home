@@ -18,14 +18,14 @@ export default class Sidebar extends Component {
                 <ul>
                   <li className="active"><a href="#home" data-nav-section="home">Introduction</a></li>
                   <li><a href="#about" data-nav-section="about">About</a></li>
-                  {/*<li><a href="#" data-nav-section="projects">Projects</a></li>
-                  <li><a href="#" data-nav-section="blog">Blog</a></li>*/}
                   <li><a href="#timeline" data-nav-section="timeline">Timeline</a></li>
                 </ul>
               </div>
             </nav>
+            <nav id="colorlib-main-menu" role="navigation" className="navbar">
             <h3 style={{width: '295px', textAlign: 'center'}}id="colorlib-logo">Upcoming workshops</h3>
             <div style={{width: '295px', textAlign: 'center'}}><iframe src="https://www.eventbrite.co.nz/calendar-widget?eid=127808698257&showPrivate=1&sig=AGbIMNx16l77sf2ezOCT6nxSX7356MeF9g" frameBorder={0} height={534} width={195} marginHeight={0} marginWidth={0} scrolling="no" allowTransparency="true" /></div>
+            </nav>
             <nav id="colorlib-main-menu">
               <ul>
                 <li><a href="https://www.facebook.com/pateeto.miner" target="_blank" rel="noopener noreferrer"><i className="icon-facebook2" /></a></li>
