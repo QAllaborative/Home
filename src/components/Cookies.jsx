@@ -9,7 +9,7 @@ export default class CookiesConsent extends Component {
                 buttonText="Accept"
                 cookieName="galletitasAutomation"
                 style={{ 
-                    background: "#97FF64",
+                    background: "##DAF7A6",
                     position: "fixed",
                     width: "50%",
                     zIndex: "999"
