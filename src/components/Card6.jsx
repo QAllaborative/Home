@@ -88,41 +88,37 @@ const useStyles = makeStyles(theme => ({
                               </CardActions>
                                 <Collapse in={expanded} timeout="auto" unmountOnExit>
                                   <CardContent>
-                                    <Typography paragraph variant="h5">Continuous Integration.</Typography>
-                                    <Typography paragraph variant="h6">
-                                    * What is Continuous Integration?<br></br>
-                                    * What is DevOps? <br></br>
-                                    * Why do I need to integrate my work into the SDLC pipelines?<br></br>
-                                    * What are the most used tools in the market and in New Zealand?<br></br>
-                                    </Typography>
-                                    <Typography paragraph variant="h5">Jenkins.</Typography>
-                                    <Typography paragraph variant="h6">
-                                    * What is Continuous Integration?<br></br>
-                                    * What is DevOps? <br></br>
-                                    * Why do I need to integrate my work into the SDLC pipelines?<br></br>
-                                    * What are the most used tools in the market and in New Zealand?<br></br>
-                                    </Typography>
-                                    <Typography paragraph variant="h5">Github Actions.</Typography>
-                                    <Typography paragraph variant="h6">
-                                    * What is Continuous Integration?<br></br>
-                                    * What is DevOps? <br></br>
-                                    * Why do I need to integrate my work into the SDLC pipelines?<br></br>
-                                    * What are the most used tools in the market and in New Zealand?<br></br>
-                                    </Typography>
-                                    <Typography paragraph variant="h5">Hands on practice!</Typography>
-                                    <Typography paragraph variant="h6"> 
-                                    * What is Continuous Integration?<br></br>
-                                    * What is DevOps? <br></br>
-                                    * Why do I need to integrate my work into the SDLC pipelines?<br></br>
-                                    * What are the most used tools in the market and in New Zealand?<br></br>
-                                    </Typography>
-                                    <Typography paragraph variant="h5">Take aways.</Typography>
-                                    <Typography paragraph variant="h6">
-                                    * What is Continuous Integration?<br></br>
-                                    * What is DevOps? <br></br>
-                                    * Why do I need to integrate my work into the SDLC pipelines?<br></br>
-                                    * What are the most used tools in the market and in New Zealand?<br></br>
-                                    </Typography>
+                                  <Typography paragraph variant="h5"><strong>Content.</strong></Typography>
+        <Typography paragraph variant="h6">
+        * Installation of tools.<br></br>
+        * Creation of our API Automation Framework.<br></br>
+        * Creation of custom reports.<br></br>
+      </Typography>
+      <Typography paragraph variant="h5"><strong>Who is this course for?</strong></Typography>
+      <Typography paragraph variant="h6">
+      * Test Analysts who want to grow their automation skills.<br></br>
+      * People with no coding background wanting to start their automation career.<br></br>
+      * Automation Testers who want to know the foundations to grow their careers.<br></br>
+      </Typography>
+      <Typography paragraph variant="h5"><strong>What you will need for this course?</strong></Typography>
+      <Typography paragraph variant="h6">
+      * A personal computer or laptop. <br></br>
+      * Learning mindset!<br></br>
+      * Internet connection.<br></br>
+      * Optional: A headset to communicate.<br></br>
+      </Typography>
+      <Typography paragraph variant="h5"><strong>Where and when is this happening?</strong></Typography>
+      <Typography paragraph variant="h6">
+      * Online trainings on the internet announced here, on LinkedIn and the calendar!<br></br>
+      * On-site trainings on your company on demand!<br></br>
+      * In hired rooms across New Zealand when announced.<br></br>
+      Get your spot for the workshops, webinars and talks on Eventbrite!<br></br>
+      </Typography>
+      <Typography paragraph variant="h5"><strong>Take aways.</strong></Typography>
+      <Typography paragraph variant="h6">
+        After this workshop you will be able to create frameworks from scratch, following the best practices, to test with API Automation. The knowledge you will get there is all based in my personal experience internationally as well as in New Zealand,
+        thinking in what the market demands the most for this type of work.
+      </Typography>
                                   </CardContent>
                                   </Collapse>
       </Card>

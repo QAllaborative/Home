@@ -88,49 +88,37 @@ const useStyles = makeStyles(theme => ({
         </CardActions>
         <Collapse in={expanded} timeout="auto" unmountOnExit>
             <CardContent>
-        <Typography paragraph variant="h5">Setting up our workspace.</Typography>
+        <Typography paragraph variant="h5"><strong>Content.</strong></Typography>
         <Typography paragraph variant="h6">
-        * Installation of VSCode<br></br>
-        * Using Gradle and getting the dependencies for our framework.<br></br>
-        * Installation of Allure<br></br>
-        * Installation of Cucumber<br></br>
-        * Introduction to the concept of API: What are they? How can we test them?<br></br>
-
-</Typography>
-<Typography paragraph variant="h5">Creating our API Automation Framework.</Typography>
-<Typography paragraph variant="h6">
-        * Introduction to Rest Assured: What is it? How do we use it to test HTTP Requests?<br></br>
-        * Using Cucumber to create our Scenarios for API Testing.<br></br>
-        * Creation of Step Definitions for API Testing.<br></br>
-        * JSON: What is it and how do we use it?<br></br>
-        * Validating the HTTP Responses.<br></br>
-        * HTTP Status Code and debugging.<br></br>
-        * Handling TLS and security when doing HTTP Requests under secured connections.<br></br>
-        * Iteration of nested values in the responses.<br></br>
-        * Setting headers on our HTTP Requests.<br></br>
-        * Making a GET Request.<br></br>
-        * Making a POST Request: Use of body and parameters to be sent with our request.<br></br>
-        * Making a PUT Request.<br></br>
-        * Making a DELETE Request.<br></br>
-        * Using cURL for API Test prototyping.<br></br>
-</Typography>
-<Typography paragraph variant="h5">Creating our reports with Allure.</Typography>
-<Typography paragraph variant="h6">
-        * Setting up the Allure: Plugins needed and code.<br></br>
-        * Custom reports with Allure.<br></br>
-
-</Typography>
-<Typography paragraph variant="h5">Hands on practice.</Typography>
-                                    <Typography paragraph variant="h6">
-                                    * Real world workshop setting up a framework to test API with everything learned.<br></br>
-                                    * Brainstorming of the students and teacher.<br></br>
-                                    * Implementation of the framework, test case creation and creation of repository.<br></br>
-                                    </Typography>
-<Typography paragraph variant="h5">Take aways.</Typography>
-<Typography paragraph variant="h6">
-After this workshop you will be able to create frameworks from scratch, following the best practices, to test with API Automation. The knowledge you will get there is all based in my personal experience internationally as well as in New Zealand,
-thinking in what the market demands the most for this type of work.
-</Typography>
+        * Installation of tools.<br></br>
+        * Creation of our API Automation Framework.<br></br>
+        * Creation of custom reports.<br></br>
+      </Typography>
+      <Typography paragraph variant="h5"><strong>Who is this course for?</strong></Typography>
+      <Typography paragraph variant="h6">
+      * Test Analysts who want to grow their automation skills.<br></br>
+      * People with no coding background wanting to start their automation career.<br></br>
+      * Automation Testers who want to know the foundations to grow their careers.<br></br>
+      </Typography>
+      <Typography paragraph variant="h5"><strong>What you will need for this course?</strong></Typography>
+      <Typography paragraph variant="h6">
+      * A personal computer or laptop. <br></br>
+      * Learning mindset!<br></br>
+      * Internet connection.<br></br>
+      * Optional: A headset to communicate.<br></br>
+      </Typography>
+      <Typography paragraph variant="h5"><strong>Where and when is this happening?</strong></Typography>
+      <Typography paragraph variant="h6">
+      * Online trainings on the internet announced here, on LinkedIn and the calendar!<br></br>
+      * On-site trainings on your company on demand!<br></br>
+      * In hired rooms across New Zealand when announced.<br></br>
+      Get your spot for the workshops, webinars and talks on Eventbrite!<br></br>
+      </Typography>
+      <Typography paragraph variant="h5"><strong>Take aways.</strong></Typography>
+      <Typography paragraph variant="h6">
+        After this workshop you will be able to create frameworks from scratch, following the best practices, to test with API Automation. The knowledge you will get there is all based in my personal experience internationally as well as in New Zealand,
+        thinking in what the market demands the most for this type of work.
+      </Typography>
 </CardContent>
 </Collapse>
 </Card>
