@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React, { Component } from 'react'
 
 
@@ -25,9 +26,9 @@ export default class Projects extends Component {
 											</main>
 											<span>Webinar</span>
 											<p className="icon">
-												<span><a href="#"><i className="fa icon-time" /> 8hs </a></span>
-												<span><a href="#"><i className="fa fa-calendar" /> 01/02/2021</a></span>
-												<span><a href="#"><i className="fa fa-dollar" /> 600</a></span>
+												<span><a href="https://www.google.com"><i className="fa icon-time" /> 8hs </a></span>
+												<span><a href="https://www.google.com"><i className="fa fa-calendar" /> 01/02/2021</a></span>
+												<span><a href="https://www.google.com"><i className="fa fa-dollar" /> 600</a></span>
 											</p>
 										</div>
 									</div>
@@ -40,9 +41,9 @@ export default class Projects extends Component {
 											<h3><a href="work.html">Introduction to Test Engineering.</a></h3>
 											<span>Webinar</span>
 											<p className="icon">
-												<span><a href="#"><i className="fa icon-time" /> 8hs </a></span>
-												<span><a href="#"><i className="fa fa-calendar" /> 01/02/2021</a></span>
-												<span><a href="#"><i className="fa fa-dollar" /> 649</a></span>
+												<span><a href="https://www.google.com"><i className="fa icon-time" /> 8hs </a></span>
+												<span><a href="https://www.google.com"><i className="fa fa-calendar" /> 01/02/2021</a></span>
+												<span><a href="https://www.google.com"><i className="fa fa-dollar" /> 649</a></span>
 											</p>
 										</div>
 									</div>
@@ -55,9 +56,9 @@ export default class Projects extends Component {
 											<h3><a href="work.html">Advanced Test Engineering.</a></h3>
 											<span>Webinar</span>
 											<p className="icon">
-												<span><a href="#"><i className="fa icon-time" /> 8hs </a></span>
-												<span><a href="#"><i className="fa fa-calendar" /> 01/02/2021</a></span>
-												<span><a href="#"><i className="fa fa-dollar" /> 649</a></span>
+												<span><a href="https://www.google.com"><i className="fa icon-time" /> 8hs </a></span>
+												<span><a href="https://www.google.com"><i className="fa fa-calendar" /> 01/02/2021</a></span>
+												<span><a href="https://www.google.com"><i className="fa fa-dollar" /> 649</a></span>
 											</p>
 										</div>
 									</div>
@@ -70,9 +71,9 @@ export default class Projects extends Component {
 											<h3><a href="work.html">QA job hunting essentials.</a></h3>
 											<span>Webinar</span>
 											<p className="icon">
-												<span><a href="#"><i className="fa icon-time" /> 8hs </a></span>
-												<span><a href="#"><i className="fa fa-calendar" /> 01/02/2021</a></span>
-												<span><a href="#"><i className="fa fa-dollar" /> 649</a></span>
+												<span><a href="https://www.google.com"><i className="fa icon-time" /> 8hs </a></span>
+												<span><a href="https://www.google.com"><i className="fa fa-calendar" /> 01/02/2021</a></span>
+												<span><a href="https://www.google.com"><i className="fa fa-dollar" /> 649</a></span>
 											</p>
 										</div>
 									</div>
@@ -85,9 +86,9 @@ export default class Projects extends Component {
 											<h3><a href="work.html">Automation with Cypress</a></h3>
 											<span>Webinar</span>
 											<p className="icon">
-												<span><a href="#"><i className="fa icon-time" /> 8hs </a></span>
-												<span><a href="#"><i className="fa fa-calendar" /> 01/02/2021</a></span>
-												<span><a href="#"><i className="fa fa-dollar" /> 649</a></span>
+												<span><a href="https://www.google.com"><i className="fa icon-time" /> 8hs </a></span>
+												<span><a href="https://www.google.com"><i className="fa fa-calendar" /> 01/02/2021</a></span>
+												<span><a href="https://www.google.com"><i className="fa fa-dollar" /> 649</a></span>
 											</p>
 										</div>
 									</div>
@@ -100,9 +101,9 @@ export default class Projects extends Component {
 											<h3><a href="https://www.eventbrite.com/e/coding-with-minecraft-tickets-126636618535?aff=ebdssbonlinesearch&keep_tld=1" target="_blank" rel="noopener noreferrer">Placeholder2</a></h3>
 											<span>Webinar</span>
 											<p className="icon">
-												<span><a href="#"><i className="fa icon-time" /> 8hs </a></span>
-												<span><a href="#"><i className="fa fa-calendar" /> 23/11/2020</a></span>
-												<span><a href="#"><i className="fa fa-dollar" /> 630</a></span>
+												<span><a href="https://www.google.com"><i className="fa icon-time" /> 8hs </a></span>
+												<span><a href="https://www.google.com"><i className="fa fa-calendar" /> 23/11/2020</a></span>
+												<span><a href="https://www.google.com"><i className="fa fa-dollar" /> 630</a></span>
 												
 											</p>
 										</div>
