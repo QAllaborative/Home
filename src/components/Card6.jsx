@@ -105,7 +105,8 @@ const useStyles = makeStyles(theme => ({
       * A personal computer or laptop. <br></br>
       * Learning mindset!<br></br>
       * Internet connection.<br></br>
-      * Optional: A headset to communicate.<br></br>
+      * A headset to communicate.<br></br>
+      * Optional: A cup of the infusion of your preference.<br></br>
       </Typography>
       <Typography paragraph variant="h5"><strong>Where and when is this happening?</strong></Typography>
       <Typography paragraph variant="h6">

@@ -11,17 +11,17 @@ export default class About extends Component {
                 <div className="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
                 <div className="col-md-12">
                     <div className="about-desc">
-                    <span className="heading-meta">About Me</span>
+                    <span className="heading-meta">Who am I?</span>
                     <h2 className="colorlib-heading">Creating the pool of professionals New Zealand needs!</h2>
-                    <p>I'm a <strong>Senior SDET</strong> from Argentina living in New Zealand and loving every aspect of it! After 3 years of working in the local scene, I've decided to put my expertise and knowledge as a service to deliver the best testing solutions and enable a fast paced workflow!</p>
-                    <p>As a professional coach and consultant <strong>based in the beautiful city of Wellington</strong>, I teach the ways of Automation and Test Engineering, as well as perform audits and enhance the Automation mahi for my clients, leading by example! </p>
-                    <p>Find which path of Software Testing you want to follow and grow your skills and experience with real world applications with my help. Test Analyst? Test Engineer? Performance Tester? All of them are excellent options to get into the market for job hunting!</p>
-                    <p>Be ready to apply to highly demanded job positions with top notch benefits and salaries in New Zealand and the world! Want to know more about why working as a Tester is perfect for you? <strong>Check this</strong> <a href="https://www.careers.govt.nz/jobs-database/it-and-telecommunications/information-technology/test-analyst/about-the-job" target="_blank" rel="noopener noreferrer">link!</a></p>
+                    <p>I'm a <strong>Senior Software Developer Engineer in Testing</strong> from Argentina living in New Zealand and loving every aspect of it! After 3 years of working in the local scene, I've decided to put my expertise and knowledge as a service to deliver the best testing solutions and enabling local testers by teaching the ways of the Test Engineer!</p>
+                    <p>As a professional coach and consultant <strong>based in the beautiful city of Wellington</strong>, I offer holistic Automation and Test Engineering courses for people with no background and seasoned testers as well. As part of my consultancy work, I perform audits and enhance the Automation mahi for my clients, delivering test assets for their project's needs. </p>
+                    <p>Find which path of Software Testing you want to follow and grow your skills and experience with real world applications with my help. Test Analyst? Test Engineer? Performance Tester? All of them are excellent options to get into the market and start job hunting!</p>
+                    <p>Be ready to apply to highly demanded positions with top notch benefits and salaries in New Zealand and the world! Want to know more about why working as a Tester is perfect for you? <strong>Check this</strong> <a href="https://www.careers.govt.nz/jobs-database/it-and-telecommunications/information-technology/test-analyst/about-the-job" target="_blank" rel="noopener noreferrer">link!</a></p>
                     <h2 className="colorlib-heading">Why learning Automation with me?</h2>
                     <p>I understand the testing market in New Zealand and have vast experience teaching previous moving from overseas. This means that, <strong>if you are looking to get the skills to get into the market</strong>, there is no better place than here to start!</p>
                     <p>My goal is to make learning Automation a <strong>fun, interactive experience</strong> for everyone and help every single student to achieve a robust, solid experience to start looking for jobs in this discipline.</p>
-                    <p><strong>Our country, our timezone</strong>. From support to live workshops across New Zealand, you'll be supporting a kiwi based initiative to help other kiwis kickoff or take their Testing career to the next level! </p>
-                    <p>Plenty of options to start learning: From webinars, to live workshops on the city, to on-site intensive trainings for Teams. <strong>There is an option for every need</strong>.</p>
+                    <p><strong>Our country, our timezone:</strong> From local support through one on one calls, chats, meetings with a coffee (the best option!), to live workshops across New Zealand, you'll be supporting a kiwi based initiative to help other kiwis kickoff or take their Testing career to the next level! </p>
+                    <p><strong>Plenty of options to start learning:</strong> From webinars, to live workshops on the city, to on-site intensive trainings for entire Teams. <strong>There is an option for every need!</strong></p>
                     </div>
                 </div>
                 </div>
@@ -67,7 +67,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc" data-animate-effect="fadeInBottom">
                     <h3>Test Automation audits</h3>
-                    <p>An initial assessment will provide you with the information needed and the next steps to take your test team in the right direction. From the planning to the execution, I deliver all your team need to start adding value and not just maintaining scripts. Avoid the pitfalls!</p>
+                    <p>An initial assessment will provide you with the information needed and actionable items to take your test team in the right direction. From the planning to the execution, I deliver everything your team needs to start adding value and not just maintaining scripts. Avoid the pitfalls!</p>
                 </div>
                 </div>
             </div>
@@ -89,7 +89,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Career counseling</h3>
-                    <p>If you are looking for a new job and you are currently a Tester (or even if you are not!), I can provide assistance with your CV, next steps and learnings and how to look for the perfect new gig. 3 years of experience doing technical interviews in the country gave me the knowledge to help you find your passion!</p>
+                    <p>If you are looking for a new job and you are currently a Tester (or even if you are not!), I can provide assistance with your CV, next steps and learnings and how to look for the perfect new gig. More than 8 years of experience doing technical interviews in the country gave me the knowledge to help you find your passion!</p>
                 </div>
                 </div>
             </div>

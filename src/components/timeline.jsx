@@ -21,8 +21,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Automation Test Lead <span>2020-present</span></h2>
-                        <p>Leading the Automation team and implementing new ways of working to achieve the goal of faster, more reliable test cycles. For this, Grafana, influxdB and JMeter were the tools I implemented in the Performance space, while moving the tests from Selenium to Cypress, adding them to the CI pipelines through Jenkins. Closely involved with the development and operations teams to boost their productivity throught the implementation of tools and practices.</p>
+                        <h2>Automation Test Lead - New Zealand <span>2020-present</span></h2>
+                        <p>Leading the Automation team and implementing new ways of working to achieve the goal of faster, more reliable test cycles <strong>within the insurance business</strong>. For this, Grafana, influxdB and JMeter were the tools I implemented in the Performance space, while moving the tests from Selenium to Cypress, adding them to the CI pipelines through Jenkins. Closely involved with the development and operations teams to boost their productivity throught the implementation of tools and practices.</p>
                       </div>
                     </div>
                   </article>
@@ -32,8 +32,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Senior Test Engineer <span>2017-2020</span></h2>
-                        <p>Brought to New Zealand as a Test Engineering specialist, I started leading the central team at a big client through their digital transformation. To accomplish this, I made big changes to the workflow, the CI processes with Jenkins, implementation of best practices at coding and testing level and coaching/teaching fresh starters as well as Test Analysts on site with great engagement and success.</p>
+                        <h2>Senior Test Engineer - New Zealand <span>2017-2020</span></h2>
+                        <p>Brought to New Zealand as a Test Engineering specialist, I started leading the central team <strong>at government agencies</strong> through their digital transformation. To accomplish this, I made big changes to the workflow, the CI processes with Jenkins, implementation of best practices at coding and testing level and coaching/teaching fresh starters as well as Test Analysts on site with great engagement and success.</p>
                       </div>
                     </div>
                   </article>
@@ -43,8 +43,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Automation Tester <span>2010-2017</span></h2>
-                        <p>My first Automation work ever. I had to learn Coded UI on my free time to create a Proof of Concept that resulted in the biggest Automation team in Argentina for the company. Later, I would be involved in different internal projects creating frameworks and coaching about the best practices and ways of Automation.</p>
+                        <h2>Automation Tester - Argentina <span>2010-2017</span></h2>
+                        <p>My first Automation adventure ever. I had to learn Coded UI on my free time to create a Proof of Concept that resulted in the biggest Automation team in Argentina for the company. Later, I would be involved in different internal projects creating frameworks and coaching about the best practices and ways of Automation for a diverse portfolio of internal and external projects such as <strong>complex project management software, time tracking applications, live betting systems and more.</strong></p>
                       </div>
                     </div>
                   </article>
@@ -54,8 +54,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Game Tester <span>2008-2010</span></h2>
-                        <p>While I was advancing on my career as a Geologist (surprised?) I started working in testing for several AAA titles from Pandemic, EA Sports, Bioware on platforms like PC, Nintendo Wii, Playstation 3, Xbox 360 and PSP. Compliance testing and ad-hoc were the two main techniques. This was my first step towards Software Testing.</p> 
+                        <h2>Game Tester - Outsourcing US Testing <span>2008-2010</span></h2>
+                        <p>While I was advancing on my career as a Geologist (surprised?) I started working in testing for several <strong>AAA titles from Pandemic, EA Sports, Bioware on platforms like PC, Nintendo Wii, Playstation 3, Xbox 360 and PSP</strong>. Compliance testing and ad-hoc were the two main techniques. This was my first step towards Software Testing.</p> 
                       </div>
                     </div>
                   </article>

@@ -90,28 +90,35 @@ const useStyles = makeStyles(theme => ({
             <CardContent>
         <Typography paragraph variant="h5"><strong>Content.</strong></Typography>
         <Typography paragraph variant="h6">
-        * Installation of tools.<br></br>
-        * Creation of our API Automation Framework.<br></br>
+        * Installation of tools and software for API Automation.<br></br>
+        * Creation of an API Automation Framework from scratch.<br></br>
+        * The concept of API and how to build basic Requests.<br></br>
+        * Advanced API Automation techniques, iteration through JSON files and validating Responses.<br></br>
+        * Handling TLS and Mutual TLS, as well as other forms of authentication and security used during this type of Testing.<br></br>
+        * Handling complex responses and more advanced techniques.
         * Creation of custom reports.<br></br>
       </Typography>
       <Typography paragraph variant="h5"><strong>Who is this course for?</strong></Typography>
       <Typography paragraph variant="h6">
-      * Test Analysts who want to grow their automation skills.<br></br>
-      * People with no coding background wanting to start their automation career.<br></br>
-      * Automation Testers who want to know the foundations to grow their careers.<br></br>
+      * Testers wanting to follow the best practices of the Automation Pyramid and do API Automation.<br></br>
+      * People who already have solid programming skills or took the Programming for Testers course.<br></br>
+      * Automation Testers who want to grow their set of skills by adding Integration Testing and API Automation.<br></br>
+      * Teams wanting to migrate their UI Tests to API to avoid high maintenance and common automation pitfalls.
       </Typography>
       <Typography paragraph variant="h5"><strong>What you will need for this course?</strong></Typography>
       <Typography paragraph variant="h6">
       * A personal computer or laptop. <br></br>
       * Learning mindset!<br></br>
+      * Basic programming skills with Object Oriented Programming or completing the Programming for Testers course.<br></br>
       * Internet connection.<br></br>
-      * Optional: A headset to communicate.<br></br>
+      * A headset to communicate.<br></br>
+      * Optional: A cup of the infusion of your preference.<br></br>
       </Typography>
       <Typography paragraph variant="h5"><strong>Where and when is this happening?</strong></Typography>
       <Typography paragraph variant="h6">
       * Online trainings on the internet announced here, on LinkedIn and the calendar!<br></br>
       * On-site trainings on your company on demand!<br></br>
-      * In hired rooms across New Zealand when announced.<br></br>
+      * Local venues across New Zealand when announced.<br></br>
       Get your spot for the workshops, webinars and talks on Eventbrite!<br></br>
       </Typography>
       <Typography paragraph variant="h5"><strong>Take aways.</strong></Typography>

@@ -90,7 +90,7 @@ const useStyles = makeStyles(theme => ({
                                   <CardContent>
                                     <Typography paragraph variant="h5"><strong>Content</strong></Typography>
                                     <Typography paragraph variant="h6">
-                                      * Object Oriented Programming: Concepts, pillars, techniques and which are the most used programming languages in Automation and New Zealand.<br></br>
+                                      * Object Oriented Programming: Concepts, pillars, techniques and which programming languages to learn depending the market you aim to work with.<br></br>
                                       * Anatomy of the code: Classes, methods, variables, conditionals, loops, try/catch and more.<br></br>
                                       * Source Control Management: Branching models, working as a team, best practices and more.<br></br>
                                       * Hands On Practice: Creating a repository with basic code examples and work as a team with SCM.<br></br>
@@ -106,13 +106,14 @@ const useStyles = makeStyles(theme => ({
                                       * A personal computer or laptop. <br></br>
                                       * Learning mindset!<br></br>
                                       * Internet connection.<br></br>
-                                      * Optional: A headset to communicate.<br></br>
+                                      * A headset to communicate.<br></br>
+                                      * Optional: A cup of the infusion of your preference.<br></br>
                                     </Typography>
                                     <Typography paragraph variant="h5"><strong>Where and when is this happening?</strong></Typography>
                                     <Typography paragraph variant="h6">
                                     * Online trainings on the internet announced here, on LinkedIn and the calendar!<br></br>
                                     * On-site trainings on your company on demand!<br></br>
-                                    * In hired rooms across New Zealand when announced.<br></br>
+                                    * Local venues across New Zealand when announced.<br></br>
                                      Get your spot for the workshops, webinars and talks on Eventbrite!<br></br>
                                     </Typography>
                                     <Typography paragraph variant="h5"><strong>Take aways.</strong></Typography>

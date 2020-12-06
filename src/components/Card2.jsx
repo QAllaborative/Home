@@ -70,7 +70,7 @@ const useStyles = makeStyles(theme => ({
                               <CardContent>
                                 <Typography variant="h6" color="textSecondary" component="p">
                                   Unlike most workshops, here you will get the knowledge to tackle Selenium Webdriver with a wide arrange of techniques, tools and languages
-                                  to be ready for the market. From starting, to mastering it, be a Selenium ready tester in no time!
+                                  to be ready to join the testing market. From starting, to mastering it, be a Selenium developer in no time!
                                 </Typography>
                                   <span><i className="fa icon-time" /> 8hs </span>
                                   <span><i className="fa fa-calendar" /> TBD </span>
@@ -91,36 +91,38 @@ const useStyles = makeStyles(theme => ({
                                     <CardContent>
                                       <Typography paragraph variant="h5"><strong>Content.</strong></Typography>
                                       <Typography paragraph variant="h6">
-                                      * Setting up the workspace: VSCode, JDK, Plugins and more!<br></br>
-                                      * Creating our first project with Gradle/Maven and Java for Selenium.<br></br>
+                                      * Setting up the workspace: Installation of VSCode, JDK, Plugins, Selenium and more!<br></br>
+                                      * Creating our first project with Gradle and Java for Selenium.<br></br>
                                       * Selenium basics: creation of a Page Object Model framework with Cucumber, TestNG, PageFactory and more!<br></br>
+                                      * Alternative Frameworks for different needs.
                                       * Selenium advanced: Complex actions, dependency injection, generating reports and more!<br></br>
-                                      * Hands on practice: Automation real world test cases.<br></br>
+                                      * Hands on practice: Creating a framework and Automated Test Cases for real world applications.<br></br>
                                       </Typography>
                                       <Typography paragraph variant="h5"><strong>Who is this course for?</strong></Typography>
                                       <Typography paragraph variant="h6">
                                       * Test Analysts who want to grow their automation skills.<br></br>
-                                      * People with no coding background wanting to start their automation career.<br></br>
-                                      * Automation Testers who want to know the foundations to grow their careers.<br></br>
+                                      * People with no coding background wanting to learn UI Automation with Selenium.<br></br>
+                                      * Anyone willing to learn Automation Testing with Selenium!<br></br>
                                       </Typography>
                                       <Typography paragraph variant="h5"><strong>What you will need for this course?</strong></Typography>
                                       <Typography paragraph variant="h6">
                                       * A personal computer or laptop. <br></br>
                                       * Learning mindset!<br></br>
                                       * Internet connection.<br></br>
-                                      * Optional: A headset to communicate.<br></br>
+                                      * A headset to communicate.<br></br>
+                                      * Optional: A cup of the infusion of your preference.<br></br>
                                       </Typography>
                                       <Typography paragraph variant="h5"><strong>Where and when is this happening?</strong></Typography>
                                       <Typography paragraph variant="h6">
-                                      * Online trainings on the internet announced here, on LinkedIn and the calendar!<br></br>
+                                      * Online trainings using Zoom announced here, on LinkedIn and the calendar!<br></br>
                                       * On-site trainings on your company on demand!<br></br>
-                                      * In hired rooms across New Zealand when announced.<br></br>
+                                      * Local venues across New Zealand when announced.<br></br>
                                       Get your spot for the workshops, webinars and talks on Eventbrite!<br></br>
                                       </Typography>
                                       <Typography paragraph variant="h5"><strong>Take aways.</strong></Typography>
                                       <Typography variant="h6">
-                                      Work with the best practices in mind in Automation for UI Testing. Join a team already working with SCM, suggest
-                                      to use it if not, and be able to create the workflow to achieve the highest efficiency. 
+                                      You will get the knowledge not only to build UI Frameworks with Selenium, but also to understand how it works and have the
+                                      flexibility to take different approaches depending on the project's needs.
                                       </Typography>
                                     </CardContent>
                                     </Collapse>

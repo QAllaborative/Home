@@ -58,8 +58,8 @@ const useStyles = makeStyles(theme => ({
     return (
         <Card className={classes.card}>
         <CardHeader
-                              title="Katalon Studio"
-                              subheader="A free, standalone framework with codeless capabilities!"
+                              title="Codeless Tools: The future of Automation."
+                              subheader="Automate without writing code with these tools!"
                             />
                             <CardMedia
                               className={classes.media}
@@ -68,9 +68,8 @@ const useStyles = makeStyles(theme => ({
                             />
                             <CardContent>
                               <Typography variant="h6" color="textSecondary" component="p">
-                                One of the top tools in the Automation scene. From codeless capabilities to 
-                                fully customizable scripts, built in reporting and recorder... this is a perfect fit for a team
-                                with no coding background wanting to get into Automation quick!
+                                No, I'm not talking about recorders, I'm talking of the next gen of Codeless Tools such as Katalon and TestProject.
+                                Learn how to create tests cases right away without a single line of code, while keeping the option of coding for the most technical persons!
                               </Typography>
                                 <span><i className="fa icon-time" /> 8hs </span>
                                 <span><i className="fa fa-calendar" /> TBD </span>
@@ -91,22 +90,26 @@ const useStyles = makeStyles(theme => ({
                                   <CardContent>
                                   <Typography paragraph variant="h5"><strong>Content.</strong></Typography>
         <Typography paragraph variant="h6">
-        * Installation of tools.<br></br>
-        * Creation of our API Automation Framework.<br></br>
-        * Creation of custom reports.<br></br>
+        * Installation of Katalon Studio.<br></br>
+        * Creation of UI, API, Mobile and Desktop Automation Tests with Katalon.<br></br>
+        * Advanced features of Katalon Studio: Writing your own behavior, iterations, conditionals, error handling and more!
+        * Installation of TestProject.<br></br>
+        * Creation of UI and API tests with TestProject.<br></br>
+        * Advanced features of TestProject: Plugins, code and AI!<br></br>
       </Typography>
       <Typography paragraph variant="h5"><strong>Who is this course for?</strong></Typography>
       <Typography paragraph variant="h6">
-      * Test Analysts who want to grow their automation skills.<br></br>
-      * People with no coding background wanting to start their automation career.<br></br>
-      * Automation Testers who want to know the foundations to grow their careers.<br></br>
+      * Testers with no interest in coding but interested in automation testing..<br></br>
+      * Test Engineers who want to know about this new generation of tools and unlock their full potential by writing code.<br></br>
+      * Teams with no time to upscale their resources or no budget to hire Test Engineers that want to automate anyways.<br></br>
       </Typography>
       <Typography paragraph variant="h5"><strong>What you will need for this course?</strong></Typography>
       <Typography paragraph variant="h6">
       * A personal computer or laptop. <br></br>
       * Learning mindset!<br></br>
       * Internet connection.<br></br>
-      * Optional: A headset to communicate.<br></br>
+      * A headset to communicate.<br></br>
+      * Optional: A cup of the infusion of your preference.<br></br>
       </Typography>
       <Typography paragraph variant="h5"><strong>Where and when is this happening?</strong></Typography>
       <Typography paragraph variant="h6">

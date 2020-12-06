@@ -11,7 +11,7 @@ export default class Sidebar extends Component {
             <div className="text-center">
               <div className="author-img" style={{backgroundImage: 'url(images/logo.jpg)'}} />
               <h1 id="colorlib-logo"><a href="index.html">QAllaborative</a></h1>
-              <span className="email"><i className="icon-mail"><a href="https://us20.list-manage.com/contact-form?u=0973f39cd47ce2b3c15e3624f&form_id=dff50668299afab6ee222ae7081ef05a" target="_blank" rel="noopener noreferrer"> Contact us!</a></i></span>
+              <span className="email"><i className="icon-mail"><a href="https://us20.list-manage.com/contact-form?u=0973f39cd47ce2b3c15e3624f&form_id=dff50668299afab6ee222ae7081ef05a" target="_blank" rel="noopener noreferrer"> Contact me!</a></i></span>
               <span className="email"><i className="fa fa-map-marker"> Wellington, New Zealand</i></span><br></br>
             </div>
             <nav id="colorlib-main-menu" role="navigation" className="navbar">

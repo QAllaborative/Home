@@ -14,7 +14,7 @@ export default class Introduction extends Component {
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                       <div className="slider-text-inner js-fullheight">
                         <div className="desc">
-                          <h1 style={{ color:'black', background:'rgba(237,235,111,0.5)'}}>Kia ora <br/>traveller</h1>
+                          <h1 style={{ color:'black', background:'rgba(237,235,111,0.5)'}}>Kia ora <br/>testers</h1>
                         </div>
                       </div>
                     </div>
@@ -42,7 +42,7 @@ export default class Introduction extends Component {
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                       <div className="slider-text-inner">
                         <div className="desc">
-                          <h1 style={{ color: 'black', background:'rgba(232,107,134,0.5)'}}>A kiwi based <br/>Test Engineering bootcamp!</h1>
+                          <h1 style={{ color: 'black', background:'rgba(232,107,134,0.5)'}}>A kiwi based <br/>Test Engineering academy!</h1>
                         </div>
                       </div>
                     </div>
