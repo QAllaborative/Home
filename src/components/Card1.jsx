@@ -88,48 +88,35 @@ const useStyles = makeStyles(theme => ({
                               </CardActions>
                                 <Collapse in={expanded} timeout="auto" unmountOnExit>
                                   <CardContent>
-                                    <Typography paragraph variant="h5">Object Oriented Programming</Typography>
+                                    <Typography paragraph variant="h5"><strong>Content</strong></Typography>
                                     <Typography paragraph variant="h6">
-                                      * What is a programming language?<br></br>
-                                      * Which are the most wanted languages in the market, both New Zealand and internationally?<br></br>
-                                      * Object Oriented Programming and Automation Testing.<br></br>
-                                      * Object Oriented Programming - Encapsulation: How is it used in Automation?<br></br>
-                                      * Object Oriented Programming - Inheritance: How is it used in Automation?<br></br>
-                                      * Object Oriented Programming - Abstraction: How is it used in Automation?<br></br>
-                                      * Object Oriented Programming - Polymorphism: How is it used in Automation?<br></br>
-                                      * Practical examples of these concepts applied to Automation Testing.<br></br>
+                                      * Object Oriented Programming: Concepts, pillars, techniques and which programming languages to learn depending the market you aim to work with.<br></br>
+                                      * Anatomy of the code: Classes, methods, variables, conditionals, loops, try/catch and more.<br></br>
+                                      * Source Control Management: Branching models, working as a team, best practices and more.<br></br>
+                                      * Hands On Practice: Creating a repository with basic code examples and work as a team with SCM.<br></br>
                                     </Typography>
-                                    <Typography paragraph variant="h5">Anatomy of the code</Typography>
+                                    <Typography paragraph variant="h5"><strong>Who is this course for?</strong></Typography>
                                     <Typography paragraph variant="h6">
-                                      * Installing the tools.<br></br>
-                                      * What is an IDE?<br></br>
-                                      * The class: What is it? How does it work?<br></br>
-                                      * The method and function: What are they? How do they work?<br></br>
-                                      * Variables: Types, use and how they are used.<br></br>
-                                      * Conditionals: What are they? How do they work?<br></br>
-                                      * Loops: The different types explained.<br></br>
-                                      * Try/Catch: What are they? How are they used?<br></br>
-                                      * Practical examples of these concepts applied to Automation Testing.<br></br>
+                                      * Test Analysts who want to grow their automation skills.<br></br>
+                                      * People with no coding background wanting to start their automation career.<br></br>
+                                      * Automation Testers who want to know the foundations to grow their careers.<br></br>
                                     </Typography>
-                                    <Typography paragraph variant="h5">Working with Source Control Management</Typography>
+                                    <Typography paragraph variant="h5"><strong>What you will need to take this course.</strong></Typography>
                                     <Typography paragraph variant="h6">
-                                      * What is Source Control Management? <br></br>
-                                      * Why is SCM so important in Automation Testing?<br></br>
-                                      * Parts of an Automation repository.<br></br>
-                                      * Branches and Master: What are they and why we need to use them?<br></br>
-                                      * Commands to work as part of a team with SCM.<br></br>
-                                      * Fetching and Pulling code from the origin.<br></br>
-                                      * Commiting the code: What you need to know.<br></br>
-                                      * Pushing the code: What you nede to know.<br></br>
-                                      * Creating a Pull Request: What are they and why are they so important?<br></br>
+                                      * A personal computer or laptop. <br></br>
+                                      * Learning mindset!<br></br>
+                                      * Internet connection.<br></br>
+                                      * A headset to communicate.<br></br>
+                                      * Optional: A cup of the infusion of your preference.<br></br>
                                     </Typography>
-                                    <Typography paragraph variant="h5">Hands on practice.</Typography>
+                                    <Typography paragraph variant="h5"><strong>Where and when is this happening?</strong></Typography>
                                     <Typography paragraph variant="h6">
-                                    * Real world workshop setting up a repository and solving coding challenges.<br></br>
-                                    * Brainstorming of the students and teacher to share different solutions.<br></br>
-                                    * Explaining the techniques used and why they were picked as the go to approach.<br></br>
+                                    * Online trainings on the internet announced here, on LinkedIn and the calendar!<br></br>
+                                    * On-site trainings on your company on demand!<br></br>
+                                    * Local venues across New Zealand when announced.<br></br>
+                                     Get your spot for the workshops, webinars and talks on Eventbrite!<br></br>
                                     </Typography>
-                                    <Typography paragraph variant="h5">Take aways.</Typography>
+                                    <Typography paragraph variant="h5"><strong>Take aways.</strong></Typography>
                                     <Typography paragraph variant="h6">
                                       After this training, you will have the coding skills needed to tackle the more advanced workshops in which
                                       we start automating tests, using all the concepts from this module. If you are already familiar with them, you
