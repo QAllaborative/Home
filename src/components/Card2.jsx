@@ -70,7 +70,7 @@ const useStyles = makeStyles(theme => ({
                               <CardContent>
                                 <Typography variant="h6" color="textSecondary" component="p">
                                   Unlike most workshops, here you will get the knowledge to tackle Selenium Webdriver with a wide arrange of techniques, tools and languages
-                                  to be ready for the market. From starting, to mastering it, be a Selenium ready tester in no time!
+                                  to be ready to join the testing market. From starting, to mastering it, be a Selenium developer in no time!
                                 </Typography>
                                   <span><i className="fa icon-time" /> 8hs </span>
                                   <span><i className="fa fa-calendar" /> TBD </span>
@@ -89,61 +89,40 @@ const useStyles = makeStyles(theme => ({
                                 </CardActions>
                                   <Collapse in={expanded} timeout="auto" unmountOnExit>
                                     <CardContent>
-                                      <Typography paragraph variant="h5">Selenium with Java and Cucumber</Typography>
+                                      <Typography paragraph variant="h5"><strong>Content.</strong></Typography>
                                       <Typography paragraph variant="h6">
-                                      * Setting up the workspace: VSCode, JDK, Plugins and more!<br></br>
-                                      * Creating our first project with Gradle/Maven and Java.<br></br>
-                                      * Creating our Base Page class. Introduction to Selenium.<br></br>
-                                      * Modifiers in Java: The Static modifier.<br></br>
-                                      * Exploring the HTML of a website. DevTools, plugins recommended and how to use them.<br></br>
-                                      * Locators in Selenium: What are they? How do we create them?<br></br>
-                                      * Page Object Model: What is it and why is so important?<br></br>
-                                      * Introduction to Cucumber: When to use it and when not to use it.<br></br>
-                                      * How to manage Test Data in our Automation Framework.<br></br>
-                                      * Cucumber: Introduction to Step definitions. <br></br>
-                                      * Taking our Cucumber workflow to the next level!<br></br>
-                                      * Waits in Selenium: Explicit and Implicit. When to use them? When not to use them?<br></br>
-                                      * Generating reports with Cucumber. Plugins and libraries recommended and how to configure them.<br></br>
-                                      * Adding parameters to our Cucumber scenarios.<br></br>
-                                      * Validating our tests with Assertions. What are they and how to implement them.<br></br>
-                                      * Working with dropdowns and select web elements in Selenium.<br></br>
-                                      * Closing the browser when our tests are completed. Setting blocks of code to run before and after executions.<br></br>
-                                      * Error handling: What is it and how to implement it in our Automation Framework?<br></br>
-                                      * Regular Expressions in Cucumber: What are they and how to use them.<br></br>
-                                      * Handling static grids in Selenium.<br></br>
-                                      * Handling dynamic grids in Selenium.<br></br>
-                                      * iFrames in Selenium: How to handle and work with them?<br></br>
-                                      * Uploading files with Selenium: Is it possible? How?<br></br>
-                                      * Soft Assertions: What are they? How and when to use them?<br></br>
-                                      * Pending Exceptions with Cucumber: What are they and when to use them?<br></br>
-                                      * Executing scenarios grouped by tag from the command line!<br></br>
-                                      * PageFactory: What is it and how to use it?<br></br>
-                                      * Tip to improve execution times with Page Factory.<br></br>
-                                      * TestNG instead of Cucumber: What is it, how to use it and when is the best idea to do so.<br></br>
-                                      * Creating Tests with TestNG.<br></br>
-                                      * Grouping Tests with TestNG suites.<br></br>
+                                      * Setting up the workspace: Installation of VSCode, JDK, Plugins, Selenium and more!<br></br>
+                                      * Creating our first project with Gradle and Java for Selenium.<br></br>
+                                      * Selenium basics: creation of a Page Object Model framework with Cucumber, TestNG, PageFactory and more!<br></br>
+                                      * Alternative Frameworks for different needs.
+                                      * Selenium advanced: Complex actions, dependency injection, generating reports and more!<br></br>
+                                      * Hands on practice: Creating a framework and Automated Test Cases for real world applications.<br></br>
                                       </Typography>
-                                      <Typography paragraph variant="h5">Advanced Selenium WebDriver.</Typography>
+                                      <Typography paragraph variant="h5"><strong>Who is this course for?</strong></Typography>
                                       <Typography paragraph variant="h6">
-                                      * Dependency injection: What is it and when to use it?<br></br>
-                                      * Creating the World object, keys to this concept.<br></br>
-                                      * Connecting the WebDriver with the World class.<br></br>
-                                      * Using this framework, hands on!<br></br>
-                                      * Adding crossbrowser capabilities to our framework.<br></br>
-                                      * Creating our real world Automation project putting the gained knowledge into practice!<br></br>
+                                      * Test Analysts who want to grow their automation skills.<br></br>
+                                      * People with no coding background wanting to learn UI Automation with Selenium.<br></br>
+                                      * Anyone willing to learn Automation Testing with Selenium!<br></br>
                                       </Typography>
-                                      <Typography paragraph variant="h5">Final practice.</Typography>
+                                      <Typography paragraph variant="h5"><strong>What you will need for this course?</strong></Typography>
                                       <Typography paragraph variant="h6">
-                                      * Automation feasibility of a Web Site<br></br>
-                                      * Creating the framework in groups.<br></br>
-                                      * Brainstorming the approach.<br></br>
-                                      * Implementation of the framework.<br></br>
-                                      * Automating test cases while working with SCM in groups.<br></br>
+                                      * A personal computer or laptop. <br></br>
+                                      * Learning mindset!<br></br>
+                                      * Internet connection.<br></br>
+                                      * A headset to communicate.<br></br>
+                                      * Optional: A cup of the infusion of your preference.<br></br>
                                       </Typography>
-                                      <Typography paragraph variant="h5">Take aways.</Typography>
+                                      <Typography paragraph variant="h5"><strong>Where and when is this happening?</strong></Typography>
+                                      <Typography paragraph variant="h6">
+                                      * Online trainings using Zoom announced here, on LinkedIn and the calendar!<br></br>
+                                      * On-site trainings on your company on demand!<br></br>
+                                      * Local venues across New Zealand when announced.<br></br>
+                                      Get your spot for the workshops, webinars and talks on Eventbrite!<br></br>
+                                      </Typography>
+                                      <Typography paragraph variant="h5"><strong>Take aways.</strong></Typography>
                                       <Typography variant="h6">
-                                      Work with the best practices in mind in Automation for UI Testing. Join a team already working with SCM, suggest
-                                      to use it if not, and be able to create the workflow to achieve the highest efficiency. 
+                                      You will get the knowledge not only to build UI Frameworks with Selenium, but also to understand how it works and have the
+                                      flexibility to take different approaches depending on the project's needs.
                                       </Typography>
                                     </CardContent>
                                     </Collapse>
