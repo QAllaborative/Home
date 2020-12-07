@@ -71,8 +71,8 @@ const useStyles = makeStyles(theme => ({
                                 You already have your framework running perfectly with your E2E Automated tests. Now it is time 
                                 for the final step: Integrating the Testing work with the Development and Operations work!
                               </Typography>
-                                <span><i className="fa icon-time" /> 8hs </span>
-                                <span><i className="fa fa-calendar" /> TBD </span>
+                                <span><i className="fa icon-time" /> 16hs </span>
+                                <span><i className="fa fa-calendar" /> 1440 NZD </span>
                             </CardContent>
                               <CardActions disableSpacing>
                                 <IconButton

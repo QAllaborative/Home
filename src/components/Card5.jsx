@@ -71,8 +71,8 @@ const useStyles = makeStyles(theme => ({
                                 A revolutionary framework for E2E Testing with minimal setup needed and robust functionalities! Ideal for Front End
                                 Developers or testers who want to code close to the devs under a NodeJS environment.
                               </Typography>
-                                <span><i className="fa icon-time" /> 8hs </span>
-                                <span><i className="fa fa-calendar" /> TBD </span>
+                                <span><i className="fa icon-time" /> 24hs </span>
+                                <span><i className="fa fa-dollar" /> 2160 NZD </span>
                                 
                             </CardContent>
                               <CardActions disableSpacing>

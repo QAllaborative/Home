@@ -71,8 +71,8 @@ const useStyles = makeStyles(theme => ({
                                 No, I'm not talking about recorders, I'm talking of the next gen of Codeless Tools such as Katalon and TestProject.
                                 Learn how to create tests cases right away without a single line of code, while keeping the option of coding for the most technical persons!
                               </Typography>
-                                <span><i className="fa icon-time" /> 8hs </span>
-                                <span><i className="fa fa-calendar" /> TBD </span>
+                                <span><i className="fa icon-time" /> 16hs </span>
+                                <span><i className="fa fa-dollar" /> 1440 NZD </span>
                             </CardContent>
                               <CardActions disableSpacing>
                                 <IconButton

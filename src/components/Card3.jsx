@@ -71,8 +71,8 @@ const useStyles = makeStyles(theme => ({
             Get into the world of API Automation with this extensive workshop covering the creation, from scratch, of a framework to automate HTTP Requests
             with Java, Rest Assured, Cucumber and Allure. Ideal for anyone who wants to add APIs to their toolbelt!
         </Typography>
-            <span><i className="fa icon-time" /> 8hs </span>
-            <span><i className="fa fa-calendar" /> TBD </span>
+            <span><i className="fa icon-time" /> 24hs </span>
+            <span><i className="fa fa-dollar" /> 2160 NZD </span>
     </CardContent>
         <CardActions disableSpacing>
             <IconButton
