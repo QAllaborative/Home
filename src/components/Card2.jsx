@@ -72,8 +72,8 @@ const useStyles = makeStyles(theme => ({
                                   Unlike most workshops, here you will get the knowledge to tackle Selenium Webdriver with a wide arrange of techniques, tools and languages
                                   to be ready to join the testing market. From starting, to mastering it, be a Selenium developer in no time!
                                 </Typography>
-                                  <span><i className="fa icon-time" /> 8hs </span>
-                                  <span><i className="fa fa-calendar" /> TBD </span>
+                                  <span><i className="fa icon-time" /> 24hs </span>
+                                  <span><i className="fa fa-dollar" /> 2160 NZD </span>
                               </CardContent>
                                 <CardActions disableSpacing>
                                   <IconButton
@@ -120,10 +120,11 @@ const useStyles = makeStyles(theme => ({
                                       Get your spot for the workshops, webinars and talks on Eventbrite!<br></br>
                                       </Typography>
                                       <Typography paragraph variant="h5"><strong>Take aways.</strong></Typography>
-                                      <Typography variant="h6">
+                                      <Typography paragraph variant="h6">
                                       You will get the knowledge not only to build UI Frameworks with Selenium, but also to understand how it works and have the
-                                      flexibility to take different approaches depending on the project's needs.
+                                      flexibility to take different approaches depending on the project's needs!
                                       </Typography>
+                                      <Typography paragraph variant="h5"><strong><a href="https://www.eventbrite.co.nz/e/the-definitive-selenium-webdriver-workshop-tickets-131810313195" target="_blank" rel="noopener noreferrer">Save a seat!</a></strong></Typography>
                                     </CardContent>
                                     </Collapse>
         </Card>

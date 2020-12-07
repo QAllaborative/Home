@@ -71,8 +71,8 @@ const useStyles = makeStyles(theme => ({
                                 The very first step in order to start your journey in Automation with the right foot. Perfect for those with no background in coding or wanting to
                                 understand deeply the programming concepts used on Test Engineering.
                               </Typography>
-                                <span><i className="fa icon-time" /> 8hs </span>
-                                <span><i className="fa fa-calendar" /> TBD </span>
+                                <span><i className="fa icon-time" /> 16hs </span>
+                                <span><i className="fa fa-dollar" /> 1440 NZD </span>
                             </CardContent>
                               <CardActions disableSpacing>
                                 <IconButton
@@ -122,6 +122,7 @@ const useStyles = makeStyles(theme => ({
                                       we start automating tests, using all the concepts from this module. If you are already familiar with them, you
                                       can skip this workshop and start right from a more advanced one!
                                     </Typography>
+                                    <Typography paragraph variant="h5"><strong><a href="https://www.eventbrite.co.nz/e/software-development-for-testers-get-ready-to-start-automation-testing-tickets-131796728563?ref=elink" target="_blank" rel="noopener noreferrer">Save a seat!</a></strong></Typography>
                                   </CardContent>
                                   </Collapse>
       </Card>
