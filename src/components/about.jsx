@@ -12,16 +12,21 @@ export default class About extends Component {
                 <div className="col-md-12">
                     <div className="about-desc">
                     <span className="heading-meta">Who am I?</span>
-                    <h2 className="colorlib-heading">Made in NZ by an imported latino!</h2>
+                    <h2 className="colorlib-heading">Creating the pool of professionals New Zealand needs!</h2>
                     <p>I'm a <strong>Senior Software Developer Engineer in Testing</strong> from Argentina living in New Zealand and loving every aspect of it! After 3 years of working in the local scene, I've decided to put my expertise and knowledge as a service to deliver the best testing solutions and enabling local testers and companies by teaching the ways of the Test Engineer!</p>
-                    <p>As a professional coach and consultant <strong>based in the beautiful city of Wellington</strong>, I offer holistic Automation and Test Engineering courses for people with no background and seasoned testers as well. As part of my consultancy work, I perform audits and enhance the Automation mahi for my clients, delivering test assets for their project's needs. </p>
+                    <p>As a professional coach and consultant <strong>based in the beautiful city of Wellington</strong>, I offer holistic Automation and Test Engineering courses for people with no background and seasoned testers as well. As part of my consultancy work, I perform audits and enhance the Automation mahi(work) for my clients, delivering test assets based on the project's needs. </p>
                     <p>Find which path of Software Testing you want to follow and grow your skills and experience with real world applications with my help. Test Analyst? Test Engineer? Performance Tester? All of them are excellent options to get into the market and start job hunting!</p>
                     <p>Be ready to apply to highly demanded positions with top notch benefits and salaries in New Zealand and the world! Want to know more about why working as a Tester is perfect for you? <strong>Check this</strong> <a href="https://www.careers.govt.nz/jobs-database/it-and-telecommunications/information-technology/test-analyst/about-the-job" target="_blank" rel="noopener noreferrer">link!</a></p>
-                    <h2 className="colorlib-heading">Creating the pool of professionals New Zealand needs!</h2>
+                    <h2 className="colorlib-heading">Invest in Automation training, for yourself or your team.</h2>
                     <p>I understand the testing market in New Zealand and have vast experience teaching previous moving from overseas. This means that, <strong>if you are looking to get the skills to get into the market</strong>, there is no better place than here to start!</p>
                     <p>My goal is to make learning Automation a <strong>fun, interactive experience</strong> for everyone and help every single student to achieve a robust, solid experience to start looking for jobs in this discipline.</p>
                     <p><strong>Our country, our timezone:</strong> From local support through one on one calls, chats, meetings with a coffee (the best option!), to live workshops across New Zealand, you'll be supporting a kiwi based initiative to help other kiwis kickoff or take their Testing career to the next level! </p>
                     <p><strong>Plenty of options to start learning:</strong> From webinars, to live workshops on the city, to on-site intensive trainings for entire Teams. <strong>There is an option for every need!</strong></p>
+                    <h2 className="colorlib-heading">Test Engineering services, no matter how small or big your project is.</h2>
+                    <p>Do you have a web/mobile application in development? <strong>Did you know you can get feedback about the state of your app faster with Automation?</strong> Ship all the goodness your customers want without delay!</p>
+                    <p>From the creation of robust and scalable frameworks for your team to use,<strong> to live dashboards with scheduled tests running right when you need them,</strong> make your Software Development Life Cycle as efficient as it can be.</p>
+                    <p>Seamlessly integrate with your development team by using Cypress with JavaScript, or get a Selenium based framework for your test team to use, my test tools stack covers all the main technologies being used professionally.</p>
+                    <p><strong>A free assessment is all I need</strong> to determine the best approach and implement the solution you need.</p>
                     </div>
                 </div>
                 </div>

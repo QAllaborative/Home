@@ -33,7 +33,7 @@ export default class Sidebar extends Component {
             </nav>
             <div className="colorlib-footer">
               <p><small>
-                  Made with <i className="icon-heart" aria-hidden="true" /> and <i className="icon-coffee" aria-hidden="true"></i><br></br>
+                  Made in NZ by an imported latino<i className="icon-heart" aria-hidden="true" /><i className="icon-coffee" aria-hidden="true"></i><br></br>
               </small></p>
             </div>
           </aside>
