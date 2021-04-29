@@ -52,7 +52,7 @@ export default class Blog extends Component {
 			</div>
 			</section>
       </div>
-	  
+	  //comment
     )
   }
 }
