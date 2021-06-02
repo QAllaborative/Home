@@ -5,6 +5,7 @@ import Introduction from './components/introduction'
 import About from './components/about'
 import Timeline from './components/timeline'
 import Cookies from './components/Cookies'
+import ContactForm from './components/ContactForm'
 
 class App extends Component {
   render() {
@@ -16,6 +17,7 @@ class App extends Component {
 					<Introduction></Introduction>
 					<About></About>
 					<Timeline></Timeline>
+          <ContactForm></ContactForm>
           <Cookies></Cookies>
           	</div>
       	</div>
