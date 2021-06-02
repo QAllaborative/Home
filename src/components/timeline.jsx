@@ -8,20 +8,31 @@ export default class Timeline extends Component {
           <div className="colorlib-narrow-content">
             <div className="row">
               <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-                <span className="heading-meta">highlights</span>
-                <h2 className="colorlib-heading animate-box">Of some of my gigs!</h2>
+                <span className="heading-meta">My background</span>
+                <h2 className="colorlib-heading animate-box">Some of my projects and responsibilities</h2>
               </div>
             </div>
             <div className="row">
               <div className="col-md-12">
                 <div className="timeline-centered">
+                <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-2">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Automation Test Lead - New Zealand <span>2021-Present</span></h2>
+                        <p>Working on Data Warehousing <strong>ETL Testing as a Test Lead on the banking industry</strong>. The focus on this project is to train teams as well as finding opportunities to enhance the current workflow from story mapping to pipeline orchestration. Tools used: SQL, Jenkins, Bitbucket, Artifactory, Groovy and Gradle.</p>
+                      </div>
+                    </div>
+                  </article>
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-3">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Automation Test Lead - New Zealand <span>2020-present</span></h2>
+                        <h2>Automation Test Lead - New Zealand <span>2020-2021</span></h2>
                         <p>Leading the Automation team and implementing new ways of working to achieve the goal of faster, more reliable test cycles <strong>within the insurance business</strong>. For this, Grafana, influxdB and JMeter were the tools I implemented in the Performance space, while moving the tests from Selenium to Cypress, adding them to the CI pipelines through Jenkins. Closely involved with the development and operations teams to boost their productivity throught the implementation of tools and practices.</p>
                       </div>
                     </div>
