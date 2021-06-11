@@ -16,31 +16,30 @@ export default class Testimonials extends Component {
                 <div>
                     <img src='images/logo.jpg' alt="cosos" />
                     <div className="myCarousel">
-                        <h3>John Ham</h3>
-                        <h4>Designer at Somewhere</h4>
+                        <h3>Jeco</h3>
+                        <h4>Senior dB Developer at BNZ</h4>
                         <p>
-                            It's freeing to be able to catch up on customized news and not be
-                            distracted by a social media element on the same site.
+                            One of the best testers I've worked with.
                         </p>
                     </div>
                 </div>
                 <div>
                     <img src="images/img-4.jpg" alt="algo" />
                     <div className="myCarousel">
-                        <h3>J R</h3>
-                        <h4>Student at Victoria University</h4>
+                        <h3>Raul Sebastian</h3>
+                        <h4>Student from Udemy</h4>
                         <p>
-                            Really good trainings and courses to get into the Testing market.
+                            Excellent! He teaches really well and you can notice he knows a lot about what he is talking about.
                         </p>
                     </div>
                 </div>
                 <div>
                     <img src="images/img-5.jpg" alt="una imagen" />
                     <div className="myCarousel">
-                        <h3>Tu vieja</h3>
-                        <h4>Designer</h4>
+                        <h3>Edwyn</h3>
+                        <h4>Test Manager at Accenture</h4>
                         <p>
-                            I have only good things to say about this project.
+                            It was a pleasure working with him. He got the "At the very top" annual review on his first project with me!
                         </p>
                     </div>
                 </div>
