@@ -5,7 +5,7 @@ import Introduction from './components/introduction'
 import About from './components/about'
 import Timeline from './components/timeline'
 import Cookies from './components/Cookies'
-import Carousel from './components/carousel'
+import Cards from './components/Cards'
 
 class App extends Component {
   render() {
@@ -17,8 +17,7 @@ class App extends Component {
 					<Introduction></Introduction>
 					<About></About>
 					<Timeline></Timeline>
-          <h2 className="colorlib-heading animate-box" align="center">Testimonials</h2>
-          <h1><Carousel></Carousel></h1>
+          <h1><Cards></Cards></h1>
           <Cookies></Cookies>
           	</div>
       	</div>
