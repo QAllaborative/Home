@@ -5,6 +5,7 @@ import "react-responsive-carousel/lib/styles/carousel.min.css";
 export default class Testimonials extends Component {
     render() {
         return (
+
             <Carousel
                 showArrows={true}
                 infiniteLoop={true}
@@ -14,32 +15,30 @@ export default class Testimonials extends Component {
                 interval={6100}
             >
                 <div>
-                    <img src='images/logo.jpg' alt="Banking testimonial" />
                     <div className="myCarousel">
                         <h3>J.J</h3>
                         <h4>Senior Oracle Developer</h4>
                         <p>
-                            One of the best testers I've worked with.
+                            When he joined the project, he was quick assessing the bottlenecks and knowledge gaps and implemented a new way of working on testing and doing automation, while training two manual testers.
+                            He also made Performance Testing much visible and better by implementing a solution with JMeter and Grafana!
                         </p>
                     </div>
                 </div>
                 <div>
-                    <img src="images/logo.jpg" alt="Udemy student" />
                     <div className="myCarousel">
                         <h3>Raul</h3>
                         <h4>Student from Udemy</h4>
                         <p>
-                            Excellent! He has the ability to explain complicated concepts in simple ways.
+                            The care he takes on each class and how easy he makes understanding complex concepts, makes him one of the Test Automation mentors I've ever had.
                         </p>
                     </div>
                 </div>
                 <div>
-                    <img src="images/logo.jpg" alt="Accenture" />
                     <div className="myCarousel">
                         <h3>Edwyn</h3>
-                        <h4>Test Manager at Accenture</h4>
+                        <h4>Automation Test Lead</h4>
                         <p>
-                            One of my top testers, which started the biggest automation project at that time in our branch.
+                            One of my top testers, which started the biggest automation project at that time in our branch. He started with just a POC when he suggested automating the regression and it became a big, multicultural team that lasted for years.
                         </p>
                     </div>
                 </div>

@@ -17,6 +17,7 @@ class App extends Component {
 					<Introduction></Introduction>
 					<About></About>
 					<Timeline></Timeline>
+          <h2 className="colorlib-heading animate-box" align="center">Testimonials</h2>
           <h1><Carousel></Carousel></h1>
           <Cookies></Cookies>
           	</div>
