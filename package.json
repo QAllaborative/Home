@@ -9,6 +9,7 @@
     "@material-ui/icons": "^4.9.1",
     "gh-pages": "^2.0.1",
     "react": "^16.8.3",
+    "react-calendly": "^2.2.1",
     "react-cookie-consent": "^6.1.0",
     "react-dom": "^16.8.3",
     "react-responsive-carousel": "^3.2.18",
