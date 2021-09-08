@@ -45,7 +45,7 @@ export default class Calendly extends Component {
                     backgroundColor: "grey"
                 }}
                 text="Let's connect!"
-                url="https://calendly.com/thefreerangetester"
+                url="https://calendly.com/qallaborative"
                 utm={{
                     utmCampaign: 'Spring Sale 2019',
                     utmContent: 'Shoe and Shirts',
