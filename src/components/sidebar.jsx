@@ -18,7 +18,7 @@ export default class Sidebar extends Component {
                 <ul>
                   <li className="active"><a href="#home" data-nav-section="home">Introduction</a></li>
                   <li><a href="#about" data-nav-section="about">About</a></li>
-                  <li><a href="#timeline" data-nav-section="timeline">Timeline</a></li>
+                  <li><a href="#timeline" data-nav-section="timeline">My background</a></li>
                 </ul>
               </div>
             </nav>
@@ -27,12 +27,11 @@ export default class Sidebar extends Component {
                 <li><a href="https://twitter.com/RangeTester" target="_blank" rel="noopener noreferrer"><i className="icon-twitter2" /></a></li>
                 <li><a href="https://www.linkedin.com/company/qallaborative" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
                 <li><a href="https://github.com/thefreerangetester" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
-                <li><a href="https://blog.testproject.io/author/thefreerangetestergmail-com/" target="_blank" rel="noopener noreferrer"><i className="icon-blogger2"></i></a></li>
               </ul>
             </nav>
             <div className="colorlib-footer">
               <p><small>
-                Made in NZ by an imported latino<i className="icon-heart" aria-hidden="true" /><i className="icon-coffee" aria-hidden="true"></i><br></br>
+                Made in NZ by an imported Argentine<i className="icon-heart" aria-hidden="true" /><i className="icon-coffee" aria-hidden="true"></i><br></br>
               </small></p>
             </div>
           </aside>
