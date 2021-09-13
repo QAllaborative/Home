@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import { PopupWidget } from "react-calendly";
 
 export default class Introduction extends Component {
   render() {
@@ -8,28 +7,28 @@ export default class Introduction extends Component {
         <section id="colorlib-hero" className="js-fullheight" data-section="home">
           <div className="flexslider js-fullheight">
             <ul className="slides">
-              <li style={{backgroundImage: 'url(images/bg_queenstown.jpg)'}}>
+              <li style={{backgroundImage: 'url(images/learn.jpg)'}}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                       <div className="slider-text-inner js-fullheight">
                         <div className="desc">
-                          <h1 style={{ color:'black', background:'rgba(237,235,111,0.5)'}}>Kia ora <br/>testers</h1>
+                          <h1 style={{ color:'black', background:'rgba(237,235,111,0.5)'}}>Learn</h1>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
               </li>
-              <li style={{backgroundImage: 'url(images/devices_bg.jpg)'}}>
+              <li style={{backgroundImage: 'url(images/welly.jpg)'}}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                       <div className="slider-text-inner">
                         <div className="desc">
-                          <h1 style={{ color:'black', background:'rgba(160,242,172,0.5)'}}>This is <br /> QAllaborative</h1>
+                          <h1 style={{ color:'black', background:'rgba(160,242,172,0.5)'}}>Upskill</h1>
                         </div>
                       </div>
                     </div>
@@ -43,7 +42,7 @@ export default class Introduction extends Component {
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                       <div className="slider-text-inner">
                         <div className="desc">
-                          <h1 style={{ color: 'black', background:'rgba(232,107,134,0.5)'}}>A kiwi based <br/>Test Engineering enabler!</h1>
+                          <h1 style={{ color: 'black', background:'rgba(232,107,134,0.5)'}}>Enhance</h1>
                         </div>
                       </div>
                     </div>
