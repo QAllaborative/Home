@@ -21,7 +21,7 @@ export default class Introduction extends Component {
                   </div>
                 </div>
               </li>
-              <li style={{backgroundImage: 'url(images/welly.jpg)'}}>
+              <li style={{backgroundImage: 'url(images/orientalbay.jpg)'}}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
@@ -35,7 +35,7 @@ export default class Introduction extends Component {
                   </div>
                 </div>
               </li>
-              <li style={{backgroundImage: 'url(images/auckland_bg.jpg)'}}>
+              <li style={{backgroundImage: 'url(images/auckland.jpg)'}}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
