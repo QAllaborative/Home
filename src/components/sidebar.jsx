@@ -9,7 +9,9 @@ export default class Sidebar extends Component {
           <nav href="#navbar" className="js-colorlib-nav-toggle colorlib-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-controls="navbar"><i /></nav>
           <aside id="colorlib-aside" className="border js-fullheight">
             <div className="text-center">
-              <div className="author-img" style={{ backgroundImage: 'url(images/QAllaborative_logo_2_png.png)' }} />
+              <div className="author-img" style={{ backgroundImage: 'url(images/QAllaborative_logo_2_png.png)',
+              width:'100%',
+              height:'200px', }} />
               <h1 id="colorlib-logo"><a href="index.html">QAllaborative</a></h1>
               <span className="email"><i className="fa fa-map-marker"> Wellington, New Zealand</i></span><br></br>
             </div>
