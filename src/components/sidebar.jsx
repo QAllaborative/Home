@@ -27,7 +27,7 @@ export default class Sidebar extends Component {
             <nav id="colorlib-main-menu">
               <ul>
                 <li><a href="https://twitter.com/RangeTester" target="_blank" rel="noopener noreferrer"><i className="icon-twitter2" /></a></li>
-                <li><a href="https://www.linkedin.com/company/qallaborative" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
+                <li><a href="https://www.linkedin.com/in/patricio-m-690b3729" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
                 <li><a href="https://github.com/thefreerangetester" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
               </ul>
             </nav>
