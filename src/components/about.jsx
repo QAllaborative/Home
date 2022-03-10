@@ -13,7 +13,7 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">Who am I?</span>
                     <h2 className="colorlib-heading">Helping you achieve your software quality goals</h2>
-                    <p>I'm a Patricio Miner <strong>Senior Software Developer Engineer in Testing</strong> from Argentina living in New Zealand and loving every aspect of it! After 5 years of working in the local scene, I've decided to put my expertise and knowledge as a service to deliver the best testing solutions for my clients by implementing and teaching QA engineering best practices.</p>
+                    <p>I'm a Patricio Miner, a <strong>Senior Software Developer Engineer in Testing</strong> from Argentina living in New Zealand and loving every aspect of it! After 5 years of working in the local scene, I've decided to put my expertise and knowledge as a service to deliver the best testing solutions for my clients by implementing and teaching QA engineering best practices.</p>
                     <p>As a professional consultant and coach <strong>based in the beautiful city of Wellington</strong>, I offer holistic Automation and Test Engineering services for projects and companies, big and small. As part of my consultancy work, I can perform audits to help enhance the Automation mahi for my clients, delivering test assets based on each particular need. </p>
                     <p>From setting the foundations of CI/CD pipelines with Jenkins or GitHub Actions, to building beautiful Grafana dashboards to show the performance of your application, I have implemented many custom solutions around the Test Engineering space and I can do the same for your team.</p>
                     <p>Why QAllaborative you might wonder? Well, <strong>I believe that QA should be the collaboration during all the stages of the SDLC and everybody's responsibility!</strong></p>
@@ -21,7 +21,7 @@ export default class About extends Component {
                     <p>Do you have a web/mobile application in development? <strong>Did you know you can get feedback about the state of your app faster with Automation?</strong> Ship all the goodness your customers want without delay!</p>
                     <p>From the creation of robust and scalable frameworks for your team to use,<strong> to live dashboards with scheduled tests running right when you need them,</strong> make your Software Development Life Cycle as efficient as it can be.</p>
                     <p>Seamlessly integrate with your development team by using Cypress with JavaScript, or get a Selenium based framework for your test team to use, my test tools stack covers all the main technologies being used professionally.</p>
-                    <p>I can assess and provide a <strong>quote</strong> to determine the best approach and implement the solution you need.</p>
+                    <p>Feel free to book a catchup with me if you think I might be a good fit for your team, project or just want to discuss about your current quality goals, using the <strong>Let's Connect</strong> button at the bottom right corner of the page, the details of the meeting will be generated automatically once you choose your preferred time and day!</p>
                     </div>
                 </div>
                 </div>
