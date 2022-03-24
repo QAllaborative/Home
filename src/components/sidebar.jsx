@@ -33,6 +33,9 @@ export default class Sidebar extends Component {
             </nav>
             <div className="colorlib-footer">
               <p><small>
+                <a href="mailto:patominer@gmail.com">E-mail</a>
+              </small></p>
+              <p><small>
                 Made in NZ by an imported Argentine<i className="icon-heart" aria-hidden="true" /><i className="icon-coffee" aria-hidden="true"></i><br></br>
               </small></p>
             </div>
