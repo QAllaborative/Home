@@ -15,13 +15,24 @@ export default class Timeline extends Component {
             <div className="row">
               <div className="col-md-12">
                 <div className="timeline-centered">
-                <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-4">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Lead Test Engineer - New Zealand <span>2022-present</span></h2>
+                        <p>Enabling a better and stronger QA throught the whole SDLC by implementing automation of processes and leading by example while <strong>mentoring and ramping up the test and dev teams</strong>. Designing better test plans with the use of Black and White Box testing techniques and automating with Cypress.io for better Azure DevOps pipelines.</p>
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-2">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Automation Test Lead - New Zealand <span>2021-Present</span></h2>
+                        <h2>Automation Test Lead - New Zealand <span>2021-2022</span></h2>
                         <p>Working on Data Warehousing <strong>ETL Testing as a Test Lead on the banking industry</strong>. The focus on this project is to train teams as well as finding opportunities to enhance the current workflow from story mapping to pipeline orchestration. Tools used: SQL, Jenkins, Bitbucket, Artifactory, Groovy and Gradle.</p>
                       </div>
                     </div>
@@ -66,7 +77,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Game Tester - Outsourcing US Testing <span>2008-2010</span></h2>
-                        <p>While I was advancing on my career as a Geologist (surprised?) I started working in testing for several <strong>AAA titles from Pandemic, EA Sports, Bioware on platforms like PC, Nintendo Wii, Playstation 3, Xbox 360 and PSP</strong>. Compliance testing and ad-hoc were the two main techniques. This was my first step towards Software Testing.</p> 
+                        <p>While I was advancing on my career as a Geologist (surprised?) I started working in testing for several <strong>AAA titles from Pandemic, EA Sports, Bioware on platforms like PC, Nintendo Wii, Playstation 3, Xbox 360 and PSP</strong>. Compliance testing and ad-hoc were the two main techniques. This was my first step towards Software Testing.</p>
                       </div>
                     </div>
                   </article>
