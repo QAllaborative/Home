@@ -27,8 +27,8 @@ export default class Sidebar extends Component {
             <nav id="colorlib-main-menu">
               <ul>
                 <li><a href="https://www.meetup.com/en-AU/software-test-engineering-mentoring-group/" target="_blank" rel="noopener noreferrer"><i className="fa fa-meetup fa-4x" /></a></li>
-                <li><a href="https://www.linkedin.com/company/qallaborative/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2 fa-3x" /></a></li>
-                <li><a href="https://discord.gg/PasqueYu2E" target="_blank" rel="noopener noreferrer"><i className="fa fa-comments fa-3x" /></a></li>
+                <li><a href="https://www.linkedin.com/company/qallaborative/" target="_blank" rel="noopener noreferrer"><i className="fa-brands fa-linkedin fa-3x" /></a></li>
+                <li><a href="https://discord.gg/PasqueYu2E" target="_blank" rel="noopener noreferrer"><i className="fa-brands fa-discord fa-3x" /></a></li>
               </ul>
             </nav>
             <div className="colorlib-footer">
