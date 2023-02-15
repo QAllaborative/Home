@@ -28,7 +28,7 @@ export default class Sidebar extends Component {
               <ul>
                 <li><a href="https://www.meetup.com/en-AU/software-test-engineering-mentoring-group/" target="_blank" rel="noopener noreferrer"><i className="fa fa-meetup fa-4x" /></a></li>
                 <li><a href="https://www.linkedin.com/company/qallaborative/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2 fa-3x" /></a></li>
-                <li><a href="https://github.com/thefreerangetester" target="_blank" rel="noopener noreferrer"><i className="icon-github fa-3x"></i></a></li>
+                <li><a href="https://discord.gg/PasqueYu2E" target="_blank" rel="noopener noreferrer"><i className="fa fa-comments fa-3x" /></a></li>
               </ul>
             </nav>
             <div className="colorlib-footer">
