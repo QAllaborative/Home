@@ -21,14 +21,14 @@ export default class Calendly extends Component {
                     alignItems: "center",
                     backgroundColor: "grey"
                 }}
-                text="Let's connect!"
+                text="Workshops"
                 url="https://calendly.com/qallaborative"
                 utm={{
-                    utmCampaign: 'Spring Sale 2019',
-                    utmContent: 'Shoe and Shirts',
+                    utmCampaign: 'Test Engineering Workshops',
+                    utmContent: 'Automation Testing',
                     utmMedium: 'Ad',
                     utmSource: 'Facebook',
-                    utmTerm: 'Spring'
+                    utmTerm: '2023'
                 }}
             />
         </div>
