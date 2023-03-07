@@ -21,7 +21,7 @@ export default class Calendly extends Component {
                     alignItems: "center",
                     backgroundColor: "grey"
                 }}
-                text="Workshops"
+                text="Get started 🚀"
                 url="https://calendly.com/qallaborative"
                 utm={{
                     utmCampaign: 'Test Engineering Workshops',

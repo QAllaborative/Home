@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/accessible-emoji */
 import React, { Component } from 'react'
 
 export default class About extends Component {
@@ -15,15 +16,15 @@ export default class About extends Component {
                                             <h2 className="colorlib-heading">Helping the new generations of Software Testers</h2>
                                             <p>I am Patricio Miner, a <strong>Software Developer Engineer in Test</strong> from Argentina, living in New Zealand and loving it! After five years of working in the local scene, I've put my expertise and knowledge as a service to deliver the best training and mentorships for local professionals looking to up or re-skill to find <a href="https://www.careers.govt.nz/jobs-database/it-and-telecommunications/information-technology/test-analyst/">better opportunities in a great market.</a></p>
                                             <p>As a professional consultant and coach based in the beautiful city of Wellington, I offer holistic 🤖 <strong>Automation and Test Engineering</strong> mentoring through workshops, webinars and private classes to groups and anyone, new or seasoned professionals, interested in testing. I have vast experience teaching the most demanded tools in the market and the best practices and processes any good tester should be familiar with.</p>
-                                            <p>I've been 🧑🏻‍💻 mentoring the Spanish-speaking community for the last five years through courses, webinars, and thousands of students and companies using my training for their teams through Udemy Business have either found their first job in IT or better positions. <strong>Now it is time for our community in New Zealand to shine</strong> and generate the pool of professionals the market demands!</p>
+                                            <p>I've been 🧑🏻‍💻 mentoring the Spanish-speaking community worldwide for the past five years through courses, webinars, other platforms. <strong>Thousands of students and companies have utilized my training programs</strong> for their teams, resulting in many individuals finding their first IT job or advancing to better positions.</p>
                                             <p>From building automation frameworks from scratch with Selenium and Cucumber to API Automation, E2E Automation with Cypress and Playwright to setting CI/CD pipelines with Jenkins, Azure DevOps or GitHub Actions, and I can teach you how to do it 🔎</p>
                                             <p><strong>Completely new to Testing?</strong> Don't worry, I can teach you the skills, processes and techniques you need to do an awesome job as a tester! From Black and White Box techniques, to API exploration and analysis of requirements, there is plenty to learn before diving into automation.</p>
-                                            <p><strong>Why the name QAllaborative</strong>, you might wonder? Well, I believe that QA should be the collaboration during all the stages of the <strong>Software Development Life Cycle</strong> and everybody's responsibility, something I strongly emphasize during my mentorship and a mindset you will adopt as a student!</p>
-                                            <span className="heading-meta">Where can you start learning?</span>
-                                            <h2 className="colorlib-heading">Here are a couple of options to start your journey:</h2>
-                                            <p>📍 You can start by arranging a catchup with me to see where you are at with your testing skills (don't be afraid if you are new to testing!). Feel free to schedule a session by using the <strong>Let's connect</strong> button</p>
-                                            <p>📍 If you want to come and join a group of friendly people talking and learning about testing, feel free to check our <strong>Meetup group</strong> by clicking on the side panel, where you can find the <strong>Meetup icon</strong></p>
-                                            <p>📍 You may already know what tool you want to learn. <strong>Or you may be in a role that requires you to understand a particular technology</strong> 🚀. Let's discuss my private classes so you can nail it at your job!</p>
+                                            <p>Now, it is time for our global community to shine and <strong>develop the pool of professionals the market requires!</strong></p>
+                                            <span className="heading-meta">A great industry in need of professionals</span>
+                                            <h2 className="colorlib-heading">Some reasons why you should be learning testing and automation:</h2>
+                                            <p>📊 Automation testing is in <strong>high demand in the tech industry</strong> as it helps companies to save time and money while ensuring high-quality products. This means that learning automation testing skills can <strong>increase your employability and job prospects</strong>.</p>
+                                            <p>🤖 Automation testing helps to identify defects and errors early in the software development cycle, which results in <strong>faster delivery of products to market</strong>. This skill is highly valued in the industry as it helps organizations to <strong>stay competitive</strong> and meet customer demands.</p>
+                                            <p>🧑🏻‍💻 Learning automation testing also helps you to develop <strong>critical thinking skills, problem-solving abilities, and attention to detail</strong>, which are valuable assets in any technology-related career. It can also provide you with a better understanding of software development processes and methodologies, which can <strong>enhance your overall technical knowledge</strong>.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -47,7 +48,7 @@ export default class About extends Component {
                                     </span>
                                     <div className="desc" data-animate-effect="fadeInLeft">
                                         <h3>Introduction to Software Testing</h3>
-                                        <p>A great Test Engineer is, first of all, <strong>a great Tester</strong>. To become one, you need analytical, technical and communication skills. Also, you will need techniques, tools and processes.</p>
+                                        <p>A great Test Engineer is, first of all, <strong>a great Tester</strong>. To become one, you need analytical, technical and communication skills. Also, you will need techniques, tools and processes to be able to communicate the state of the system.</p>
                                         <p>This training will give you the knowledge and practical experience you need to start working as a Test Analyst, following the best practices and techniques 🔎🐞.</p>
                                     </div>
                                 </div>
@@ -59,7 +60,7 @@ export default class About extends Component {
                                     </span>
                                     <div className="desc" data-animate-effect="fadeInTop">
                                         <h3>Software Programming for Testers</h3>
-                                        <p>The best place to start your journey with Automation is to understand the fundamentals of programming and working with repositories. Get the skills to thing creatively when automating</p>
+                                        <p>The best place to start your journey with Automation is to understand the fundamentals of programming and working with repositories. Get the skills to thing creatively when doing automation work.</p>
                                         <p>This training will teach you the pillars of OOP, SOLID principles and how they are used in Engineering, as well as GIT and working with repositories.</p>
                                     </div>
                                 </div>

@@ -14,7 +14,7 @@ export default class Introduction extends Component {
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                       <div className="slider-text-inner js-fullheight">
                         <div className="desc">
-                          <h1 style={{ color:'black', background:'rgba(237,235,111,0.5)'}}>QA Trainings in New Zealand and Australia</h1>
+                          <h1 style={{ color:'black', background:'rgba(237,235,111,0.5)'}}>A community for QA Training</h1>
                         </div>
                       </div>
                     </div>
@@ -28,7 +28,7 @@ export default class Introduction extends Component {
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                       <div className="slider-text-inner">
                         <div className="desc">
-                          <h1 style={{ color:'black', background:'rgba(160,242,172,0.5)'}}>Test Automation Courses and Meetups</h1>
+                          <h1 style={{ color:'black', background:'rgba(160,242,172,0.5)'}}>Test Automation Webinars and Meetups</h1>
                         </div>
                       </div>
                     </div>
