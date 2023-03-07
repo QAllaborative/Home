@@ -2,7 +2,7 @@ name: Build and Deploy
 on:
   push:
     branches:
-      - main # Replace 'main' with the name of your branch
+      - main
 
 jobs:
   build-and-deploy:
@@ -10,23 +10,23 @@ jobs:
 
     steps:
       - name: Checkout 🛎️
-        uses: actions/checkout@v2 # Use v2 instead of v3 if you need to set persist-credentials to false.
-      
+        uses: actions/checkout@v2
+
       - name: Install Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: '16.x' # Use a version of Node.js that is compatible with your project.
-      
+          node-version: '16.x'
+
       - name: Install Dependencies 🔧
-        run: npm install # Replace with the command to install your project's dependencies.
-      
+        run: npm install
+
       - name: Build Project 🔨
-        run: npm run build # Replace with the command to build your project.
-      
+        run: npm run build
+
       - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@4.1.0 # Use the latest version of the action.
+        uses: JamesIves/github-pages-deploy-action@4.1.0
         with:
-          access-token: ${{ secrets.ACCESS_TOKEN }} # Replace with your personal access token.
-          branch: gh-pages # Replace with the name of the branch you want to deploy to.
-          folder: build # Replace with the name of the folder you want to deploy.
-          clean: true # Automatically remove deleted files from the deploy branch.
+          access-token: ${{ secrets.ACCESS_TOKEN }}
+          branch: gh-pages
+          folder: build
+          clean: true
