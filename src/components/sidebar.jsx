@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/accessible-emoji */
 /* eslint-disable jsx-a11y/iframe-has-title */
 import React, { Component } from 'react'
 
