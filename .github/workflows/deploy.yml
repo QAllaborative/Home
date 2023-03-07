@@ -2,9 +2,6 @@ name: Build and Deploy
 on: [push]
 jobs:
   build-and-deploy:
-    runs: 
-      using: 'node16'
-      main: 'main.js'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
