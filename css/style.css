@@ -1429,3 +1429,17 @@ body.offcanvas {
 
 .js .animate-box {
   opacity: 0; }
+
+.contenedor {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.imagen {
+  margin-left: auto;
+}
+
+.texto {
+  margin-right: auto;
+}
