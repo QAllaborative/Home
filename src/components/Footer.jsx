@@ -4,7 +4,7 @@ import React from 'react';
 const Footer = () => {
     return (
         <footer>
-            <section className="colorlib-about" data-section="about">
+            <section className="colorlib-about" data-section="footer">
                 <div className="colorlib-narrow-content">
                     <div className="row">
                         <div className="col-md-12">

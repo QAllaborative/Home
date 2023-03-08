@@ -22,6 +22,7 @@ export default class Sidebar extends Component {
                   <li className="active"><a href="#home" data-nav-section="home">Introduction</a></li>
                   <li><a href="#about" data-nav-section="about">About</a></li>
                   <li><a href="#timeline" data-nav-section="timeline">Background</a></li>
+                  <li><a href="#footer" data-nav-section="footer">Why us?</a></li>
                 </ul>
               </div>
             </nav>
@@ -33,9 +34,6 @@ export default class Sidebar extends Component {
               </ul>
             </nav>
             <div className="colorlib-footer">
-              <p><small>
-                <a href="mailto:patominer@gmail.com">E-mail</a>
-              </small></p>
               <p><small>
                 Made in 🇳🇿 by an imported 🇦🇷<br></br>
               </small></p>
