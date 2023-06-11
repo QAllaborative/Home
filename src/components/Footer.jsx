@@ -35,7 +35,7 @@ const Footer = () => {
                     <div className="col-md-6">
                         <h3 className="useful-links-title"> Useful Links</h3>
                         <ul>
-                            <li><a href="mailto:patominer@gmail.com">E-Mail</a></li>
+                            <li><a href="mailto:patricio.miner@qallaborative.co.nz">E-Mail</a></li>
                             <li><a href="https://www.linkedin.com/newsletters/qa-learning-hub-7038625263630356482/">Newsletter</a></li>
                             <li><a href="https://www.freerangetesters.com">Free Range Testers - Spanish</a></li>
                         </ul>

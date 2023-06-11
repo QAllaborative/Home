@@ -19,6 +19,42 @@
   color: white;
 }
 
+.workshops-container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.workshops-intro {
+  margin-bottom: 2rem;
+}
+
+.workshops-row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 2rem;
+}
+
+.workshops-column {
+  flex: 1;
+  min-width: 300px;
+  padding: 0 1rem;
+  box-sizing: border-box;
+}
+
+.workshops-column img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+@media (max-width: 768px) {
+  .workshops-column {
+    padding: 0;
+    margin-bottom: 1rem;
+  }
+}
+
 .useful-links-title li {
   font-size: 24px;
   display: flex;
@@ -132,7 +168,7 @@
 
 .social-media-icons a {
   margin-right: 10px;
-  
+
 }
 
 .footer {
@@ -161,6 +197,7 @@
   .carousel.carousel-slider .control-arrow {
     display: none !important;
   }
+
   .myCarousel {
     background: #fafafa;
     margin-top: -9%;
@@ -179,47 +216,49 @@
     width: 24% !important;
     border-radius: 50%;
   }
-    .footer-right {
-      text-align: right;
-      margin-top: 5%;
-      padding-right: 5%;
-      width: 100%;
-    }
-  
-    .footer-right h3 {
-      color: white;
-      font-weight: 600;
-      font-size: 17px;
-      text-transform: uppercase;
-      margin-bottom: 10px;
-    }
-  
-    .footer-right ul {
-      list-style-type: none;
-      margin: 0;
-      padding: 0;
-    }
-  
-    .footer-right li {
-      margin-bottom: 5px;
-    }
 
-  
-    .footer-right a {
-      color: white;
-      text-decoration: none;
-      font-size: 15px;
-    }
-  
-    .footer-right a:hover {
-      text-decoration: underline;
-    }
+  .footer-right {
+    text-align: right;
+    margin-top: 5%;
+    padding-right: 5%;
+    width: 100%;
+  }
+
+  .footer-right h3 {
+    color: white;
+    font-weight: 600;
+    font-size: 17px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+  }
+
+  .footer-right ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .footer-right li {
+    margin-bottom: 5px;
+  }
+
+
+  .footer-right a {
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+  }
+
+  .footer-right a:hover {
+    text-decoration: underline;
+  }
 }
 
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
