@@ -73,7 +73,7 @@ export default class Sidebar extends Component {
             </nav>
             <div className="colorlib-footer">
               <p><small>
-                Made in 🇳🇿 by an imported 🇦🇷<br></br>
+                Made in <span role="img" aria-label="New Zealand">🇳🇿</span> by an imported <span role="img" aria-label="Argentina">🇦🇷</span><br></br>
               </small></p>
             </div>
           </aside>
