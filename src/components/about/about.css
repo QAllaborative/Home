@@ -1,0 +1,99 @@
+.colorlib-narrow-content {
+    margin: 0 auto;
+    width: 80%;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.row .col-md-12 {
+    width: 100%;
+}
+
+.about-desc {
+    font-weight: normal;
+    /* Establece el texto normal por defecto para todo dentro de .desc */
+    padding: 2em;
+    border: 1px solid #e6e6e6;
+    margin: 1em 0;
+    background: #f9f9f9;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    color: #333;
+    /* Color de texto predeterminado */
+}
+
+.about-desc strong {
+    font-weight: bold;
+    /* Solo el texto dentro de <strong> será en negrita */
+    color: #242121;
+    /* Opcional: Cambia el color para hacerlo destacar aún más */
+}
+
+
+.heading-meta {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 0.9em;
+    color: #05406f;
+    margin-bottom: 20px;
+}
+
+.services {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.services .icon {
+    margin-bottom: 20px;
+}
+
+
+/* Estilos para igualar la altura de las cajas .desc */
+.row .col-md-4 {
+    display: flex;
+    margin-bottom: 30px;
+    /* Espacio entre las cajas */
+}
+
+.row .col-md-4 .services {
+    flex-direction: column;
+    display: flex;
+    height: 100%;
+}
+
+.row .col-md-4 .services .desc {
+    flex: 1;
+}
+
+/* Asegúrate de que todas las cajas .desc sean del mismo tamaño */
+.row .col-md-4 .services .desc {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Sección de habilidades */
+.services.color-1,
+.services.color-2,
+.services.color-3,
+.services.color-4,
+.services.color-5,
+.services.color-6 {
+    border: 1px solid #e6e6e6;
+    background: #f9f9f9;
+}
+
+/* Media queries para responsividad */
+@media (max-width: 768px) {
+    .colorlib-narrow-content {
+        width: 95%;
+    }
+
+    .row .col-md-12,
+    .row .col-md-4 {
+        width: 100%;
+    }
+}

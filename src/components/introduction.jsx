@@ -7,42 +7,42 @@ export default class Introduction extends Component {
         <section id="colorlib-hero" className="js-fullheight" data-section="home">
           <div className="flexslider js-fullheight">
             <ul className="slides">
-              <li style={{backgroundImage: 'url(images/learn.jpg)'}}>
+              <li style={{ backgroundImage: 'url(images/learn.jpg)' }}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                       <div className="slider-text-inner js-fullheight">
                         <div className="desc">
-                          <h1 style={{ color:'black', background:'rgba(237,235,111,0.5)'}}>A community for QA Training</h1>
+                          <h1 style={{ color: 'black', background: 'rgba(237,235,111,0.5)' }}>Hi! I'm Patricio Miner</h1>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
               </li>
-              <li style={{backgroundImage: 'url(images/orientalbay.jpg)'}}>
+              <li style={{ backgroundImage: 'url(images/orientalbay.jpg)' }}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                       <div className="slider-text-inner">
                         <div className="desc">
-                          <h1 style={{ color:'black', background:'rgba(160,242,172,0.5)'}}>Test Automation Webinars and Meetups</h1>
+                          <h1 style={{ color: 'black', background: 'rgba(160,242,172,0.5)' }}>I am a Quality Driven Test Engineer</h1>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
               </li>
-              <li style={{backgroundImage: 'url(images/auckland.jpg)'}}>
+              <li style={{ backgroundImage: 'url(images/auckland.jpg)' }}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                       <div className="slider-text-inner">
                         <div className="desc">
-                          <h1 style={{ color: 'black', background:'rgba(232,107,134,0.5)'}}>Test Engineering Workshops for your Company</h1>
+                          <h1 style={{ color: 'black', background: 'rgba(232,107,134,0.5)' }}>And hands-on, mentoring focused Test Lead</h1>
                         </div>
                       </div>
                     </div>

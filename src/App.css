@@ -19,35 +19,6 @@
   color: white;
 }
 
-.workshops-container {
-  max-width: 960px;
-  margin: 0 auto;
-  padding: 1rem;
-}
-
-.workshops-intro {
-  margin-bottom: 2rem;
-}
-
-.workshops-row {
-  display: flex;
-  flex-wrap: wrap;
-  margin-bottom: 2rem;
-}
-
-.workshops-column {
-  flex: 1;
-  min-width: 300px;
-  padding: 0 1rem;
-  box-sizing: border-box;
-}
-
-.workshops-column img {
-  width: 100%;
-  height: auto;
-  border-radius: 5px;
-}
-
 @media (max-width: 768px) {
   .workshops-column {
     padding: 0;
@@ -163,7 +134,14 @@
 }
 
 .services {
+  display: flex;
+  flex-direction: column;
   height: 100%;
+}
+
+.desc {
+  overflow-y: auto;
+  /* Permite el desplazamiento vertical si es necesario */
 }
 
 .social-media-icons a {
@@ -236,6 +214,13 @@
     list-style-type: none;
     margin: 0;
     padding: 0;
+  }
+
+  #colorlib-logo,
+  .location {
+    font-family: 'Roboto Bold', sans-serif;
+    font-weight: 700;
+    /* 700 corresponde al peso de la fuente Roboto Bold */
   }
 
   .footer-right li {

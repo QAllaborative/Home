@@ -1,6 +1,6 @@
 /* eslint-disable jsx-a11y/accessible-emoji */
 import React, { Component } from 'react';
-import { Link } from 'react-router-dom';
+import './sidebar.css';
 
 export default class Sidebar extends Component {
   handleClick = (e) => {
@@ -29,8 +29,8 @@ export default class Sidebar extends Component {
                 width: '100%',
                 height: '200px'
               }} />
-              <h1 id="colorlib-logo"><Link to="/">QAllaborative</Link></h1>
-              <span className="email"><i className="fa fa-map-marker"> Wellington, New Zealand</i></span><br></br>
+              <h1 id="colorlib-logo"><a href="#home">Pato Miner</a></h1>
+              <span className="location"><i className="fa fa-map-marker"> Wellington, New Zealand</i></span><br></br>
             </div>
             <nav id="colorlib-main-menu" role="navigation" className="navbar">
               <div id="navbar" className="collapse">
@@ -50,25 +50,13 @@ export default class Sidebar extends Component {
                       Background
                     </a>
                   </li>
-                  <li onClick={this.handleClick}>
-                    <a href="#footer" data-nav-section="footer">
-                      Why us?
-                    </a>
-                  </li>
-                  <li>
-                    <Link to="/workshops" onClick={this.handleLinkClick}>
-                      Workshops
-                    </Link>
-                  </li>
-
                 </ul>
               </div>
             </nav>
             <nav id="colorlib-main-menu">
               <ul>
-                <li><a href="https://www.meetup.com/en-AU/software-test-engineering-mentoring-group/" target="_blank" rel="noopener noreferrer"><i className="fa fa-meetup fa-4x" /></a></li>
-                <li><a href="https://www.linkedin.com/company/qallaborative/" target="_blank" rel="noopener noreferrer"><i className="fa-brands fa-linkedin fa-3x" /></a></li>
-                <li><a href="https://discord.gg/PasqueYu2E" target="_blank" rel="noopener noreferrer"><i className="fa-brands fa-discord fa-3x" /></a></li>
+                <li><a href="https://github.com/TheFreeRangeTester/" target="_blank" rel="noopener noreferrer"><i className="fa fa-github fa-4x" /></a></li>
+                <li><a href="https://www.linkedin.com/in/patricio-m-690b3729/" target="_blank" rel="noopener noreferrer"><i className="fa-brands fa-linkedin fa-3x" /></a></li>
               </ul>
             </nav>
             <div className="colorlib-footer">
