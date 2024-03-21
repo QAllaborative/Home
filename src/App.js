@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import Sidebar from './components/sidebar/sidebar'
 import Introduction from './components/introduction'
-import Timeline from './components/timeline'
+import Timeline from './components/timeline/timeline'
 import Cookies from './components/Cookies'
 import Calendly from './components/calendly'
 import About from './components/about/about'

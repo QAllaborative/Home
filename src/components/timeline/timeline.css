@@ -1,0 +1,85 @@
+/* timeline.css */
+.colorlib-narrow-content {
+    max-width: 80%;
+    margin: 0 auto;
+    padding: 2em 0;
+}
+
+.heading-meta {
+    color: #007bff;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 0.9em;
+    margin-bottom: 20px;
+}
+
+.colorlib-heading {
+    margin-bottom: 30px;
+    font-size: 2.5em;
+    line-height: 1.4;
+    font-weight: 700;
+}
+
+.timeline-centered {
+    position: relative;
+    margin-bottom: 3em;
+}
+
+.timeline-entry {
+    position: relative;
+    width: 100%;
+    margin-bottom: 2em;
+}
+
+.timeline-entry-inner {
+    position: relative;
+    margin-left: 3em;
+    padding: 20px;
+    background: #f9f9f9;
+    border-radius: 4px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+}
+
+.timeline-icon {
+    position: absolute;
+    left: -2.5em;
+    top: 0;
+    background: #054282;
+    color: #fff;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 50px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+}
+
+.timeline-label h2 {
+    font-weight: 700;
+    margin-bottom: 15px;
+    font-size: 1.5em;
+    line-height: 1.2;
+}
+
+.timeline-label p {
+    margin-bottom: 0;
+    line-height: 1.6;
+}
+
+.timeline-label span {
+    font-weight: 700;
+    color: #010418;
+}
+
+/* Responsiveness */
+@media (max-width: 768px) {
+    .timeline-entry-inner {
+        margin-left: 0;
+    }
+
+    .timeline-icon {
+        left: 0;
+        margin-bottom: -25px;
+        margin-left: 0;
+    }
+}
