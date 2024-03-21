@@ -1,13 +1,13 @@
 {
-  "main.css": "/workwithpato/static/css/main.586da2af.chunk.css",
-  "main.js": "/workwithpato/static/js/main.3cd6cf3b.chunk.js",
-  "main.js.map": "/workwithpato/static/js/main.3cd6cf3b.chunk.js.map",
+  "main.css": "/workwithpato/static/css/main.1de7b611.chunk.css",
+  "main.js": "/workwithpato/static/js/main.d40c0166.chunk.js",
+  "main.js.map": "/workwithpato/static/js/main.d40c0166.chunk.js.map",
   "runtime~main.js": "/workwithpato/static/js/runtime~main.3927ae95.js",
   "runtime~main.js.map": "/workwithpato/static/js/runtime~main.3927ae95.js.map",
   "static/js/2.d7775f18.chunk.js": "/workwithpato/static/js/2.d7775f18.chunk.js",
   "static/js/2.d7775f18.chunk.js.map": "/workwithpato/static/js/2.d7775f18.chunk.js.map",
   "index.html": "/workwithpato/index.html",
-  "precache-manifest.d0d9830cb4f618b71543a79bf54f4e6e.js": "/workwithpato/precache-manifest.d0d9830cb4f618b71543a79bf54f4e6e.js",
+  "precache-manifest.df4d27b921c5de69764bcaf66b1bb371.js": "/workwithpato/precache-manifest.df4d27b921c5de69764bcaf66b1bb371.js",
   "service-worker.js": "/workwithpato/service-worker.js",
-  "static/css/main.586da2af.chunk.css.map": "/workwithpato/static/css/main.586da2af.chunk.css.map"
+  "static/css/main.1de7b611.chunk.css.map": "/workwithpato/static/css/main.1de7b611.chunk.css.map"
 }

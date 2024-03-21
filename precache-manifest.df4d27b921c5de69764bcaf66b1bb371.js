@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "3eca353ce0ded83389ed",
-    "url": "/workwithpato/static/css/main.586da2af.chunk.css"
+    "revision": "98a9ccd0bb5c026e5ad4",
+    "url": "/workwithpato/static/css/main.1de7b611.chunk.css"
   },
   {
-    "revision": "3eca353ce0ded83389ed",
-    "url": "/workwithpato/static/js/main.3cd6cf3b.chunk.js"
+    "revision": "98a9ccd0bb5c026e5ad4",
+    "url": "/workwithpato/static/js/main.d40c0166.chunk.js"
   },
   {
     "revision": "d6fff4ca4c2d0372857e",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/workwithpato/static/js/2.d7775f18.chunk.js"
   },
   {
-    "revision": "8e9e308e54efbcfd8c5f6a933dd71ce5",
+    "revision": "379ddf6a108e33964fb3769342aa706d",
     "url": "/workwithpato/index.html"
   }
 ];
