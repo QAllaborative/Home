@@ -18,7 +18,6 @@ class App extends Component {
             <About></About>
             <Timeline></Timeline>
             <Calendly></Calendly>
-            <Cookies></Cookies>
           </div>
         </div>
       </div>
