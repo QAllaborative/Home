@@ -1,23 +1,26 @@
 {
-"name": "QAllaborative",
+	"name": "workwithpato",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://QAllaborative.github.io/Home",
+	"homepage": "https://qallaborative.github.io/workwithpato/",
 	"dependencies": {
 		"gh-pages": "^2.0.1",
 		"react": "^16.8.3",
 		"react-dom": "^16.8.3",
 		"react-scripts": "2.1.5",
-		"yarn": "^1.13.0"},
+		"yarn": "^1.13.0"
+	},
 	"scripts": {
 		"start": "react-scripts start",
 		"build": "react-scripts build",
 		"predeploy": "yarn run build",
 		"deploy": "gh-pages -d build",
 		"test": "react-scripts test",
-		"eject": "react-scripts eject"},
+		"eject": "react-scripts eject"
+	},
 	"eslintConfig": {
-		"extends": "react-app"},
+		"extends": "react-app"
+	},
 	"browserslist": [
 		">0.2%",
 		"not dead",
