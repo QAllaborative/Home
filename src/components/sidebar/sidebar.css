@@ -1,180 +1,73 @@
-/* sidebar.css */
-#colorlib-aside {
-    background: #f8f9fa;
-    /* Un fondo claro */
-    color: #333;
-    /* Texto más oscuro para mayor legibilidad */
-    padding: 20px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    /* Sombra sutil */
-}
-
-#colorlib-aside .text-center {
-    padding: 15px 0;
-    /* Espaciado superior e inferior */
-}
-
-.author-img {
-    margin-bottom: 20px;
-    /* Espacio debajo de la imagen */
-    border-radius: 50%;
-    /* Hace la imagen circular si es cuadrada */
-    overflow: hidden;
-    /* Asegura que las esquinas se corten */
-}
-
-#colorlib-logo a {
-    font-family: 'Roboto', sans-serif;
-    color: #333;
-    text-decoration: none;
-    /* Sin subrayado */
-    display: block;
-    /* Bloque para margen inferior */
-    margin-bottom: 20px;
-    /* Espaciado debajo del título */
-    font-size: 1.5em;
-    /* Más grande */
-}
-
-.location {
-    font-family: 'Roboto', sans-serif;
-    font-size: 1em;
-    color: #666;
-    margin-bottom: 30px;
-    /* Espaciado debajo de la ubicación */
-    font-size: 1em;
-}
-
-#colorlib-main-menu .collapse {
-    margin-top: 20px;
-    /* Espacio arriba del menú */
-}
-
-#colorlib-main-menu ul {
-    list-style: none;
-    /* Elimina viñetas */
-    padding: 0;
-    margin: 0;
-    /* Sin margen para alinear con el borde */
-}
-
-#colorlib-main-menu ul li {
-    margin-bottom: 10px;
-    /* Espacio entre elementos de lista */
-}
-
-#colorlib-main-menu ul li a {
-    color: #333;
-    text-decoration: none;
-    /* Sin subrayado */
-    transition: color 0.3s ease;
-    /* Transición suave para el color */
-}
-
-#colorlib-main-menu ul li a:hover {
-    color: #007bff;
-    /* Color cuando el mouse pasa por encima */
-}
-
-#colorlib-main-menu ul li.active a {
-    color: #007bff;
-    /* Color para la sección actual */
-    font-weight: bold;
-    /* Más peso para la sección actual */
-}
-
-.navbar {
-    font-family: 'Roboto', sans-serif;
-    /* Asegúrate de que Roboto esté importado en tu proyecto */
-    background-color: transparent;
-    /* Fondo transparente para la barra de navegación */
-    font-size: 1.1em;
-}
-
-.navbar .navbar-collapse {
-    max-height: 340px;
-    /* Altura máxima para permitir el desbordamiento de scroll si hay muchos elementos */
-    overflow-y: auto;
-    /* Permite el desplazamiento vertical */
-}
-
-#colorlib-main-menu ul {
-    padding-left: 0;
-    /* Alinea con el borde izquierdo */
-}
-
-#colorlib-main-menu ul li a {
-    padding: 4px 0;
-    /* Reduce el espaciado superior e inferior para cada enlace */
-    display: block;
-    /* Hace que el enlace llene el espacio del LI para un área de clic más grande */
-    font-weight: 500;
-    /* Peso de fuente para los enlaces */
-    font-size: 1.5em;
-    /* Tamaño de fuente estándar para mejor legibilidad */
-}
-
-#colorlib-main-menu ul li a:hover,
-#colorlib-main-menu ul li a:focus {
-    background-color: #f2f2f2;
-    /* Fondo sutil al pasar el mouse o enfocar */
-    border-radius: 5px;
-    /* Bordes redondeados para el fondo */
-}
-
-.colorlib-footer {
-    text-align: center;
-    /* Centra el texto del footer */
-    padding-top: 20px;
-    /* Espaciado antes del contenido del footer */
-    font-size: 0.85em;
-    /* Tamaño de fuente más pequeño para el footer */
-}
-
-.colorlib-footer p {
-    margin-bottom: 0;
-    /* Elimina margen inferior para evitar espacios extra */
-}
-
-.colorlib-footer small {
-    color: #aaa;
-    /* Color más claro para el texto pequeño */
+:root {
+    --icon-font-size: 6rem;
+    --icon-color: #333;
+    --icon-hover-color: #007bff;
+    --icon-margin: 15px;
 }
 
 .social-media-icons {
-    font-size: 3em;
-    margin-top: 15px;
-    /* Espacio encima de los iconos de redes sociales */
+    font-size: var(--icon-font-size);
+    margin-top: var(--icon-margin);
     display: flex;
     justify-content: center;
-    /* Centra los iconos de redes sociales */
 }
 
 #colorlib-main-menu .fa-github,
 #colorlib-main-menu .fa-linkedin {
-    font-size: 3em !important;
-    /* Aumenta la especificidad y fuerza la aplicación del estilo */
+    font-size: var(--icon-font-size) !important;
+}
+
+.location {
+    font-family: 'Roboto', sans-serif;
+    padding-bottom: 20px;
+    /* Ajusta este valor según el espacio deseado */
+}
+
+.location-icon {
+    margin-bottom: 40px;
+    /* Ajusta este valor según necesites */
 }
 
 .social-media-icons a {
     margin: 0 10px;
-    /* Espacio entre los iconos */
-    color: #333;
-    /* Color de los iconos */
+    color: var(--icon-color);
 }
 
 .social-media-icons a:hover {
-    color: #007bff;
-    /* Cambia el color al pasar el mouse */
+    color: var(--icon-hover-color);
 }
 
-/* Estilos específicos para los íconos de redes sociales */
-.fa-github {
-    font-size: 2em;
-    /* Tamaño de fuente para github */
-}
+@media screen and (max-width: 600px) {
+    :root {
+        font-family: 'Roboto', sans-serif;
+        --icon-font-size: 6rem;
+    }
 
-.fa-linkedin {
-    font-size: 2em;
-    /* Tamaño de fuente para linkedin */
+    /* Aumentar el tamaño del texto para la clase .location */
+    .location {
+        font-family: 'Roboto', sans-serif;
+        font-size: 2rem;
+        /* Ajusta este valor según necesites */
+    }
+
+    /* Aumentar el tamaño del texto para la clase .collapse */
+    .collapse {
+        font-family: 'Roboto', sans-serif;
+        font-size: 4rem;
+        /* Ajusta este valor según necesites */
+    }
+
+    /* Aumentar el tamaño del texto para los enlaces dentro de .collapse */
+    .collapse ul li a {
+        font-family: 'Roboto', sans-serif;
+        font-size: 2rem;
+        /* Nuevo valor para aumentar el tamaño del texto de los enlaces */
+    }
+
+    /* Aumentar el tamaño del texto para los enlaces dentro de .social-media-icons */
+    .social-media-icons a {
+        font-family: 'Roboto', sans-serif;
+        font-size: 1.2rem;
+        /* Ajusta este valor según necesites */
+    }
 }
